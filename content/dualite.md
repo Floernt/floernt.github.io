@@ -16,13 +16,16 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
-[Asking LLM for help is fine]({{relref "post/asking llm.md")
+[Sur la confidentialité et les outils des juristes]({{<relref "post/confidentialite et outils pour juristes.md" >}})
 
-[L’ia n’est pas une caractéristique produit]({{relref "post/ia pas une caracteristique.md")
 
-[L'autonomie numérique pour résister]({{<relref "post/autonomie numerique.md">}})  
+[Asking LLM for help is fine]({{<relref "post/asking-llm.md">}})
 
-[Sur la décérébration des masses]({{<relref "post/decerebration des masses.md">}})  
+[L’ia n’est pas une caractéristique produit]({{<relref "post/ia-pas-une-caracteristique.md">}})
+
+[L'autonomie numérique pour résister]({{<relref "post/autonomie-numerique.md">}})  
+
+[Sur la décérébration des masses]({{<relref "post/decerebration-des-masses.md">}})  
 
 [Eat local tech]({{<relref "post/eatlocaltech.md">}})  
 
