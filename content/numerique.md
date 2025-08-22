@@ -26,6 +26,14 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 ## Quelques livres
 (classé par ordre de lecture (du plus récent au plus ancien))
 
+[Jürgen Habermas - La technique et la science comme idéologie](https://www.gallimard.fr/catalogue/la-technique-et-la-science-comme-ideologie/9782070719426)
+
+[Guiliano Da Empoli - Les mages du Kremlin](https://www.folio-lesite.fr/catalogue/le-mage-du-kremlin/9782073003911)
+
+[Alain Damasio - Vallée du Sillicium](https://www.seuil.com/ouvrage/vallee-du-silicium-alain-damasio/9782021558746)
+
+[Guiliano Da Empoli - Les ingénieurs du Chaos](https://www.gallimard.fr/catalogue/les-ingenieurs-du-chaos/9782073019240) 
+
 [Mathieu Corteel - Ni dieu ni IA](https://www.editionsladecouverte.fr/ni_dieu_ni_ia-9782348084614)
 
 [Matteo Pasquinelli - The Eye of the Master](https://www.penguinrandomhouse.com/books/733967/the-eye-of-the-master-by-matteo-pasquinelli/)
