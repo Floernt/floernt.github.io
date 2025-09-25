@@ -26,6 +26,10 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 ## Quelques livres
 (classé par ordre de lecture (du plus récent au plus ancien))
 
+[Richard Susskind - How To Think About AI. A Guide For The Perplexed](https://academic.oup.com/book/59718?)
+
+[Juan Sebastian Carbonell - Un taylorisme augmenté  critique de l'intelligence artificielle](https://www.editionsamsterdam.fr/un-taylorisme-augmente/)
+
 [Jürgen Habermas - La technique et la science comme idéologie](https://www.gallimard.fr/catalogue/la-technique-et-la-science-comme-ideologie/9782070719426)
 
 [Guiliano Da Empoli - Les mages du Kremlin](https://www.folio-lesite.fr/catalogue/le-mage-du-kremlin/9782073003911)
