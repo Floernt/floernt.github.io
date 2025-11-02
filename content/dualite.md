@@ -16,6 +16,8 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[L'IA vous fait écrire n'importe quoi]({{<relref "post/ia nimporte quoi.md" >}})
+
 [Comment l'IA change notre société-système ?]({{<relref "post/societe-systeme.md" >}})
 
 [Writing with LLM is not a shame. An essay about transparency on AI use.]({{<relref "post/ai transparency.md" >}})
