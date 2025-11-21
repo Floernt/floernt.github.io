@@ -16,6 +16,8 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[Ethique et conformité. Au delà de la hype.]({{<relref "post/ethique conformité.md" >}})
+
 [L'IA vous fait écrire n'importe quoi]({{<relref "post/ia nimporte quoi.md" >}})
 
 [Comment l'IA change notre société-système ?]({{<relref "post/societe-systeme.md" >}})
