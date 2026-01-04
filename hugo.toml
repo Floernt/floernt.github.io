@@ -8,6 +8,10 @@ copyright = "© Florian Ernotte"
 mode= 'toggle'  
 subtitle = 'Quelques expériences et reflexions sur le Web'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 # Main menu Items
 
 [[menu.main]]
