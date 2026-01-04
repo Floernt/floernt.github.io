@@ -8,7 +8,7 @@ tags:
 - dualite
 ---
 
-<div style="text-align: right"> 
+
 Début mars 2025, je découvre [une réflexion](https://www.linkedin.com/posts/jppoisson_lia-ne-se-vend-pas-comme-du-saas-et-%C3%A7a-activity-7302648104464310272-PZ2G?utm_source=share&utm_medium=member_android&rcm=ACoAAB2e4NABnCG8gF81YstpRVm2CiVrM1_QXF4) sur la distinction entre les modèles économiques SaaS et ceux proposés pour l'intelligence artificielle. Alors que le modèle SaaS repose essentiellement sur la fourniture de services standardisés accessibles via abonnement, l'IA, notamment via les grands modèles de langage (LLM), introduit une logique économique différente. Elle ne peut être traitée simplement comme une fonctionnalité ajoutée (« feature ») car elle impacte en profondeur l’ensemble des processus internes d'une organisation qui l'utilise, allant bien au-delà d'une simple amélioration technologique ou d'une caractéristique nouvelle d'un produit, il s'agit d'une véritable transformation.
 
 Personnellement, j'ai été séduit par cette manière de voir les choses car elle traduit, assez fidèlement, l'impact de l'IA dans nos vies. Le fait de qualifier l'IA comme une transformation n'est pas neuf.  
@@ -165,4 +165,3 @@ C'est de cette manière que j'appréhende ces outils tout en gardant à l'esprit
 - L'équipe de rédaction d'Academia (2 février 2025). Pourquoi je n’utilise pas ChatGPT. _Academia_. Consulté le 16 mars 2025 à l’adresse https://doi.org/10.58079/1382x
 - Anne Alombert, « Panser la bêtise artificielle », _Appareil_ [En ligne], 26 | 2023, mis en ligne le 23 novembre 2023, consulté le 15 mars 2025. URL : http://journals.openedition.org/appareil/6979 ; DOI : https://doi.org/10.4000/appareil.6979
 
- </div>
