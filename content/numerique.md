@@ -26,6 +26,16 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 ## Quelques livres
 (classé par ordre de lecture (du plus récent au plus ancien))
 
+[Bernard Stiegler - L'emploi est mort, vive le travail !](https://www.fayard.fr/livre/lemploi-est-mort-vive-le-travail-9782755507461/)
+
+[Jaron Lanier- Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.jaronlanier.com/tenarguments.html)
+
+[Mustafa Suleyman - The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
+
+[Anne Alombert - Penser avec Bernard Stiegler](https://llcp.univ-paris8.fr/alombert-anne-penser-avec-bernard-stiegler-368-p-puf-2025)
+
+[Langdon Winner - La Baleine et le Réacteur : À la recherche de limites au temps de la haute technologie](https://www.editionslibre.org/produit/la-baleine-et-le-reacteur-langdon-winner-nouvelle-edition/)
+
 [Richard Susskind - How To Think About AI. A Guide For The Perplexed](https://academic.oup.com/book/59718?)
 
 [Juan Sebastian Carbonell - Un taylorisme augmenté  critique de l'intelligence artificielle](https://www.editionsamsterdam.fr/un-taylorisme-augmente/)
