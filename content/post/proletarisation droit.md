@@ -15,7 +15,7 @@ Sur un rapport de la commission de l’exercice du droit du CNB:
 
 > l’Assemblée générale du CNB du 12 décembre 2025 a acté la suppression du terme « intellectuelle » de sa proposition de définition de la consultation juridique adoptée initialement en 2011, privilégiant une approche centrée sur la finalité de la prestation, pour garantir une protection effective du public et du périmètre du droit face à l’essor rapide des outils d’intelligence artificielle générative."
 
-[plus d'infos ici] (https://www.cnb.avocat.fr/fr/actualites/le-cnb-modifie-sa-proposition-de-definition-de-la-consultation-juridique-pour-ladapter-aux-enjeux-de)
+[plus d'infos ici](https://www.cnb.avocat.fr/fr/actualites/le-cnb-modifie-sa-proposition-de-definition-de-la-consultation-juridique-pour-ladapter-aux-enjeux-de)
 
 Cette actualité peut apparaître anodine ou marginale mais les réflexions de certains autour de cette nouvelle méritent d'être partagées et décodées. En effet, la modification votée par le CNB porte sur la définition de la consultation juridique, qui est en France, un monopole de l'avocat (à l'inverse de la Belgique).
 
@@ -37,7 +37,7 @@ Selon l'interprétation que donne Bernard Stiegler de ce concept:
 
 > >La prolétarisation est, d’une manière générale, ce qui consiste à priver un sujet (producteur, consommateur, concepteur) de ses savoirs (savoir-faire, savoir-vivre, savoir concevoir et théoriser). (ars industrialis)
 
-[(ars industrialis)](https://arsindustrialis.org/prol%C3%A9tarisation)
+[ars industrialis](https://arsindustrialis.org/prol%C3%A9tarisation)
 
 La prolétarisation, c’est donc la perte de savoir, et non la paupérisation. C’est la perte du savoir tel qu’il est formalisé par la machine qui le met désormais en œuvre.
 
@@ -57,7 +57,7 @@ Cet aspect des choses est complexe à traiter dans la présente mais il m'appara
 
 D'abord, que la généralisation des conséquences me semble excessive. Bien que le rôle de l'avocat soit primordial au sein d'une société démocratique, comme l'a encore rappelé la CJUE en septembre 2024, tous les avocats ne sont pas prêts à endosser une mission de sauvegarde de la démocratie. Beaucoup exercent leur métier avec probité et dignité mais sans arrière-pensée politique. Ce n'est évidemment pas un jugement de valeur mais il ne faudrait pas prêter des intentions politiques à chaque confrère. D'ailleurs, si l'on s'aventurait dans ce sujet, on pourrait légitiment se poser la question de ces intentions : plus à gauche, plus à droite et en fonction de ce positionnement, les conséquences de ces intentions seraient parfois diamétralement opposées.
 
-Ensuite, considérer qu'une "transformation pourrait affaiblir la fonction critique et politique de l'avocat" implique une forme de myopie technologique ([[voir ici à ce sujet](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/)]). En effet, il ne faudrait pas oublier la prise de conscience de plus en plus croissante de l'impact de la technique sur nos savoirs (faire, penser et vivre). Je dois en effet constater une attention de plus en plus importante des enjeux liés aux techniques au sein de différents cénacles. Le fait même de modifier la définition de la "consultation juridique" a nourri des discussions qui n'avaient peut-être jamais été tenues auparavant.
+Ensuite, considérer qu'une "transformation pourrait affaiblir la fonction critique et politique de l'avocat" implique une forme de myopie technologique [voir ici à ce sujet](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/). En effet, il ne faudrait pas oublier la prise de conscience de plus en plus croissante de l'impact de la technique sur nos savoirs (faire, penser et vivre). Je dois en effet constater une attention de plus en plus importante des enjeux liés aux techniques au sein de différents cénacles. Le fait même de modifier la définition de la "consultation juridique" a nourri des discussions qui n'avaient peut-être jamais été tenues auparavant.
 
 Il y a une prise de conscience croissante quant aux dangers que représentent ces techniques et j'ai la faiblesse de considérer que celle-ci ne cesse d'augmenter face à l'arrivée fracassante des intelligences artificielles génératives dans nos vies quotidiennes.
 
@@ -113,7 +113,7 @@ Certains pourraient considérer que ces chiffres sont relativement bas en raison
 
 Si l'on croise donc le nombre d'utilisateurs potentiels avec le nombre d'hallucinations, on ne peut pas supposer une utilisation inconsciente de l'IA par les professionnels du droit.
 
-Il y a certes des erreurs et des "dérapages" mais qui constituent manifestement une petite minorité des cas. Je reste donc assez optimiste sur la capacité des avocats à utiliser l'IA de manière raisonnée quant à ces résultats ([je suis plus sceptique quant au respect de certaines règles déontologiques par contre](https://reflexions.florianernotte.be/post/confidentialite-et-outils-pour-juristes/)).
+Il y a certes des erreurs et des "dérapages" mais qui constituent manifestement une petite minorité des cas. Je reste donc assez optimiste sur la capacité des avocats à utiliser l'IA de manière raisonnée quant à ces résultats [je suis plus sceptique quant au respect de certaines règles déontologiques par contre](https://reflexions.florianernotte.be/post/confidentialite-et-outils-pour-juristes/).
 
 ### Un changement performatif ?
 
