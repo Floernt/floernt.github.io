@@ -4,6 +4,7 @@ title = 'reflexions '
 theme = 'archiefork'
 copyright = "© Florian Ernotte"
 enableRobotsTXT = true
+
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
