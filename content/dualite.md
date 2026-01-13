@@ -16,6 +16,8 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[Savoir sans faire. Faire sans savoir.]({{<relref "post/depossession operatoire.md" >}})
+
 [La prolétarisation du droit à l'ère de l'IA.]({{<relref "post/proletarisation droit.md" >}})
 
 [Ethique et conformité. Au delà de la hype.]({{<relref "post/ethique conformité.md" >}})

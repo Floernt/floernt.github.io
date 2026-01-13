@@ -111,7 +111,7 @@ Juan Sebastien Carbonell dans son livre "[Un taylorisme augmenté,  critique de
 >« L’éthique est un pur instrument au service du développement de l’IA  
 (…) La régulation et l'IA éthique ne questionnent donc pas l'usage de l'IA en tant que tel,  (…) On peut dire qu'elles ont surtout pour but de rendre l'IA acceptable en la présentant comme "responsable ". »
 
-Je ne partage pas à 100 % le point de vue mais je pense que Carbonell capte bien l'enjeu: on se borne à questionner certains usages pour les rendre "acceptables". On crée une "illusion éthique" pour répondre aux problèmes structurels de l'IA. Dans un sens, c'est une forme d'habillage éthique éfini par le [Journal officiel français du 16 juillet 2024](https://www.legifrance.gouv.fr/download/pdf?id=DoHxHqNbtZqRQ4ynTkzxjVIsrsa00QFujiQScSI_fAU=), et qui constitue : 
+Je ne partage pas à 100 % le point de vue mais je pense que Carbonell capte bien l'enjeu: on se borne à questionner certains usages pour les rendre "acceptables". On crée une "illusion éthique" pour répondre aux problèmes structurels de l'IA. Dans un sens, c'est une forme d'habillage éthique défini par le [Journal officiel français du 16 juillet 2024](https://www.legifrance.gouv.fr/download/pdf?id=DoHxHqNbtZqRQ4ynTkzxjVIsrsa00QFujiQScSI_fAU=), et qui constitue : 
 
 > « une stratégie de communication d’une entreprise ou d’une organisation qui cherche à améliorer son image de marque en se réclamant abusivement de valeurs éthiques ».
 
@@ -136,7 +136,7 @@ Pour justifier cette assertion, on prend l'exemple du marteau pour expliquer que
 
 Si ce "raisonnement" peut fonctionner pour la technique, peut-il fonctionner pour la technologie (que je range dans le grand ensemble de la technique)? 
 
-A mon estime, ce postulat n'est plus tenable et ce depuis bien longtemps. Pour le comprendre, il faut revenir brièvement à l’histoire des critiques de la technique puis observer comment ces analyses résonnent aujourd’hui, à l’heure d'un solutionnisme technologique et de l’IA générative.
+A mon estime, ce postulat n'est plus tenable et ce depuis bien longtemps. Pour le comprendre, il faut revenir brièvement à l’histoire des critiques de la technique puis observer comment ces analyses résonnent aujourd’hui, à l’heure d'un solutionisme technologique et de l’IA générative.
 
 ## 1) Le mouvement techno-critique
 
@@ -158,17 +158,17 @@ Je lisais dernièrement une newsletter de Tariq Krim qui indiquait :
 
 A titre personnel, je trouve ce constat lourd de sens et révélateur de ce qu'Ellul décrivait il y a près de 60 ans. "Nous" sommes perpétuellement à la recherche d'une efficacité maximale et l'innovation technique et technologique ne fait que renforcer cette quête. 
 
-## 2) Le solutionnisme technologique
+## 2) Le solutionisme technologique
 
-Ce dogme de l'efficacité va amener notre société dans quelques "dérives". Nous sommes devenus tellement convaincus que la technologie est efficace qu'elle devient quasiment *la seule* réponse audible à nos problèmes. Nous tombons dans le techno-solutionnisme qui veut qu'il existe une solution techno entrepreneuriale à tout problème sociétal donné. 
+Ce dogme de l'efficacité va amener notre société dans quelques "dérives". Nous sommes devenus tellement convaincus que la technologie est efficace qu'elle devient quasiment *la seule* réponse audible à nos problèmes. Nous tombons dans le techno-solutionisme qui veut qu'il existe une solution techno entrepreneuriale à tout problème sociétal donné. 
 
-Conceptualisé notamment par Evegny Morozov, le solutionnisme technologique impose la technologie sans qu'un besoin soit identifié. « Si ça peut se faire, on le fait » diraient certains. Cette forme de techno-optimisme crée l'illusion que la technologie peut tout régler. On va, de manière systématique, transformer les problèmes sociaux complexes en défis techniques. 
+Conceptualisé notamment par Evegny Morozov, le solutionisme technologique impose la technologie sans qu'un besoin soit identifié. « Si ça peut se faire, on le fait » diraient certains. Cette forme de techno-optimisme crée l'illusion que la technologie peut tout régler. On va, de manière systématique, transformer les problèmes sociaux complexes en défis techniques. 
 
 Cette manière de faire est "malheureusement" tout à fait séduisante pour le monde politique comme l'expose Benjamin Pajot car cela offre : 
 
 >un répertoire d’action immédiate à la portée de décideurs publics sous la pression permanente du résultat et du temps court de la communication politique. 
 
-Nous sommes donc confrontés à une suramplification du constat posé par Ellul causé par l'innovation technologique et le techno-solutionnisme qui nous conduisent à "toujours plus, toujours mieux". On ne discute plus du *pourquoi* mais du *comment*, **on cherche à optimiser le système au lieu de le questionner.**
+Nous sommes donc confrontés à une suramplification du constat posé par Ellul causé par l'innovation technologique et le techno-solutionisme qui nous conduisent à "toujours plus, toujours mieux". On ne discute plus du *pourquoi* mais du *comment*, **on cherche à optimiser le système au lieu de le questionner.**
 
 Mais, nous devons inexorablement nous rappeler d'une chose (je préfère l'anglais ici pour la concision): 
 
@@ -186,7 +186,7 @@ Marx écrivait ainsi :
 
 Si les causes de cette recherche de productivité ou d'efficacité peuvent être différentes et discutées, force est de constater que le résultat est le même. 
 
-Un bref passage dans le secteur du travail me permettra, je l'espère, d'illustrer un peu plus, mon point de vue. Le taylorisme, par exemple, était déjà une forme de  solutionnisme technologique au début XXe siècles. Là où les ouvriers étaient jugés inefficaces et/ou trop chers, Taylor va proposer une décomposition des tâches qui permettra de remplacer ces ouvriers qualifiés par des opérateurs de machines disposant d'un faible niveau d'autonomie et donc de compétence permettant alors, une réduction du coût salarial. 
+Un bref passage dans le secteur du travail me permettra, je l'espère, d'illustrer un peu plus, mon point de vue. Le taylorisme, par exemple, était déjà une forme de  solutionisme technologique au début XXe siècles. Là où les ouvriers étaient jugés inefficaces et/ou trop chers, Taylor va proposer une décomposition des tâches qui permettra de remplacer ces ouvriers qualifiés par des opérateurs de machines disposant d'un faible niveau d'autonomie et donc de compétence permettant alors, une réduction du coût salarial. 
 
 On passe de l’autonomie de l'artisan, appliquant ses propres règles (auto-nomos) en utilisant son corps et ses outils, à l’automation (suivre les règles). A noter d'ailleurs que le terme "automation" a été crée  par Delmar S. Harder, vice-président de la Ford Motor Company en 1948. 
 
@@ -228,9 +228,9 @@ Enfin, il y a aussi parfois une croyance qui est qu'en refusant l'adoption ou l'
 
 Il est donc nécessaire de savoir où l'on veut aller si l'on souhaite naviguer. Je n'ai pas la prétention de savoir où nous devrions aller. Toutefois, j'ai l'objectif de proposer trois balises qui guideront cette navigation et permettront, je l'espère, une meilleure réflexion sur l'usage des technologies. 
 
-###  a) Détecter le solutionnisme
+###  a) Détecter le solutionisme
 
-La première chose qui me semble nécessaire est de prendre conscience de l'existence de ces "biais". Prendre conscience que nous avons tendance à nous plonger dans une forme de solutionnisme technologique de manière récurrente. 
+La première chose qui me semble nécessaire est de prendre conscience de l'existence de ces "biais". Prendre conscience que nous avons tendance à nous plonger dans une forme de solutionisme technologique de manière récurrente. 
 
 Notre société est dirigée par la "productivité". Beaucoup cherchent à être plus productifs au travail par exemple. On retrouve alors une littérature abondante sur le sujet (David Allen, Cal Newport ou Ali Abdaal pour n'en citer que quelques uns).
 
@@ -242,7 +242,7 @@ Si l'on s'intéresse au sujet, on voit vite que la majeure partie des solutions 
 
 Comme pour l'exemple de l'IA dans le recrutement, on se pose la question de la liceité des outils comme critères de pertinence de leur utilisation. Or, c'est à mon sens un leurre. La légalité d'une technologie ne la rend pas, de facto, nécessaire et efficace (et encore moins éthique). 
 
-Il faut donc reconnaitre ce solutionnisme qui peut prendre le dessus et l'examiner en vérifiant de manière critique le problème et sa cause profonde. En comprenant la cause profonde du problème qu'on cherche à résoudre, on parviendra alors à jauger de manière plus fine l'opportunité des solutions envisagées. Peut être qu'une solution technologique sera, finalement, la meilleure des solutions. En préservant ce questionnement, on dresse un premier filtre à cette hype.
+Il faut donc reconnaitre ce solutionisme qui peut prendre le dessus et l'examiner en vérifiant de manière critique le problème et sa cause profonde. En comprenant la cause profonde du problème qu'on cherche à résoudre, on parviendra alors à jauger de manière plus fine l'opportunité des solutions envisagées. Peut être qu'une solution technologique sera, finalement, la meilleure des solutions. En préservant ce questionnement, on dresse un premier filtre à cette hype.
 
 ###  b) Le [[pharmakon technologique]]
 
@@ -276,14 +276,13 @@ En mobilisant ce concept, on cherche à amener de la rationalité dans la projec
 
 # IV. Conclusion 
 
-Au travers de ce mini-essai, j'ai tenté de dresser un constat quant à notre positionnement au technologique. 
+Au travers de ce mini-essai, j’ai tenté de dresser un constat quant à notre positionnement au technologique.
 
-En comprenant que la technologie a pour valeur intrinsèque l'efficacité qui permet de donner naissance à un techno-optimisme promouvant un solutionnisme technologique, nous pouvons remettre en cause, plus objectivement, les directions prises "intuitivement". 
+En comprenant que la technologie a pour valeur intrinsèque l’efficacité qui permet de donner naissance à un techno-optimisme promouvant un solutionisme technologique, nous pouvons remettre en cause, plus objectivement, les directions prises “intuitivement”.
+Sans tomber dans une posture technophobe ou réfractaire, je constate que l’on nous propose des IA de confiance, et plus globalement de la technologie “de confiance”, comme une technologie dont les défauts seraient gommés et/ou minimisés.
 
-Sans tomber dans une posture technophobe ou réfractaire, je constate que l'on nous propose des IA de confiance, et plus globalement de la technologie "de confiance", comme une technologie dont les défauts seraient gommés et/ou minimisés. 
+Nous tombons alors, et encore, dans une mise en œuvre du principe d’efficacité et de recherche absolue d’efficience. Créer une IA de confiance, c’est partir du principe que l’IA est nécessaire et qu’il n’y aurait pas d’autre solution.
 
-Nous tombons alors, et encore, dans une mise en œuvre du principe d'efficacité et de recherche absolue d'efficience. Créer une IA de confiance, c'est partir du principe que l'IA est nécessaire et qu'il n'y aurait pas d'autre solution. 
+Aujourd’hui, s’interroger sur l’IA de confiance et sur une technologie éthique revient à rendre acceptable la technologie sans la remettre objectivement et sincèrement en question.
 
-Aujourd'hui, s'interroger sur l'IA de confiance et sur une technologie éthique revient à rendre acceptable la technologie sans la remettre objectivement et sincèrement en question. 
-
-Si l'on détecte le solutionnisme technologique, qu'on comprend la complexité technologique et qu'on accepte son ambivalence (Pharmakon), on pourra (peut-être mieux) penser la technologie en veillant à corriger ses projections (optimiste ou pessimiste) (myopie technologique).
+Si l’on détecte le solutionisme technologique, qu’on comprend la complexité technologique et qu’on accepte son ambivalence (Pharmakon), on pourra (peut-être mieux) penser la technologie en veillant à corriger ses projections (optimiste ou pessimiste) (myopie technologique).
