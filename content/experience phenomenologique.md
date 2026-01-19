@@ -1,52 +1,71 @@
 ---
-title : dualité
-date : 2025-04-04
+title : Expérience phénoménologique de l'intelligence artificielle générative
+date : 2026-01-19
 tags: 
 - dualite
+- ia
 
 ---
 
-Dualité, c'est le nom de de mon carnet de notes numériques reprenant des réflexions autour des sujets liés au numérique, au digital et à la technologie.  Donner un nom à ce projet est une manière de le structurer au travers d'une trame et de placer un cadre pour canaliser ces réflexions sans pour autant les enfermer. C'est aussi continuer à le faire au gré de l'actualité, de lectures et d"expériences. 
+## Quelques éléments de contexte 
 
-Au fil de mon écriture, je tente de challenger mon point de vue. J'essaie d'écrire sur le numérique avec un regard critique mais non dogmatique. Ce que j'observe révèle souvent des tensions, des ambivalences et même des contradictions. Par exemple, j'utilise l'IA générative quotidiennement tout en la critiquant aussi. Je réfléchis à l'autonomie technologique (aka la souveraineté technologique) mais je reste captif de certains logiciels ou dispositifs matériels. 
 
-Dualité, c'est l'opposition plutôt que l'équilibre. La dualité c'est ce qui est composé de deux éléments de nature différente. A ce stade, je ne parviens pas à considérer qu'un équilibre soit possible à trouver dans l'utilisation de la technologie. Si l'on trouve un équilibre, il ne peut être qu'éphémère et temporaire car les sujets évoluent tellement vite que cette équilibre n'est que précaire. 
+En décembre 2025, après le "buzz" suite à la sortie du [livre](https://www.buchetchastel.fr/catalogue/ne-faites-plus-detudes/) de Laurent Alexandre et Olivier Babeau, j'ai écouté [une longue interview de Laurent Alexandre ](https://www.gdiy.fr/podcast/laurent-alexandre/) pour essayer, sans devoir me farcir son livre, de comprendre, a minima, son point de vue sur les études. 
 
-Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme de techno-critique. C'est accepter que l'harmonie ne peut être trouvée et assumer la subjectivité de mon regard sur le sujet.
+Malgré tout ce qu'on puisse dire sur Laurent Alexandre, je trouve néanmoins intéressant d'examiner ses positions et ses idées qui ne sont pas toutes bonnes à être rejetées. Dans ce cadre, Laurent Alexandre raconte son utilisation de l'IAG et surtout explique qu'il active la mémoire. Il développe une réflexion sur la raison et les conséquences, bénéfiques selon lui, de cette fonctionnalité. 
 
-## Mon carnet de notes
+Je me suis donc dit : pourquoi pas essayer un temps ? J'ai donc activé la mémoire sur ChatGpt et j'ai vite compris la réflexion de Laurent Alexandre. J'ai aussi créer un nouveau compte chez Anthropic et j'ai plongé dans les fonctionnalités de Claude (que j'utilise de plus en plus sans délaisser les autres LLM que vous connaissez).
 
-[Savoir sans faire. Faire sans savoir.]({{<relref "post/depossession operatoire.md" >}})
+Au-delà de cette aspect, j'ai lu l'expérience réalisée par [Fabrizio Ferri-Benedetti](https://www.linkedin.com/in/fabrizioferri/overlay/about-this-profile/) qu'il présente sur son [blog](https://passo.uno/interview-claude-gemini-2025/). L'idée était de simuler une interview entre des LLMs à propos des articles et notes qu'il avait rédigés en 2025.
 
-[La prolétarisation du droit à l'ère de l'IA.]({{<relref "post/proletarisation droit.md" >}})
+La transcription de l'échange est reprise *in exstenso* sur son blog. Elle n'est pas spécialement passionnante et c'est donc plutôt au regard de la démarche que mon attention s'est portée. 
 
-[Ethique et conformité. Au delà de la hype.]({{<relref "post/ethique conformité.md" >}})
+Interroger un LLM sur la base d'un stock de notes n'est pas neuf. Avec l'arrivée du MCP, on a vu plein d'idées de ce type qui visait à connecter un LLM aux applications de prises de notes (utilisant depuis des années Obsidian, j'ai regardé comment connecté mon app à Claude [ici](https://www.youtube.com/watch?v=ou4BYmY8Dq0&t=653s) ). Avant cela, il y avait aussi eu une tendance, devenue presque virale, concernant l'expérience à faire avec son LLM: demander ce qu'il savait sur nous. Si l'utilisateur avait activé la "mémoire" de son application, le LLM fouillait dans l'historique des conversations et la mémoire pour donner un condensé parfois intéressant, parfois troublant. 
 
-[L'IA vous fait écrire n'importe quoi]({{<relref "post/ia nimporte quoi.md" >}})
+### Le début de l'expérience 
 
-[Comment l'IA change notre société-système ?]({{<relref "post/societe-systeme.md" >}})
+J'ai donc demandé à Claude : 
 
-[Writing with LLM is not a shame. An essay about transparency on AI use.]({{<relref "post/ai transparency.md" >}})
+	Analyse le contenu du site reflexions.florianernotte.be et fais un commentaire critique du contenu et des prédictions de sujet pour l'avenir
 
-[Sur la confidentialité et les outils des juristes]({{<relref "post/confidentialite et outils pour juristes.md" >}})
+La réponse que j'ai reçue a été super intéressante. J'ai ensuite demandé : 
 
-[Asking LLM for help is fine]({{<relref "post/asking-llm.md">}})
+	Je veux développer mes réflexions philosophiques sur la technique. Tu aurais des suggestions
 
-[L’ia n’est pas une caractéristique produit]({{<relref "post/ia-pas-une-caracteristique.md">}})
+A nouveau, la réponse était très pertinente et j'ai retenu quelques pistes de réflexions tout à fait sérieuse. 
 
-[L'autonomie numérique pour résister]({{<relref "post/autonomie-numerique.md">}})  
+Parmi celles-ci, une m'a tapé dans l'œil 
 
-[Sur la décérébration des masses]({{<relref "post/decerebration-des-masses.md">}})  
+	### Ethnographie de vos propres pratiques
+		**Projet :** Un carnet d'observation de vos usages quotidiens d'IA. Pas pour célébrer ou condamner, mais pour comprendre phénoménologiquement.
+		**Méthode :**
+		- Noter quotidiennement : quand utilisez-vous Claude ? Pour quoi ? Qu'est-ce que ça change à votre pensée ?
+	- Observer les moments de résistance : quand refusez-vous d'utiliser l'IA ? Pourquoi ?	- Documenter les transformations : qu'est-ce que vous ne faites plus depuis que vous utilisez l'IA ?
+		**Article possible :** "Journal d'un juriste avec l'IA : phénoménologie de la délégation cognitive"
+	
 
-[Eat local tech]({{<relref "post/eatlocaltech.md">}})  
+L'angle était intéressant et je trouvais l'expérience tout à fait alignée avec la dualité que j'essaie de traduire [au sein de mon carnet de notes numériques](https://reflexions.florianernotte.be/dualite/). 
 
-[Déléguer le connu pour mieux penser l’inconnu]({{<relref "post/deleguer-le-connu.md">}}) 
+J'ai donc créer une nouvelle conversation en copiant la proposition, telle quelle et j'ai reçu une méthodologie et des conseils pour prendre note de mes usages **futurs**. A la réflexion, je me suis dit que la charge de documenter chacun de mes usages serait beaucoup trop importantes et surtout que je n'aurais qu'un résultat intéressant qu'après quelques semaines d'utilisation. 
 
-[L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
+Bref, j'ai répondu à Claude: 
 
-[Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}})
+	Charge documentataire trop importante. Aide moi à la constituer sur la base de l'ensemble de nos échanges
 
-[Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
+Claude me répond: 
 
-[L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}})
+	Je vais extraire de nos conversations les traces de vos usages d'IA, moments de résistance et transformations observées. Voici ce que je peux documenter 
 
+Curieux, j'ai finalement demandé à Claude: 
+
+	Commence à rédiger ce journal d'un juriste.
+
+Le résultat a dépassé mes attentes. Il nécessite quelques adaptations et corrections avant d'être partagé (je le ferai prochainement) et je pense que je réitèrerai l'expérience chaque année, pour analyser et comprendre l'évolution de mon usage et de la technique.
+
+J'aurai pu faire autrement, en étant moins paresseux et en relisant minutieusement chaque article que j'ai rédigé mais je trouve que c'est une autre manière de penser, qui s'inscrit pleinement dans cette dualité que je tente de d'écrire au fil de mes notes de réflexions
+
+---
+
+## Phénoménologie d'une pratique avec l'IAG
+
+[Phénoménologie d'une pratique avec l'IAG (2026)]({{<relref "/phenomenologie2026.md" >}}))
