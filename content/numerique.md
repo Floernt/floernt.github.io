@@ -1,5 +1,5 @@
 ---
-title : numerique
+title : Numerique
 date : 2025-02-15
 ---
 
