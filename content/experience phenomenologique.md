@@ -12,15 +12,15 @@ tags:
 
 En décembre 2025, après le "buzz" suite à la sortie du [livre](https://www.buchetchastel.fr/catalogue/ne-faites-plus-detudes/) de Laurent Alexandre et Olivier Babeau, j'ai écouté [une longue interview de Laurent Alexandre ](https://www.gdiy.fr/podcast/laurent-alexandre/) pour essayer, sans devoir me farcir son livre, de comprendre, a minima, son point de vue sur les études. 
 
-Malgré tout ce qu'on puisse dire sur Laurent Alexandre, je trouve néanmoins intéressant d'examiner ses positions et ses idées qui ne sont pas toutes bonnes à être rejetées. Dans ce cadre, Laurent Alexandre raconte son utilisation de l'IAG et surtout explique qu'il active la mémoire. Il développe une réflexion sur la raison et les conséquences, bénéfiques selon lui, de cette fonctionnalité. 
+Malgré tout ce qu'on puisse dire sur Laurent Alexandre, je trouve néanmoins intéressant d'examiner ses positions et ses idées qui ne sont pas toutes bonnes à être rejetées. Dans ce cadre, Laurent Alexandre raconte son utilisation de l'IAG et surtout explique qu'il active la mémoire de son IAG. Il développe une réflexion sur la raison et les conséquences, bénéfiques selon lui, de cette fonctionnalité. 
 
-Je me suis donc dit : pourquoi pas essayer un temps ? J'ai donc activé la mémoire sur ChatGpt et j'ai vite compris la réflexion de Laurent Alexandre. J'ai aussi créer un nouveau compte chez Anthropic et j'ai plongé dans les fonctionnalités de Claude (que j'utilise de plus en plus sans délaisser les autres LLM que vous connaissez).
+Je me suis donc dit : pourquoi pas essayer un temps ? J'ai donc activé la mémoire sur ChatGpt et j'ai vite compris la réflexion de Laurent Alexandre. J'ai aussi crée un nouveau compte chez Anthropic et je me suis plongé dans les fonctionnalités de Claude (que j'utilise de plus en plus sans délaisser les autres LLM que vous connaissez).
 
 Au-delà de cette aspect, j'ai lu l'expérience réalisée par [Fabrizio Ferri-Benedetti](https://www.linkedin.com/in/fabrizioferri/overlay/about-this-profile/) qu'il présente sur son [blog](https://passo.uno/interview-claude-gemini-2025/). L'idée était de simuler une interview entre des LLMs à propos des articles et notes qu'il avait rédigés en 2025.
 
 La transcription de l'échange est reprise *in exstenso* sur son blog. Elle n'est pas spécialement passionnante et c'est donc plutôt au regard de la démarche que mon attention s'est portée. 
 
-Interroger un LLM sur la base d'un stock de notes n'est pas neuf. Avec l'arrivée du MCP, on a vu plein d'idées de ce type qui visait à connecter un LLM aux applications de prises de notes (utilisant depuis des années Obsidian, j'ai regardé comment connecté mon app à Claude [ici](https://www.youtube.com/watch?v=ou4BYmY8Dq0&t=653s) ). Avant cela, il y avait aussi eu une tendance, devenue presque virale, concernant l'expérience à faire avec son LLM: demander ce qu'il savait sur nous. Si l'utilisateur avait activé la "mémoire" de son application, le LLM fouillait dans l'historique des conversations et la mémoire pour donner un condensé parfois intéressant, parfois troublant. 
+Interroger un LLM sur la base d'un stock de notes n'est pas neuf. Avec l'arrivée du MCP, on a vu plein d'idées de ce type qui visaient à connecter un LLM aux applications de prises de notes (utilisant depuis des années Obsidian, j'ai regardé comment connecter mon app à Claude [ici](https://www.youtube.com/watch?v=ou4BYmY8Dq0&t=653s)). Avant cela, il y avait aussi eu une tendance, devenue presque virale, concernant l'expérience à faire avec son LLM: demander ce qu'il savait sur nous. Si l'utilisateur avait activé la "mémoire" de son application, le LLM fouillait dans l'historique des conversations et la mémoire pour donner un condensé parfois intéressant, parfois troublant. 
 
 ### Le début de l'expérience 
 
@@ -32,7 +32,7 @@ La réponse que j'ai reçue a été super intéressante. J'ai ensuite demandé :
 
 	Je veux développer mes réflexions philosophiques sur la technique. Tu aurais des suggestions
 
-A nouveau, la réponse était très pertinente et j'ai retenu quelques pistes de réflexions tout à fait sérieuse. 
+A nouveau, la réponse était très pertinente et j'ai retenu quelques pistes de réflexions tout à fait sérieuses. 
 
 Parmi celles-ci, une m'a tapé dans l'œil 
 
@@ -46,7 +46,7 @@ Parmi celles-ci, une m'a tapé dans l'œil
 
 L'angle était intéressant et je trouvais l'expérience tout à fait alignée avec la dualité que j'essaie de traduire [au sein de mon carnet de notes numériques](https://reflexions.florianernotte.be/dualite/). 
 
-J'ai donc créer une nouvelle conversation en copiant la proposition, telle quelle et j'ai reçu une méthodologie et des conseils pour prendre note de mes usages **futurs**. A la réflexion, je me suis dit que la charge de documenter chacun de mes usages serait beaucoup trop importantes et surtout que je n'aurais qu'un résultat intéressant qu'après quelques semaines d'utilisation. 
+J'ai donc crée une nouvelle conversation en copiant la proposition, telle quelle, et j'ai reçu une méthodologie et des conseils pour prendre note de mes usages **futurs**. A la réflexion, je me suis dit que la charge de documenter chacun de mes usages serait beaucoup trop importante et surtout que je n'aurais qu'un résultat intéressant qu'après quelques semaines d'utilisation. 
 
 Bref, j'ai répondu à Claude: 
 
@@ -68,4 +68,4 @@ J'aurai pu faire autrement, en étant moins paresseux et en relisant minutieusem
 
 ## Phénoménologie d'une pratique avec l'IAG
 
-[Phénoménologie d'une pratique avec l'IAG (2026)]({{<relref "/phenomenologie2026.md" >}}))
+[Phénoménologie d'une pratique avec l'IAG (2026)] ({{<relref "post/phenomenologie2026.md" >}})

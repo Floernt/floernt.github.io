@@ -25,6 +25,8 @@ Une démarche qui incarne la dualité même qu'elle cherche à documenter : util
 
 ## Mon carnet de notes
 
+[Phénoménologie d'une pratique avec l'IAG (2026)]({{<relref "post/phenomenologie2026.md" >}})
+
 [Savoir sans faire. Faire sans savoir.]({{<relref "post/depossession operatoire.md" >}})
 
 [La prolétarisation du droit à l'ère de l'IA.]({{<relref "post/proletarisation droit.md" >}})

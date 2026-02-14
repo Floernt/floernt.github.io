@@ -12,6 +12,8 @@ https://olano.dev/blog/
 
 https://passo.uno/ 
 
+https://erikjohannes.no/
+
 ## Others
 
 https://gwern.net/ 

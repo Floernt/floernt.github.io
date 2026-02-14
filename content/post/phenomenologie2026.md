@@ -1,24 +1,28 @@
 ---
 title : Phénoménologie d'une pratique avec l'IAG (2026)
 date : 2026-01-19
+description : Résultat 2025 d'une expérience phénoménologique de l'intelligence artificielle générative
 tags: 
-- dualite
-- ia
+  - dualité
+  -  ia
 
 ---
+
+## Préambule
+
 Ce texte a été rédigé dans le cadre d'une expérience que je décris ici : [Expérience phénoménologique de l'intelligence artificielle générative]({{<relref "/experience phenomenologique.md" >}}).
 
-## I. Le protocole d'observation
+## 1. Le protocole d'observation
 
 Ce texte naît d'un paradoxe méthodologique. Lorsqu'on m'a suggéré de tenir un carnet "ethnographique" de mes usages quotidiens d'IAG (intelligence artificielle générative), ma première réaction fut pragmatique : la charge documentaire serait trop importante. Tenir un journal quotidien supposerait d'ajouter une tâche réflexive à une pratique déjà dense. Mais cette objection même révélait quelque chose : si documenter mes usages d'IAG me semblait chronophage, c'est précisément parce que ces usages sont devenus suffisamment diffus, banalisés, intégrés pour qu'il soit difficile de les isoler comme objets d'observation.
 
-En y réfléchissant, je me suis dit que plutôt qu'un journal prospectif, une rétrospective serait tout aussi intéressante. Une sorte d'archéologie de ma pratique de l'IAG. Les traces existaient déjà, déposées dans l'historique de mes conversations. Ces conversations constituaient finalement un matériau empirique involontaire, une sédimentation de réflexions, de délégations, de résistances et de transformations. Il suffisait de les relire autrement. Non pas comme des interactions fonctionnelles mais comme des signes (ou symptôme) d'une mutation en cours.
+En y réfléchissant, je me suis dit que plutôt qu'un journal prospectif, une rétrospective serait tout aussi intéressante. Une sorte d'archéologie de ma pratique de l'IAG. Les traces existaient déjà, déposées dans l'historique de mes conversations. Ces conversations constituaient finalement un matériau empirique involontaire, une sédimentation de réflexions, de délégations, de résistances et de transformations. Il "suffisait" de les relire autrement. Non pas comme des interactions fonctionnelles mais comme des signes (ou symptômes) d'une mutation en cours.
 
-Cette approche présente un avantage épistémologique : elle contourne le biais de rationalisation a posteriori. Quand on tient un journal en sachant qu'on l'analyse, on tend à se mettre en scène, à reconstruire ses motivations de manière cohérente. Ici, les traces ont été produites sans intention. Elles sont brutes, parfois contradictoires, ce qui rend l'expérience d'autant plus intéressantes.
+Cette approche présente un avantage épistémologique : elle contourne le biais de rationalisation a posteriori. Quand on tient un journal en sachant qu'on l'analyse(ra), on tend à se mettre en scène, à construire ses motivations de manière cohérente. Ici, les traces ont été produites sans intention. Elles sont brutes, parfois contradictoires, ce qui rend l'expérience d'autant plus intéressante.
 
 Le matériau analysé couvre trois domaines distincts : la production intellectuelle (articles pour ma newsletter "dualité"), la pratique juridique quotidienne (consultations, rapports), et le développement d'outils (création de "skills" dans Claude). Bien que ce qui en ressort soit éclairant, les domaines abordés sont limités. Cette diversité permet d'observer comment la délégation cognitive opère différemment selon les contextes. Cependant, ce périmètre restreint devra s'élargir dans les prochaines éditions (annuelles) de cette phénoménologie.  
 
-La méthode est simple : identifier dans ces échanges ce qui est délégué, ce qui résiste à la délégation, et ce qui se transforme dans l'intervalle. Cartographier, en somme, la géographie mouvante du travail intellectuel à l'ère de l'IA générative.
+La méthode est simple : identifier dans ces échanges ce qui est délégué, ce qui résiste à la délégation et ce qui se transforme dans l'intervalle. Cartographier, en somme, la géographie mouvante du travail intellectuel à l'ère de l'IA générative.
 
 ## II. Géographie de la délégation
 
@@ -28,7 +32,7 @@ L'analyse des échanges fait apparaître trois catégories distinctes de délég
 
 **Premier type : la compilation documentaire**. J'ai développé une "skill" nommée "rapport-faillite-belgique" qui automatise la production de rapports préliminaires pour curateur. La tâche déléguée consiste à rechercher et compiler des informations publiques dispersées : données de la Banque Carrefour des Entreprises, publications au Moniteur belge, comptes annuels déposés à la Banque Nationale. Avant, cette phase de documentation représentait quelques heures de navigation entre différentes bases de données, de copier-coller, de mise en forme. Maintenant, elle est réduite à la formulation d'une requête et à la vérification du résultat.
 
-Cette délégation ne pose aucun problème déontologique : il s'agit de tâches purement administratives, sans dimension interprétative et qui vise à compiler des informations publiques. L'IA ne "juge" pas, elle compile. Le gain de temps est non négligeable et permet d'avoir plus rapidement les informations utiles et nécessaire pour l'exercice d'un mandat judiciaire.
+Cette délégation ne pose aucun problème déontologique : il s'agit de tâches purement administratives, sans dimension interprétative et qui visent à compiler des informations publiques. L'IA ne "juge" pas, elle compile. Le gain de temps est non négligeable et permet d'avoir plus rapidement les informations utiles et nécessaires pour l'exercice d'un mandat judiciaire.
 
 **Deuxième type : la structuration formelle**. Une autre skill, "consultation-insolvabilite-belge", fournit un cadre type pour rédiger des consultations juridiques en droit de l'insolvabilité. Elle rappelle les différentes procédures disponibles (chambre des entreprises, médiation, réorganisation judiciaire, etc.), leurs critères d'application, leurs avantages et inconvénients respectifs. Elle propose une architecture documentaire standardisée : exposé des faits, analyse juridique, comparaison des options, recommandation.
 
@@ -45,8 +49,6 @@ Cette cartographie serait incomplète si elle n'identifiait pas également ce qu
 **Première ligne rouge : le jugement final**. Dans toutes les skills que j'ai créées, l'IAG est explicitement cantonnée à un rôle de documentation ou d'aide à la structuration. Elle ne doit jamais "décider" ou "recommander" seule. Dans la skill "consultation-insolvabilite-belge", je peux lui demander de comparer les procédures disponibles, mais la recommandation finale, soit celle qui engage ma responsabilité professionnelle, reste humaine. 
 
 **Deuxième ligne rouge : la voix analytique**. Pour les articles de "dualité", j'ai élaboré un protocole de relecture. Avant publication de certains articles, je demande à l'IAG de vérifier certains tics stylistiques que je veux éviter : les structures contrastives artificielles, les formulations qui édulcorent l'affirmation directe. Mais cette checklist me semble révélatrice : je ne demande pas à l'IA d'améliorer mon style, je lui demande de détecter les moments où mon style se dégrade. La voix (et le choix de celle-ci) reste mienne, et toute tentative de l'IA pour la "lisser" selon ses propres critères esthétiques est écartée.
-
-Cela va jusqu'à des détails apparemment mineurs : je dois corriger la tendance de l'IA à mettre des majuscules à chaque mot dans les titres (convention anglo-saxonne) alors que le français ne capitalise que l'initiale. Ces micro-résistances typographiques signalent un refus de laisser l'IAG imposer ses normes formelles, même involontairement.
 
 **Troisième ligne rouge : la véracité inconditionnelle**. Dans mes préférences utilisateur, j'ai inscrit une consigne lapidaire : "n'invente rien, si tu ne sais pas, dis-le". Cette instruction révèle une méfiance fondamentale vis-à-vis du principal défaut des IA génératives : leur tendance à l'hallucination, au brodage plausible mais faux. Pour un juriste, c'est une ligne rouge absolue. La fluidité rhétorique ne peut jamais compenser l'inexactitude factuelle. Je préfère une réponse incomplète mais honnête à une réponse élégante mais inventée.
 
@@ -80,11 +82,11 @@ Cela rappelle la distinction que fait Bernard Stiegler entre le savoir-faire (qu
 
 Le troisième geste professionnel émergent concerne l'usage de l'IAG dans le travail intellectuel exploratoire. Dans mes échanges relatifs aux articles de "dualité", l'IAG ne fonctionne ni comme un simple outil (type correcteur orthographique) ni comme une autorité (type base de données). Elle occupe une position intermédiaire : celle d'un interlocuteur dialectique permettant d'explorer rapidement différentes pistes argumentatives.
 
-Concrètement, cela se manifeste ainsi : je soumets une intuition analytique encore floue (par exemple : "la suppression du mot 'intellectuelle' dans la définition légale de la consultation juridique n'est pas un simple ajustement technique, mais révèle quelque chose de plus profond sur la transformation de la profession"). L'IA développe cette intuition, propose des angles d'attaque, formule des objections possibles, suggère des références théoriques pertinentes. Je réagis à ces propositions : je les accepte, les rejette, les modifie ou ajoute une couche par dessus. Ce mouvement dialectique permet de clarifier progressivement ce que j'essaie de dire. J'ai régulièrement des moments d'épiphanies lorsque  je converse avec une IAG. 
+Concrètement, cela se manifeste ainsi : je soumets une intuition analytique encore floue. L'IA développe cette intuition, propose des angles d'attaque, formule des objections possibles, suggère des références théoriques pertinentes. Je réagis à ces propositions : je les accepte, les rejette, les modifie ou ajoute une couche par-dessus. Ce mouvement dialectique permet de clarifier progressivement ce que j'essaie de dire. J'ai régulièrement des moments d'épiphanies lorsque  je converse avec une IAG. 
 
-Ce geste intellectuel n'a pas d'équivalent exact dans la pratique traditionnelle. Il s'apparente au brainstorming avec d'autres personnes mais avec "l'avantage" d'une disponibilité immédiate et une absence de fatigue ou d'ego. Il rappelle aussi le travail avec un assistant de recherche mais sans la asymétrie hiérarchique et avec une capacité de reformulation instantanée. L'IAG fonctionne comme un miroir actif : elle renvoie ma pensée transformée, parfois légèrement déformée ou augmentée, suffisamment différente pour être stimulante mais suffisamment proche pour rester utilisable et exploitable.
+Ce geste intellectuel n'a pas d'équivalent exact dans la pratique traditionnelle. Il s'apparente au brainstorming avec d'autres personnes mais avec "l'avantage" d'une disponibilité immédiate et une absence de fatigue ou d'ego. Il rappelle aussi le travail avec un assistant de recherche mais sans l'asymétrie hiérarchique et avec une capacité de reformulation instantanée. L'IAG fonctionne comme un miroir actif : elle renvoie ma pensée transformée, parfois légèrement déformée ou augmentée, suffisamment différente pour être stimulante mais suffisamment proche pour rester utilisable et exploitable.
 
-Cette fonction dialectique modifie le processus créatif lui-même. Avant, l'élaboration d'un article passait par des phases distinctes : documentation, maturation, rédaction, relecture. Maintenant, ces phases se télescopent : je peux documenter et maturer simultanément en dialoguant avec l'IAG, tester différentes structures argumentatives durant la phase de rédaction. Le travail intellectuel devient plus itératif et plus fluide ce qui impose, à mon avis, une rigueur et une exigence d'autant plus importante.
+Cette fonction dialectique modifie le processus créatif lui-même. Avant, l'élaboration d'un article passait par des phases distinctes : documentation, maturation, rédaction, relecture. Maintenant, ces phases se télescopent : je peux documenter et maturer simultanément en dialoguant avec l'IAG, tester différentes structures argumentatives durant la phase de rédaction. Le travail intellectuel devient plus itératif et plus fluide, ce qui impose, à mon avis, une rigueur et une exigence d'autant plus importantes.
 
 ### L'obsolescence de certains savoir-faire
 
@@ -102,13 +104,13 @@ Au-delà des tâches déléguées et des nouveaux gestes professionnels, l'usage
 
 Avant, une partie importante du travail consistait à soigner la forme dès la première rédaction. Structurer un document, choisir le bon niveau de formalisme, équilibrer les parties : autant de micro-décisions qui prenaient du temps et de l'énergie cognitive. Maintenant, je sais que la structure initiale peut être imparfaite : l'IA aidera à la raffiner. Cela libère de l'attention pour se concentrer sur le cadrage initial du problème : qu'est-ce que je cherche vraiment à faire ? Quelle est la question juridique pertinente ?
 
-Cette équilibrage de l'attention ne doit pas être sous-estimé car elle inverse presque la logique traditionnelle du travail intellectuel : d'abord identifier la structure globale, puis la remplir progressivement. Maintenant, je peux commencer par des fragments, des intuitions et laisser l'IA proposer des architectures possibles. Le travail devient plus exploratoire au début et, je l'espère, plus précis à la fin.
+Cet équilibrage de l'attention ne doit pas être sous-estimé car il inverse presque la logique traditionnelle du travail intellectuel : d'abord identifier la structure globale, puis la remplir progressivement. Maintenant, je peux commencer par des fragments, des intuitions et laisser l'IA proposer des architectures possibles. Le travail devient plus exploratoire au début et, je l'espère, plus précis à la fin.
 
 ### Moins d'attention à la recherche documentaire, plus d'attention à la vérification
 
 Corollairement, je passe moins de temps à chercher de l'information et plus de temps à vérifier celle que l'IAG me fournit. Cette transformation est importante car elle déplace mon rôle. La recherche manuelle était laborieuse mais donnait un sentiment de maîtrise : je voyais les sources, je les parcourais, je jugeais de leur pertinence. La recherche déléguée est plus rapide mais suppose un contrôle a posteriori : l'IAG m'apporte des informations que je dois ensuite valider.
 
-Ce déplacement attentionnel pose une question épistémologique : est-ce que vérifier une information fournie mobilise la même intelligence critique que la chercher soi-même ? Probablement pas. Quand je cherche, j'évalue en continu la pertinence des sources, j'ajuste ma stratégie de recherche, je développe une compréhension contextuelle du champ documentaire. Quand je vérifie, je teste la plausibilité d'une information isolée, sans aller au delà. C'est plus ponctuel, moins systémique.
+Ce déplacement attentionnel pose une question épistémologique : est-ce que vérifier une information fournie mobilise la même intelligence critique que la chercher soi-même ? Probablement pas. Quand je cherche, j'évalue en continu la pertinence des sources, j'ajuste ma stratégie de recherche, je développe une compréhension contextuelle du champ documentaire. Quand je vérifie, je teste la plausibilité d'une information isolée, sans aller au-delà. C'est plus ponctuel, moins systémique.
 
 Cette transformation explique peut-être l'instruction que j'ai inscrite dans mes préférences utilisateur : "n'invente rien, si tu ne sais pas, dis-le". Elle compense la perte de contrôle sur la phase de recherche. Puisque je ne vois plus le processus, je dois pouvoir faire confiance au résultat, ou du moins, savoir quand je ne peux pas lui faire confiance. 
 
@@ -130,7 +132,7 @@ Paradoxalement, si certaines formes d'attention diminuent, d'autres s'intensifie
 
 La checklist de relecture que j'ai élaborée témoigne d'une vigilance stylistique. Je ne me contente plus de relire intuitivement mes textes : j'ai formalisé mes propres critères esthétiques et je demande à l'IAG de les appliquer systématiquement. Cela suppose d'avoir préalablement identifié mes tics, réfléchi à ce qui constitue mon style, objectivé mes préférences. Certains pourraient dire qu'il y a une forme de standardisation qui fige le style et la pensée. Ils ont raison mais à charge pour l'utilisateur de savoir faire évoluer cette checklist ou de ne pas l'utiliser (ce qui m'arrive encore régulièrement).
 
-Par ailleurs, l'IAG comme interlocuteur dialectique peut apporter des directions ou des idées que l'utilisateur n'aurait pas exploré ou trouvé. Il y a donc ici une forme de sérendipité qui impose à l'utilisateur une gymnastique plus importante que face à une feuille de papier. ^3f296b
+Par ailleurs, l'IAG comme interlocuteur dialectique peut apporter des directions ou des idées que l'utilisateur n'aurait pas explorées ou trouvées. Il y a donc ici une forme de sérendipité qui impose à l'utilisateur une gymnastique plus importante que face à une feuille de papier. 
 
 ## V. L'invisible : ce qui s'érode sans qu'on s'en aperçoive
 
@@ -144,13 +146,14 @@ Cette possibilité de révision facilitée modifie probablement la manière dont
 
 De même, la capacité à supporter l'incertitude documentaire s'affaiblit. Avant, chercher une information supposait d'accepter une phase d'errance, de tâtonnement dans les sources. Cette phase était frustrante mais formative : elle construisait une familiarité avec le sujet, une intuition de là où se trouvent les éléments pertinents. On pourrait se limiter à formuler une requête à l'IAG et attendre un résultat. Si le résultat n'est pas satisfaisant, on ajuste la requête. Dans ce cadre, on ne développe plus cette connaissance du territoire documentaire qui permettait autrefois de naviguer efficacement.
 
-C'est pourquoi je veille régulièrement à commencer seule mes recherches. J'explore le sujet à l'aide de différents outils pour me faire une première idée de la thématique ou du sujet. A nouveau et comme cité ci-dessus, c'est une forme de thérapeutique.
+C'est pourquoi je veille régulièrement à commencer seul mes recherches. J'explore le sujet à l'aide de différents outils pour me faire une première idée de la thématique ou du sujet. À nouveau et comme cité ci-dessus, c'est une forme de thérapeutique.
 
 ### Ce qu'on ne délègue pas encore
 
 L'analyse des résistances actuelles permet aussi d'anticiper les futures délégations. Aujourd'hui, je maintiens une ligne rouge stricte : l'IAG ne doit pas formuler la recommandation juridique finale. Mais cette frontière tiendra-t-elle ? Dans mes échanges, je constate déjà que l'IAG est capable de comparer les options de manière sophistiquée, d'identifier les critères pertinents, de mettre en balance les avantages et inconvénients. La seule chose qu'elle ne fait pas, c'est trancher. Mais trancher, dans de nombreux cas, découle assez mécaniquement de la comparaison préalable.
 
 Il est donc plausible que, progressivement, je commence à déléguer également cette phase de recommandation. Peut être d'abord dans les cas simples puis dans des situations plus complexes. Non par paresse intellectuelle, mais parce que la logique de l'efficacité poussera dans cette direction. Si l'IA peut recommander correctement dans 95% des cas, pourquoi continuer à faire manuellement ce qu'elle fait mieux et plus vite ?
+
 ### L'angle mort collectif : la transformation du milieu professionnel
 
 L'angle mort qui semble le plus important ne concerne peut-être pas mes compétences individuelles, mais la transformation collective du milieu professionnel. Simondon visait la notion de "milieu associé" : les individus ne perdent pas leurs savoir-faire dans l'isolement mais parce que le milieu technique et social dans lequel ils s'insèrent se transforme. Quand tout le monde utilise l'IA, ce ne sont pas seulement les pratiques individuelles qui changent, ce sont les standards de la profession, les attentes des clients, les critères de qualité.
@@ -163,17 +166,15 @@ Cette transformation collective est l'angle mort par excellence : on la vit sans
 
 ## Conclusion : cartographier et explorer pour ne pas subir ? 
 
-Cet expérience n'a pas pour ambition de trancher la question de savoir si cette transformation est bénéfique ou néfaste. Ce serait reproduire le schéma binaire - technophilie versus technophobie - que les propositions conceptuels de Stiegler et Ellul, par exemple, nous permettent précisément de dépasser. L'IA n'est ni un progrès ni une régression : elle est un pharmakon, à la fois poison et remède, dont les effets dépendent des usages qu'on en fait et des milieux dans lesquels elle s'insère.
+Cette expérience n'a pas pour ambition de trancher la question de savoir si cette transformation est bénéfique ou néfaste. Ce serait reproduire le schéma binaire - technophilie versus technophobie - que les propositions conceptuelles de Stiegler et Ellul, par exemple, nous permettent précisément de dépasser. L'IA n'est ni un progrès ni une régression : elle est un pharmakon, à la fois poison et remède, dont les effets dépendent des usages qu'on en fait et des milieux dans lesquels elle s'insère.
 
-L'objectif était plus modeste : cartographier une pratique en transformation, identifier ce qui se délègue et ce qui résiste, observer l'émergence de nouveaux gestes professionnels et l'obsolescence d'anciens savoir-faire. Cette cartographie n'a rien d'exhaustive : elle repose sur quelques d'échanges, dans un contexte spécifique et individuel mais elle esquisse une méthode (utiliser ses propres usages comme matériau d'analyse) et une expérience que je vais reproduire. 
+L'objectif était plus modeste : cartographier une pratique en transformation, identifier ce qui se délègue et ce qui résiste, observer l'émergence de nouveaux gestes professionnels et l'obsolescence d'anciens savoir-faire. Cette cartographie n'a rien d'exhaustive : elle repose sur quelques échanges, dans un contexte spécifique et individuel mais elle esquisse une méthode (utiliser ses propres usages comme matériau d'analyse) et une expérience que je vais reproduire. 
 
-Car l'enjeu n'est pas seulement cognitif, il est aussi éthique et politique. Si on ne documente pas ces transformations, si on les laisse advenir sans les observer, on risque de les subir plutôt que de les orienter. La grammatisation est très probablement inéluctable. Ce qui ne l'est cepandant certainement pas, ce sont ces modalités. Entre une prolétarisation subie, où nous devenons simple exécutant d'algorithmes qu'on ne maîtrise plus, et une grammatisation choisie, où nous conservons la capacité de dire ce qui doit rester humain et ce qui peut être délégué, il y a un espace de manœuvre mais surtout d'expérimentations.
+Car l'enjeu n'est pas seulement cognitif, il est aussi éthique et politique. Si on ne documente pas ces transformations, si on les laisse advenir sans les observer, on risque de les subir plutôt que de les orienter. La grammatisation est très probablement inéluctable. Ce qui ne l'est cependant certainement pas, ce sont ces modalités. Entre une prolétarisation subie, où nous devenons simple exécutant d'algorithmes qu'on ne maîtrise plus, et une grammatisation choisie, où nous conservons la capacité de dire ce qui doit rester humain et ce qui peut être délégué, il y a un espace de manœuvre mais surtout d'expérimentations.
 
 Cet espace suppose une vigilance critique continue. Il exige qu'on résiste à la tentation de déléguer toujours plus, sous prétexte d'efficacité. Il requiert qu'on identifie et qu'on cultive activement les compétences qui risquent de s'éroder. Il demande qu'on refuse certaines automatisations, même techniquement possibles, parce qu'elles franchiraient une ligne rouge éthique ou épistémologique.
 
-Mais il suppose aussi qu'on accepte que le travail intellectuel se transforme. Que le juriste de 2035 ne sera pas celui de 2025, comme celui de 2025 n'est déjà plus celui de 2000. Que de nouveaux savoir-faire émergent (le prompt engineering, la méta-écriture, le dialogue dialectique avec l'IAG) qui sont tout aussi légitimes et exigeants intellectuellement que les anciens. Que la question n'est pas de préserver à tout prix un modèle professionnel figé, mais de faire en sorte que les transformations techniques servent l'intelligence plutôt que la remplacent.
+Mais il suppose aussi qu'on accepte que le travail intellectuel se transforme. Que le juriste de 2035 ne sera pas celui de 2025, comme celui de 2025 n'est déjà plus celui de 2000. Que de nouveaux savoir-faire émergent (le prompt engineering, la méta-écriture, le dialogue dialectique avec l'IAG) qui sont tout aussi légitimes et exigeants intellectuellement que les anciens. Que la question n'est pas de préserver à tout prix un modèle professionnel figé, mais de faire en sorte que les transformations techniques servent l'intelligence plutôt que de la remplacer.
 
 Cette expérience est donc, au fond, un exercice d'attention. Attention à ce qu'on fait, à comment on le fait, à pourquoi on le fait ainsi plutôt qu'autrement. Dans un environnement technique qui favorise l'automaticité, la réactivité, l'accélération, maintenir cette attention réflexive est peut-être l'expérience la plus précieuse. Celle qui permet de ne pas devenir le simple opérateur d'une machinerie dont on aurait perdu la compréhension. Celle qui fait qu'on reste quelqu'un qui pense plutôt qu'un simple opérateur technicien qui applique des procédures.
 
----
-[[Savoir sans faire. Faire sans savoir - dépossession de la capacité opératoire par l'IA générative]]
