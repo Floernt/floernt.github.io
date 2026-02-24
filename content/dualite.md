@@ -25,6 +25,10 @@ Une démarche qui incarne la dualité même qu'elle cherche à documenter : util
 
 ## Mon carnet de notes
 
+[Grammatiser et observer. Deux nouvelles pratiques thérapeutiques à l'intelligence artificielle générative]({{<relref "post/grammatiser observer.md" >}})
+
+[Authenticité et sincérité. L'aporie de la transparence]({{<relref "post/aporie transparence.md" >}})
+
 [Phénoménologie d'une pratique avec l'IAG (2026)]({{<relref "post/phenomenologie2026.md" >}})
 
 [Savoir sans faire. Faire sans savoir.]({{<relref "post/depossession operatoire.md" >}})
