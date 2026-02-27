@@ -25,6 +25,8 @@ Une démarche qui incarne la dualité même qu'elle cherche à documenter : util
 
 ## Mon carnet de notes
 
+[Ce que la machine fait au texte]({{<relref "post/machine texte.md" >}})
+
 [Grammatiser et observer. Deux nouvelles pratiques thérapeutiques à l'intelligence artificielle générative]({{<relref "post/grammatiser observer.md" >}})
 
 [Authenticité et sincérité. L'aporie de la transparence]({{<relref "post/aporie transparence.md" >}})
