@@ -46,6 +46,6 @@ url = "/about"
 weight = 5
 
 [[menu.main]]
-name = "blogroll"
-url = "/blogroll"
+name = "glossaire"
+url = "/glossaire"
 weight = 6
