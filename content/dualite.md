@@ -14,6 +14,13 @@ Dualité, c'est l'opposition plutôt que l'équilibre. La dualité c'est ce qui 
 
 Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme de techno-critique. C'est accepter que l'harmonie ne peut être trouvée et assumer la subjectivité de mon regard sur le sujet.
 
+## Glossaire
+
+Au fil des publications, certains concepts reviennent, se précisent ou se forgent. Le glossaire en rassemble les définitions : néologismes, notions théoriques et termes structurants mobilisés dans ces réflexions.
+
+[Consulter le glossaire]({{<relref "glossaire.md" >}})
+
+
 
 ## L'expérience phénoménologique
 
@@ -24,6 +31,8 @@ Une démarche qui incarne la dualité même qu'elle cherche à documenter : util
 [Expérience phénoménologique de l'intelligence artificielle générative]({{<relref "/experience phenomenologique.md" >}})
 
 ## Mon carnet de notes
+
+[De l'ablation sémantique à l'ablation attentionnelle]({{<relref "post/ablation attentionnelle.md" >}})
 
 [Grammatiser et observer. Deux nouvelles pratiques thérapeutiques à l'intelligence artificielle générative]({{<relref "post/grammatiser observer.md" >}})
 

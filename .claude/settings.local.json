@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for f in ablation-attentionnelle.md ablation-semantique.md aporie-transparence.md autonomie-numerique.md biais-automatisation.md decerebration.md depossession-operatoire.md epiphylogenese.md grammatisation.md imperceptif.md individuation.md logocratie.md meta-ecriture.md)",
+      "Bash(do sed -i 's|\\\\.\\\\./GLOSSAIRE\\\\.md|/glossaire/|g' \"$f\")",
+      "Bash(echo \"OK: $f\")",
+      "Bash(done)"
+    ]
+  }
+}
