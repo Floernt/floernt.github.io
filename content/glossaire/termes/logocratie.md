@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-03-04
 ---
 
 # La logocratie
@@ -29,7 +29,8 @@ Les individus qui maîtrisent les codes du format algorithmiquement récompensé
 
 ## Articles où ce terme est mobilisé
 
-Ce terme est développé dans mes notes et échanges, mais n'a pas encore fait l'objet d'un article publié sur reflexions.florianernotte.be. À venir.
+- [L'impact politique des réseaux sociaux](https://reflexions.florianernotte.be/post/impact-politique-r%C3%A9seaux-sociaux/)
+- [Comment l'IA change notre société-système ?](https://reflexions.florianernotte.be/post/societe-systeme/)
 
 ---
 

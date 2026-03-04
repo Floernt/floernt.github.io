@@ -4,7 +4,7 @@ date : 2026-01-19
 description : Résultat 2025 d'une expérience phénoménologique de l'intelligence artificielle générative
 tags: 
   - dualité
-  -  ia
+  - ia
 
 ---
 

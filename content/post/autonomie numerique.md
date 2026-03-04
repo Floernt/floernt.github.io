@@ -5,7 +5,7 @@ description: En désirant une souveraineté numérique, on tente d'obtenir une a
 tags: 
 - personal
 - numerique
-- dualite
+- dualité
 - essai
 tldr: En mars, je partageais quelques réflexions sur la « résistance numérique ». L’idée n’est pas d’appeler à la déconnexion totale (irréaliste), mais d’inviter à une lucidité critique face à une technologie omniprésente. La souveraineté numérique semble une réponse à la domination des BigTechs, mais elle reste difficile à atteindre sans convergence entre offre européenne et demande citoyenne. À défaut, peut-être faut-il viser d’abord l’autonomie numérique individuelle. Comprendre les outils, choisir consciemment, sortir de la servitude volontaire. Et ça commence par la littératie numérique."
 ---

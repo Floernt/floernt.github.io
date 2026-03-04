@@ -6,7 +6,7 @@ aliases :
 tags: 
 - personal
 - ia
-- dualite
+- dualité
 ---
 
 

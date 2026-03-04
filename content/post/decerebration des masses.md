@@ -5,7 +5,7 @@ description: À force de tout externaliser, on finit par se déresponsabiliser.
 tags: 
 - ia
 - numerique
-- dualite
+- dualité
 tldr: Suite à un post de Dominique Boullier sur LinkedIn, je réagis à l’idée que l’IA générative serait une entreprise de décérébration de masse. C’est une position qui me semble trop radicale. Oui, la technologie pose des questions (écologiques, cognitives, etc.), mais la condamner en bloc n’aide pas. Ce n’est pas seulement une question d’offre — c’est aussi une question d’usage. On ne peut pas juste accuser les Big Techs sans interroger notre propre rapport aux outils qu’on utilise. À force de tout externaliser, on finit par se déresponsabiliser.
 
 ---

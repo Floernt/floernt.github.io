@@ -715,6 +715,46 @@ table tr:nth-child(even) {
   background-color: var(--color-background-code, #f1f1f1);
 }
 
+/* Tag filter */
+.tag-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-block: 1.5rem;
+}
+
+.tag-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  background: none;
+  border: 2px solid var(--color-primary, #dc143c);
+  border-radius: 3px;
+  color: var(--color-text, #232333);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85em;
+  padding: 0.2rem 0.6rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.tag-btn:hover,
+.tag-btn:focus {
+  background-color: var(--color-primary-hover, #b91c3c);
+  color: #ffffff;
+  outline: 2px solid var(--color-primary, #dc143c);
+  outline-offset: 2px;
+}
+
+.tag-btn.active {
+  background-color: var(--color-primary, #dc143c);
+  color: #ffffff;
+}
+
+.no-results {
+  color: var(--color-text-muted, #737373);
+  font-style: italic;
+}
+
 /* Navigation and theme toggle */
 nav {
   display: flex;

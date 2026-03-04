@@ -131,6 +131,24 @@ table tr:nth-child(even) {
   background-color: var(--color-background-code-dark, #3a3a3a);
 }
 
+/* Tag filter in dark mode */
+.tag-btn {
+  border-color: var(--color-primary-dark, #50fa7b);
+  color: var(--color-text-dark, #ffffff);
+}
+
+.tag-btn:hover,
+.tag-btn:focus {
+  background-color: var(--color-primary-dark, #50fa7b);
+  color: #000000;
+  outline-color: var(--color-primary-dark, #50fa7b);
+}
+
+.tag-btn.active {
+  background-color: var(--color-primary-dark, #50fa7b);
+  color: #000000;
+}
+
 /* Navigation toggle in dark mode */
 .nav-toggle {
   color: var(--color-text-dark, #ffffff);

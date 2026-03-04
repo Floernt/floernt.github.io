@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-03-04
 ---
 
 # L'autonomie numérique
@@ -35,6 +35,7 @@ Elle exige de rester protagoniste de ses actions : prendre en charge l'effort de
 - [Vers une résistance numérique](https://reflexions.florianernotte.be/post/resistance-numerique/)
 - [Sur la décérébration des masses](https://reflexions.florianernotte.be/post/decerebration-des-masses/)
 - [Eat local tech](https://reflexions.florianernotte.be/post/eatlocaltech/)
+- [L'impact politique des réseaux sociaux](https://reflexions.florianernotte.be/post/impact-politique-r%C3%A9seaux-sociaux/)
 
 ---
 
