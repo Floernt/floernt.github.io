@@ -126,3 +126,7 @@ Le document contient sept sections relatives à :
 L'ESMA prendra en compte les commentaires reçus dans le cadre de cette consultation et prévoit de publier un rapport final et de soumettre les projets de normes techniques à la Commission européenne pour approbation au plus tard le 30 juin 2024.
 
 Quelle est la conclusion à en tirer ? Si vous êtes impliqué dans les crypto-actifs, cette consultation est importante car elle vise à mettre en place les normes techniques de réglementation qui seront utilisé par les autorités nationales dans le cadre la mise en œuvre du règlement européen MICA.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

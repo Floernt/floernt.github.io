@@ -57,3 +57,7 @@ Enfin, dans le secteur des crypto-actifs où la compétence se fait rare tant la
 Avec le vote du règlement MICA par le Parlement européen en avril dernier, les autorités nationales vont devoir se mettre au travail pour appliquer ce règlement qui entrera en vigueur en 2024 pour partie. 
 
 Gageons que l’autorité nationale qui sera désignée en Belgique pour mettre en œuvre MICA adopte une approche résolument externe. La Belgique compte parmi elle des sociétés innovantes et regorge de talents prêts à contribuer. Profitons de cette énergie et construisons ensemble, le monde de demain.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés
