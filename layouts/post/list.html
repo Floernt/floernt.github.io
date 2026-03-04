@@ -1,0 +1,70 @@
+{{ define "main" }}
+<h1 class="page-title">Notes</h1>
+
+{{ $allTags := slice }}
+{{ range .Data.Pages }}
+  {{ if (not (in ($.Site.Params.excludedTypes | default (slice "page")) .Type)) }}
+    {{ with .GetTerms "tags" }}
+      {{ range . }}
+        {{ $allTags = $allTags | append .LinkTitle }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $allTags = $allTags | uniq | sort }}
+
+{{ if $allTags }}
+<div class="tag-filter" aria-label="Filtrer par tag">
+  <button class="tag-btn active" data-tag="*">tous</button>
+  {{ range $allTags }}
+  <button class="tag-btn" data-tag="{{ . | urlize }}">{{ . }}</button>
+  {{ end }}
+</div>
+{{ end }}
+
+<ul class="posts" id="posts-list">
+  {{- range .Data.Pages -}}
+    {{- if (not (in ($.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+    {{ $tagSlugs := slice }}
+    {{ range .GetTerms "tags" }}
+      {{ $tagSlugs = $tagSlugs | append (.LinkTitle | urlize) }}
+    {{ end }}
+    <li class="post" data-tags="{{ delimit $tagSlugs " " }}">
+      <a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat ":date_medium" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+    </li>
+    {{- end -}}
+  {{- end -}}
+</ul>
+
+<p class="no-results" id="no-results" style="display:none;">Aucune note pour ce tag.</p>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.tag-btn');
+  var posts = document.querySelectorAll('#posts-list .post');
+  var noResults = document.getElementById('no-results');
+
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var tag = this.getAttribute('data-tag');
+
+      buttons.forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+
+      var visible = 0;
+      posts.forEach(function (post) {
+        var tags = post.getAttribute('data-tags') || '';
+        if (tag === '*' || tags.split(' ').indexOf(tag) !== -1) {
+          post.style.display = '';
+          visible++;
+        } else {
+          post.style.display = 'none';
+        }
+      });
+
+      noResults.style.display = visible === 0 ? '' : 'none';
+    });
+  });
+})();
+</script>
+{{ end }}

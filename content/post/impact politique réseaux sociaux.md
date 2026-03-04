@@ -1,14 +1,13 @@
 ---
 title: "L'impact politique des réseaux sociaux"
 date: 2025-01-22
+lastmod: 2025-03-25
 description: ""
 tags: 
 - personal
 - libex
-- dualite
+- dualité
 ---
-//last update- 09/03/25//
-
 ## Une présence virtuelle à tout prix? 
 
 « N'ayez aucun jugement de valeurs dans votre stratégie social media. Un réseau social est un dispositif technique disposant d'audiences stratégiques. Si un réseau social dispose de vos audiences stratégiques, allez-y. Une organisation n'a pas à juger de l'angle politique d'une plateforme. » ([source](https://www.linkedin.com/feed/update/urn:li:activity:7283868286310612994/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7283868286310612994%2C7283908794030456832%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287283908794030456832%2Curn%3Ali%3Aactivity%3A7283868286310612994%29))
@@ -29,7 +28,7 @@ En réalité, le positionnement d’une organisation, au regard des ses valeurs 
 
 Je pense que si une organisation revendique un engagement fort, elle doit l’assumer jusque dans sa stratégie digitale. Ce n’est pas juste une question de posture, mais de cohérence. Concrètement, cela implique :
 
-- Adapter sa présence : être partout n’est pas une fin en soi. On peut choisir des plateformes plus en phase avec ses principes ou miser sur d’autres canaux (blogs, communautés privées, newsletters).
+- Adapter sa présence : être partout n’est pas une fin en soi. On peut choisir des plateformes plus en phase avec ses principes ou miser sur d’autres canaux (blogs, communautés privées, newsletters). C’est une forme d’[autonomie numérique](/glossaire/termes/autonomie-numerique/) appliquée à la communication.
 
 - Expliquer ses choix: ce n’est pas tant l’absence d’un réseau qui pose problème que le manque de clarté sur les raisons de ce choix. Si une entreprise décide de ne pas être sur X/Twitter ou Facebook, elle doit pouvoir en parler ouvertement.Car s'offusquer publiquement de tel ou tel fait de société et s'arrêter à cela est symptomatique de notre société. Ainsi que Louis de Diesbach le précise dans son livre 'Liker sa servitude', on tombe dans le paradoxe des réseaux sociaux : "vouloir se démarquer en suivant les habitudes de tous, être unique en faisant comme tout le monde". 
 
@@ -49,7 +48,7 @@ Il faudrait donc être partout pour être sûr de capter chacune des personnes d
 
 N'y-a-t-il pas une erreur stratégique de prendre en compte ce type de cible? Est-on bien sûr de vouloir toucher une cible qui ne partage pas nos valeurs? 
 
-Même à suivre ce raisonnement, on se heurte à la dure loi des algorithmes. Une organisation reste soumise aux règles opaques des algorithmes. Ces derniers déterminent ce qui est visible, ce qui est amplifié et ce qui est ignoré en fonction de critères qui échappent aux utilisateurs et aux créateurs de contenu.  Nous avons tous un fil d'actualité différent avec des contenus poussés par l'algorithme de manière "un peu secrète." On constate d'ailleurs que la portée des publications d'entreprises sont moindres que celles de comptes personnels.  On nous vend l’idée qu’être présent sur les plateformes est indispensable, mais la réalité est plus nuancée. Entre les filtres algorithmiques, la saturation des contenus et l’érosion de la portée organique, une question se pose : à quoi bon être là si personne ne voit nos messages ou si notre impact est dérisoire ? Est ce donc une présence superficielle qui est privilégiée à tout prix?
+Même à suivre ce raisonnement, on se heurte à la dure loi des algorithmes. Une organisation reste soumise aux règles opaques des algorithmes — ce que l'on peut appeler une [logocratie](/glossaire/termes/logocratie/). Ces derniers déterminent ce qui est visible, ce qui est amplifié et ce qui est ignoré en fonction de critères qui échappent aux utilisateurs et aux créateurs de contenu.  Nous avons tous un fil d'actualité différent avec des contenus poussés par l'algorithme de manière "un peu secrète." On constate d'ailleurs que la portée des publications d'entreprises sont moindres que celles de comptes personnels.  On nous vend l’idée qu’être présent sur les plateformes est indispensable, mais la réalité est plus nuancée. Entre les filtres algorithmiques, la saturation des contenus et l’érosion de la portée organique, une question se pose : à quoi bon être là si personne ne voit nos messages ou si notre impact est dérisoire ? Est ce donc une présence superficielle qui est privilégiée à tout prix?
 
 ## Une consommation multi-canaux 
 
