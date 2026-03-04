@@ -135,3 +135,7 @@ En 1976 déjà, l'économiste F. Hayek, dans son essai “[Pour une vraie concur
 Une forme de darwinisme monétaire où la sélection se fait par le marché et ses utilisateurs et n'est plus dictée par les Etats et les banques centrales. Dis comme ça, ça me fait penser à quelques choses quand même :D !
 
 Ce sera sur ces réflexions que je cloture cette édition tout en précisant que les notions de monnaies programmables et de concurrence des monnaies seront abordées, j’espère, dans l'une des prochaines éditions de ces crypto-réflexions (et dans pas trop longtemps surtout).
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

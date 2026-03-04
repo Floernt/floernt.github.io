@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+
+			<main class="list">
+
+				<section class="home-intro">
+					<p>Bonjour !</p>
+					<p>Je suis Florian Ernotte, avocat chez <a href="https://avroy.be">avroy avocats</a>. 
+						
+					<p>J'écris ici pour penser à voix haute ce que la technologie fait à notre société, aux individus et à notre monde professionel. Je tiens ce carnet de notes comme un espace de réflexion, d'exploration et de partage.</p>
+					<p>J'aime aussi écouter (beaucoup) de musique. Vous trouverez <a href="https://open.spotify.com/playlist/2w6ccDjMgsQS1VETA39vSB?si=59fc1a2b5ae34521">ici </a> un échantillon mis à jour mensuellement.</p>
+				</section>
+
+				<section class="commencer">
+					<p><strong>Par où commencer :</strong></p>
+						<li>Lire <a href="/dualite">dualité</a>, mon carnet de notes d'analyse oscillant entre droit et philosophie de la technique</li>
+						<li>Parcourir mes réflexions sur <a href="/post/proletarisation-droit">la prolétarisation</a> et ce qu'elle révèle sur l'adoption de l'IA en droit</li>
+						<li>Explorer à partir d'un <a href="/post">tag thématique</a> </li>
+						<li>Consulter le <a href="/glossaire">glossaire</a> et découvrir les concepts abordés au sein de mes notes.</li>
+				</section>
+
+				<section class="home-recent">
+					<h2>Notes récentes</h2>
+					{{ $posts := where .Site.RegularPages "Type" "post" }}
+					{{ $posts = where $posts "Params.hidden" "ne" true }}
+					{{ $posts = where $posts "Draft" false }}
+					{{ range first 5 ($posts.ByDate.Reverse) }}
+					<div class="list-item">
+						<h1 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+						<time>{{ dateFormat ":date_medium" .Date }}</time>
+						{{ template "partials/pagedescription.html" . }}
+					</div>			
+					<p><strong>Toutes mes notes sont disponibles <a href="/post">ici</a>. </strong></p>
+					{{ end }}
+				</section>
+
+			</main>
+			{{ partial "footer.html" . }}
+		</div>
+	</body>
+</html>

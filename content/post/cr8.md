@@ -95,3 +95,7 @@ Les enjeux régulatoires à ce sujet seront intéressants à suivre.
 Va-t-on tomber dans l'absurdité de [la décision relative au développeur de Tornado Cash](https://www.coindesk.com/fr/policy/2024/05/16/crypto-community-voices-outrage-at-tornado-cash-developer-verdict/) ? 
 
 Affaire à suivre! 
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

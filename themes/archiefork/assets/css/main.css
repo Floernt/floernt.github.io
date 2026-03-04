@@ -825,3 +825,7 @@ nav {
     align-items: flex-start;
   }
 }
+
+.commencer {
+  margin-top: 2rem;
+}

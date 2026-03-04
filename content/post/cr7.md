@@ -60,3 +60,7 @@ Nous devons nous interroger sur le type de société que nous souhaitons créer 
 Je vous encourage à lire [le manifeste de Cyberpunk d'Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html) ([traduction FR ici](https://www.ethereum-france.com/blog/le-manifeste-dun-cypherpunk/)) pour approfondir cette réflexion.
 
 Il est important d’explorer façonner, ensemble, l'avenir des crypto-actifs de manière responsable et consciente de leurs implications à long terme.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

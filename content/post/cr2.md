@@ -167,3 +167,7 @@ C’est ici que l’on constate que Monsieur le parlementaire, bien qu’il pré
 La grande majorité des banques sont très réticentes à accepter des fonds provenant de la conversion de crypto actifs et la clôture des relations contractuelles et commerciales pour ce motif est monnaie courante (sans mauvais jeu de mots).
 
 Par ailleurs, penser qu’il suffit d’utiliser les crypto actifs pour blanchir le produit d’activité illicite démontre une absence complète de nuance, de compréhension, et d’information dans le chef de ce parlementaire.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

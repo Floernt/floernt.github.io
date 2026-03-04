@@ -191,3 +191,7 @@ A la sortie, il faut s’assurer que les crypto-actifs vendus contre de la monna
 Il n’est pas nécessaire de prévoir plus que ces mesures puisque la traçabilité offerte par la blockchain permettra de s’assurer de la véracité des informations données par l’utilisateur.
 
 Rappelons aussi que des protocoles comme Tornado Cash offrait un moyen technique pour relever l’origine licite des fonds « mixés » et ce afin de répondre aux dispositions mises en œuvre pour lutter contre le blanchiment de capitaux et le financement du terrorisme.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

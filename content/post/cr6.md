@@ -104,3 +104,7 @@ Voici un résumé en quelques lignes de cette consultation:
     
 
 A noter enfin que la FCA ouvre une consultation publique sur diverses questions relatives à la mise en évidence des informations requises, aux attentes en vertu de l'obligation de consommer, à l'approche du marketing d'affiliation, à l'utilisation de profils de médias sociaux partagés entre des entités britanniques et non britanniques, et aux orientations proposées sur le périmètre de la promotion financière.
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés

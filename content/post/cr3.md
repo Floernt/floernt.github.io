@@ -61,3 +61,7 @@ Enfin, interdire l’usage d’une technologie pour des motifs écologiques pour
 Pour aller plus loin sur le sujet:
 
 [Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499) ou encore Regulate Web3 Apps, Not Protocols ([Part 1](https://a16zcrypto.com/web3-regulation-apps-not-protocols/), [Part 2](https://a16zcrypto.com/regulate-web3-apps-not-protocols-part-ii-framework-for-regulating-web3-apps/))
+
+---
+
+> Pour aller plus loin : [cryptomonnaie.be](https://cryptomonnaie.be/) — Le blog de la cryptomonnaie en Belgique | [Newsletter CryptoBelgique](https://cryptobelgique.substack.com/) — Restez informé des actualités et nouveautés
