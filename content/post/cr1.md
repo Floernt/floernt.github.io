@@ -1,5 +1,5 @@
 ---
-title: cryptoreflexions1
+title: CryptoReflexions#1 - Vie privée et crypto-actifs le mariage impossible?
 description: Vie privée et cryptoactifs. Un mariage impossible.Comment concilier les libertés fondamentales avec la lutte contre le blanchiment de capitaux
 date : 2022-12-22
 tldr: Comment concilier les libertés fondamentales avec la lutte contre le blanchiment de capitaux?
