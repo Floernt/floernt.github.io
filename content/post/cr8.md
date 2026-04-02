@@ -1,5 +1,5 @@
 ---
-title : cryptoreflexions8
+title: CryptoReflexions#8 - mica & paiements
 date : 2024-05-23 
 description : Entrée en vigueur de MICA
 tags: cryptoreflexion

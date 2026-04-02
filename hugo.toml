@@ -1,51 +1,103 @@
-baseURL = 'https://reflexions.florianernotte.be/' 
-languageCode = 'en-us'
-title = 'reflexions '
+baseURL = 'https://reflexions.florianernotte.be/'
+title = 'reflexions'
 theme = 'archiefork'
 copyright = "© Florian Ernotte"
 enableRobotsTXT = true
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = false
 
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
-  
+
 [params]
-mode= 'toggle'  
-subtitle = 'Quelques expériences et reflexions sur le Web'
+  mode = 'toggle'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-# Main menu Items
 
-[[menu.main]]
-name = "home"
-url = "/"
-weight = 1
+# Languages
 
-[[menu.main]]
-name = "notes"
-url = "/post"
-weight = 2
+[languages]
+  [languages.fr]
+    languageCode = 'fr'
+    languageName = 'Français'
+    weight = 1
+    title = 'reflexions'
+    [languages.fr.params]
+      subtitle = 'Quelques expériences et reflexions sur le Web'
 
-[[menu.main]]
-name = "numérique"
-url = "/numerique"
-weight = 3
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 2
+    title = 'reflexions'
+    [languages.en.params]
+      subtitle = 'Some thoughts and experiences on the Web'
 
-[[menu.main]]
-name = "dualité"
-url = "/dualite"
-weight = 4
+# Menus FR
 
-[[menu.main]]
-name = "à propos"
-url = "/about"
-weight = 5
+[[languages.fr.menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1
 
-[[menu.main]]
-name = "glossaire"
-url = "/glossaire"
-weight = 6
+[[languages.fr.menu.main]]
+  name = "notes"
+  url = "/post"
+  weight = 2
+
+[[languages.fr.menu.main]]
+  name = "numérique"
+  url = "/numerique"
+  weight = 3
+
+[[languages.fr.menu.main]]
+  name = "dualité"
+  url = "/dualite"
+  weight = 4
+
+[[languages.fr.menu.main]]
+  name = "à propos"
+  url = "/about"
+  weight = 5
+
+[[languages.fr.menu.main]]
+  name = "glossaire"
+  url = "/glossaire"
+  weight = 6
+
+# Menus EN
+
+[[languages.en.menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1
+
+[[languages.en.menu.main]]
+  name = "notes"
+  url = "/post"
+  weight = 2
+
+[[languages.en.menu.main]]
+  name = "digital"
+  url = "/numerique"
+  weight = 3
+
+[[languages.en.menu.main]]
+  name = "duality"
+  url = "/dualite"
+  weight = 4
+
+[[languages.en.menu.main]]
+  name = "about"
+  url = "/about"
+  weight = 5
+
+[[languages.en.menu.main]]
+  name = "glossary"
+  url = "/glossaire"
+  weight = 6

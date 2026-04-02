@@ -1,5 +1,5 @@
 ---
-title: cryptoreflexions2
+title: CryptoReflexions#2
 description: Réflexions sur l'actualité législative française et le renforcement réglementaire du PSAN.
 date : 2023-01-30
 tldr: 

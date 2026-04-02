@@ -1,5 +1,5 @@
 ---
-title : cryptoreflexions9
+title: CryptoReflexions#9 - Les maladies de la blockchain et le règlement UE sur les paiements instantanées
 date : 2024-09-01 
 description : Les maladies de la blockchain et le réglement UE sur les paiements instantanées
 tags: cryptoreflexion

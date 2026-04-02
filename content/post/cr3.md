@@ -1,5 +1,5 @@
 ---
-title: cryptoreflexions3
+title: CryptoReflexions#3 - le principe de neutralité technologique appliqué aux secteurs des crypto-actifs
 description: Réglementer les entreprises et l'utilisation, pas la technologie. Petit aperçu du principe de neutralité technologique.
 date : 2023-02-20
 tldr: 

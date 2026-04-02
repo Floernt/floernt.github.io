@@ -7,10 +7,11 @@
 
 			<main class="list">
 
+				{{ if eq .Site.Language.Lang "fr" }}
 				<section class="home-intro">
 					<p>Bonjour !</p>
-					<p>Je suis Florian Ernotte, avocat chez <a href="https://avroy.be">avroy avocats</a>. 
-						
+					<p>Je suis Florian Ernotte, avocat chez <a href="https://avroy.be">avroy avocats</a>.
+
 					<p>J'écris ici pour penser à voix haute ce que la technologie fait à notre société, aux individus et à notre monde professionel. Je tiens ce carnet de notes comme un espace de réflexion, d'exploration et de partage.</p>
 					<p>J'aime aussi écouter (beaucoup) de musique. Vous trouverez <a href="https://open.spotify.com/playlist/2w6ccDjMgsQS1VETA39vSB?si=59fc1a2b5ae34521">ici </a> un échantillon mis à jour mensuellement.</p>
 				</section>
@@ -22,9 +23,26 @@
 						<li>Explorer à partir d'un <a href="/post">tag thématique</a> </li>
 						<li>Consulter le <a href="/glossaire">glossaire</a> et découvrir les concepts abordés au sein de mes notes.</li>
 				</section>
+				{{ else }}
+				<section class="home-intro">
+					<p>Hello!</p>
+					<p>I'm Florian Ernotte, a lawyer at <a href="https://avroy.be">avroy avocats</a>.
+
+					<p>I write here to think out loud about what technology does to our society, to individuals and to our professional world. I keep this notebook as a space for reflection, exploration and sharing.</p>
+					<p>I also love listening to (a lot of) music. You'll find <a href="https://open.spotify.com/playlist/2w6ccDjMgsQS1VETA39vSB?si=59fc1a2b5ae34521">here</a> a sample updated monthly.</p>
+				</section>
+
+				<section class="commencer">
+					<p><strong>Where to start:</strong></p>
+						<li>Read <a href="{{ "dualite" | relLangURL }}">duality</a>, my notebook oscillating between law and philosophy of technology</li>
+						<li>Browse my thoughts on <a href="{{ "post/proletarisation-droit" | relLangURL }}">proletarianisation</a> and what it reveals about AI adoption in law</li>
+						<li>Explore from a <a href="{{ "post" | relLangURL }}">thematic tag</a></li>
+						<li>Check out the <a href="{{ "glossaire" | relLangURL }}">glossary</a> and discover the concepts discussed in my notes.</li>
+				</section>
+				{{ end }}
 
 				<section class="home-recent">
-					<h2>Notes récentes</h2>
+					<h2>{{ i18n "recentNotes" }}</h2>
 					{{ $posts := where .Site.RegularPages "Type" "post" }}
 					{{ $posts = where $posts "Params.hidden" "ne" true }}
 					{{ $posts = where $posts "Draft" false }}
@@ -33,8 +51,8 @@
 						<h1 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
 						<time>{{ dateFormat ":date_medium" .Date }}</time>
 						{{ template "partials/pagedescription.html" . }}
-					</div>			
-					<p><strong>Toutes mes notes sont disponibles <a href="/post">ici</a>. </strong></p>
+					</div>
+					<p><strong>{{ i18n "allNotesAvailable" }} <a href="{{ "post" | relLangURL }}">{{ i18n "here" }}</a>. </strong></p>
 					{{ end }}
 				</section>
 
