@@ -1,5 +1,6 @@
 ---
 title : Blogroll
+slug: blogroll
 ---
 
 You are viewing a human-curated list of blogs, personal and independent websites that are regularly updated. No algorithms, ever!

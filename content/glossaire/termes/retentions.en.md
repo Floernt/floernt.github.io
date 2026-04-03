@@ -1,6 +1,7 @@
 ---
 date: 2026-03-03
 lastmod: 2026-03-03
+slug: retentions
 ---
 
 # Retentions (Primary, Secondary, Tertiary)
