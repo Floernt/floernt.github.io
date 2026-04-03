@@ -68,4 +68,4 @@ J'aurai pu faire autrement, en étant moins paresseux et en relisant minutieusem
 
 ## Phénoménologie d'une pratique avec l'IAG
 
-[Phénoménologie d'une pratique avec l'IAG (2026)] ({{<relref "post/phenomenologie2026.md" >}})
+[Phénoménologie d'une pratique avec l'IAG (2026)] ({{<relref "post/2026/phenomenologie2026.md" >}})

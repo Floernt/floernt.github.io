@@ -1,5 +1,6 @@
 ---
 title : Phenomenological Experience of Generative Artificial Intelligence
+slug: phenomenological-experience
 date : 2026-01-19
 tags: 
 - dualité
@@ -68,4 +69,4 @@ I could have done it differently, being less lazy and carefully rereading every 
 
 ## Phenomenology of a Practice with Generative AI
 
-[Phenomenology of a Practice with Generative AI (2026)] ({{<relref "post/phenomenologie2026.md" >}})
+[Phenomenology of a Practice with Generative AI (2026)] ({{<relref "post/2026/phenomenologie2026.md" >}})

@@ -1,5 +1,6 @@
 ---
 title: Duality
+slug: duality
 date: 2025-04-04
 lastmod: 2026-03-04
 tags:
