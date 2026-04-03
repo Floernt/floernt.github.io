@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = false
   mode = 'toggle'
 
 [permalinks]
-  post = '/post/:slugorfilename/'
+  post = '/post/:slugorcontentbasename/'
 
 [markup]
   [markup.goldmark]
@@ -87,12 +87,12 @@ defaultContentLanguageInSubdir = false
 
 [[languages.en.menu.main]]
   name = "digital"
-  url = "/numerique"
+  url = "/digital"
   weight = 3
 
 [[languages.en.menu.main]]
   name = "duality"
-  url = "/dualite"
+  url = "/duality"
   weight = 4
 
 [[languages.en.menu.main]]
@@ -102,5 +102,5 @@ defaultContentLanguageInSubdir = false
 
 [[languages.en.menu.main]]
   name = "glossary"
-  url = "/glossaire"
+  url = "/glossary"
   weight = 6
