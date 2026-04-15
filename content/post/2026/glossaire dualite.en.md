@@ -4,7 +4,7 @@ slug: building-a-glossary-with-ai
 date: 2026-03-04
 description: Creating a glossary from a conversation history with GAI concretely illustrates what I mean by therapeutic practice.
 tags:
-- dualité
+- dualite
 - ia
 - therapeutique
 

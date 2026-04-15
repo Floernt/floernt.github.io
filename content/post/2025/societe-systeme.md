@@ -5,7 +5,7 @@ description: "Dans quelle société voulons-nous évoluer ?"
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
 - essai
 ---
 

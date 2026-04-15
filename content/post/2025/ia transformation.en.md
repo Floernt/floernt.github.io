@@ -6,7 +6,7 @@ description: AI is not merely a one-off optimization of existing processes but r
 tags: 
 - personal
 - ia
-- dualité
+- dualite
 ---
 
 

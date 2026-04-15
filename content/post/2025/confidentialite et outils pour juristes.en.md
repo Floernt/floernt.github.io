@@ -4,7 +4,7 @@ slug: confidentiality-and-tools-for-lawyers
 date: 2025-08-21
 description: Confidentiality is becoming an important concern for lawyers who wish to use technological tools in the exercise of their profession.
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

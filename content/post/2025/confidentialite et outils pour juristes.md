@@ -3,7 +3,7 @@ title: Sur la confidentialité et les outils des juristes
 date: 2025-08-21
 description: La confidentialité devient un sujet de préocuppation important pour les juristes qui souhaitent utiliser des outils technologiques dans l'exercice de leur profession. 
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

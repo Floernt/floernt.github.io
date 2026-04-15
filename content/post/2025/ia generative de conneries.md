@@ -5,7 +5,7 @@ description: "Un système génératif de conneries? Pour une critique constructi
 tags: 
 - personal
 - ia
-- dualité
+- dualite
 ---
 J’ai commencé à explorer le site personnel de [Richard Stallman](https://www.stallman.org/) pour approfondir mes réflexions sur le numérique et les moyens de « resister » à la toute puissance des Gafams.
 

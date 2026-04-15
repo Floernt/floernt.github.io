@@ -3,7 +3,7 @@ title: La prolétarisation du droit à l'ère de l'IA
 date: 2026-01-03
 description: Un changement sémantique qui risque de devenir performatif? 
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

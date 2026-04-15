@@ -7,7 +7,7 @@ description: ""
 tags: 
 - personal
 - libex
-- dualité
+- dualite
 ---
 ## A virtual presence at all costs?
 

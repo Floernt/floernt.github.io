@@ -3,7 +3,7 @@ title : Phenomenological Experience of Generative Artificial Intelligence
 slug: phenomenological-experience
 date : 2026-01-19
 tags: 
-- dualité
+- dualite
 - ia
 
 ---

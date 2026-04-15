@@ -6,7 +6,7 @@ description: "In what society do we want to live?"
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
 - essai
 ---
 

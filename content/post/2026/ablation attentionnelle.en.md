@@ -8,7 +8,7 @@ description: A misconception that reassures us about generative AI output. The r
 tags: 
 - numerique
 - ia
-- dualité
+- dualite
 
 ---
 ## What Damasio Said About the Machine

@@ -5,7 +5,7 @@ description: Do we have to disclaim how we use AI ?
 tags: 
 - numerique
 - ia
-- dualité
+- dualite
 
 ---
 

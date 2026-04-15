@@ -4,7 +4,7 @@ slug: operative-dispossession
 date: 2026-01-13
 description: Cognitive proletarianization is not merely a dispossession of knowledge and competence. It engenders a reconfiguration of the individual's role.
 tags:
-- dualité
+- dualite
 - therapeutique
 - essai
 

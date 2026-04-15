@@ -5,7 +5,7 @@ date: 2025-04-27
 description: Understanding LLM usage to extract real value from it
 tags:
 - numerique
-- dualité
+- dualite
 - ia
 tldr: Generative AI should not be a simple layer added to existing software. We need to rethink our tools around AI, understand its real use cases (contextual generation, not repetitive automation) and customize its behavior, notably through the system prompt, to extract real value from it.
 

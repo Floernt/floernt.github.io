@@ -7,7 +7,7 @@ tags:
 - personal
 - ia
 - numerique
-- dualité
+- dualite
 ---
 
 <div style="text-align: justify"> 

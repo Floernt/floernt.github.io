@@ -6,7 +6,7 @@ description: Outline of the imperceptive and therapeutic practices.
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
 - therapeutique
  
 ---

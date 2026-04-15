@@ -3,7 +3,7 @@ title: L'IA vous fait écrire n'importe quoi.
 date: 2025-11-02
 description: Ce qui me frappe, c’est que, bien que le style « machinique » et répétitif propre au début de l’intelligence artificielle générative a pu être "humanisé", le sens, lui, reste souvent creux et maintenant contradictoire dans une sorte d'indifférence généralisée. 
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

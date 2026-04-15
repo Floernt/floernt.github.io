@@ -4,7 +4,7 @@ date: 2025-04-27
 description: Comprendre l'usage des LLMs pour en extraire la valeur
 tags:
 - numerique
-- dualité
+- dualite
 - ia
 tldr: L'IA générative ne doit pas être une simple couche ajoutée à des logiciels existants. Il faut repenser nos outils autour de l'IA, comprendre ses vrais usages (génération contextuelle, pas automatisation répétitive) et personnaliser son fonctionnement, notamment via le _system prompt_, pour en tirer une vraie valeur.
 

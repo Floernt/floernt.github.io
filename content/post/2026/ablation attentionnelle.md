@@ -5,7 +5,7 @@ description: Un contresens qui rassure sur la production de l'IA générative. L
 tags: 
 - numerique
 - ia
-- dualité
+- dualite
 
 ---
 ## Ce que Damasio a dit de la machine 
