@@ -4,7 +4,7 @@ slug: phenomenology-of-a-practice-with-generative-ai-2026
 date : 2026-01-19
 description : 2025 results of a phenomenological experiment with generative artificial intelligence
 tags: 
-  - dualité
+  - dualite
   - ia
 
 ---

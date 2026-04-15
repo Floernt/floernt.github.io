@@ -6,7 +6,7 @@ description: By seeking digital sovereignty, we attempt to achieve digital auton
 tags: 
 - personal
 - numerique
-- dualité
+- dualite
 - essai
 tldr: In March, I shared some reflections on 'digital resistance.' The idea is not to call for total disconnection (unrealistic), but to invite critical lucidity in the face of omnipresent technology. Digital sovereignty seems like an answer to BigTech dominance, but it remains difficult to achieve without convergence between European supply and citizen demand. Failing that, perhaps we should first aim for individual digital autonomy. Understanding tools, choosing consciously, escaping voluntary servitude. And it starts with digital literacy."
 ---

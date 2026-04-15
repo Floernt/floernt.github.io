@@ -4,7 +4,7 @@ slug: ai-makes-you-write-nonsense
 date: 2025-11-02
 description: What strikes me is that, although the "machine-like" and repetitive style characteristic of early generative artificial intelligence has been "humanized," the meaning often remains hollow and now contradictory in a sort of generalized indifference.
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

@@ -3,7 +3,7 @@ title: Recherche vs production. Le mythe de l'IA en droit.
 date: 2025-11-21
 description: On nous vend la révolution et on nous livre des bibliothèques sous stéroïdes.
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

@@ -4,7 +4,7 @@ slug: proletarianisation-of-law
 date: 2026-01-03
 description: A semantic shift that risks becoming performative?
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

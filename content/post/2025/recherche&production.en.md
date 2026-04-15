@@ -4,7 +4,7 @@ slug: research-vs-production-the-myth-of-ai-in-law
 date: 2025-11-21
 description: They sell us the revolution and deliver souped-up libraries.
 tags:
-- dualité
+- dualite
 - ia 
 
 ---

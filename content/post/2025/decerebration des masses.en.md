@@ -6,7 +6,7 @@ description: By outsourcing everything, we end up abdicating responsibility.
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
 tldr: Following a LinkedIn post by Dominique Boullier, I react to the idea that generative AI is a mass decerebration enterprise. This seems like too radical a position. Yes, technology raises questions (ecological, cognitive, etc.), but condemning it wholesale doesn't help. It's not just a supply-side question — it's also about usage. We can't just blame Big Tech without questioning our own relationship with the tools we use. By outsourcing everything, we end up abdicating responsibility.
 
 ---

@@ -4,7 +4,7 @@ slug: duality
 date: 2025-04-04
 lastmod: 2026-03-04
 tags:
-- dualité
+- dualite
 ---
 
 Duality is the name of my digital notebook collecting reflections on topics related to digital technology. Giving a name to this project is a way to structure it through a narrative thread and to set a framework to channel these reflections without confining them. It is also to continue doing so as current events, readings and experiences unfold.

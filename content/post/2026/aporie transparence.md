@@ -5,7 +5,7 @@ description: Sincértié ou authencité. La question de la divulgation de l'util
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
  
 ---
 Depuis quelques mois, j'ai pris le temps de réfléchir à la question de la transparence de l'utilisation de l'intelligence artificielle générative (ci-après l'IAG) ([voir notamment ici)](https://reflexions.florianernotte.be/post/ai-transparency/). Je m'étais dit que j'allais rédiger une suite à cette première note dans la mesure où j'avais reçu pas mal de commentaires qui avaient remodelé ma réflexion. J'ai finalement laissé le projet sur le côté. Et comme souvent, celui-ci est réapparu sans cre. D'abord à la suite de [cet article](https://time.com/7371832/looks-like-ai-writing-online-insult/) et puis quelques jours après, pendant une réflexion sur un projet d'écriture intégrant l'IAG

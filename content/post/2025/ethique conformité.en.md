@@ -4,7 +4,7 @@ slug: ethics-and-compliance-beyond-the-hype
 date: 2025-11-17
 description: My objective is to show that the notion of trustworthy AI rests on an illusion of ethics that masks a systemic dependence on technology and an absolute pursuit of efficiency.
 tags:
-- dualité
+- dualite
 - ia
 - essai
 ---

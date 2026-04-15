@@ -3,7 +3,7 @@ title: Ethique et conformité. Au delà de la hype.
 date: 2025-11-17
 description: Mon objectif est de montrer que la notion d’IA de confiance repose sur une illusion d’éthique qui masque une dépendance systémique à la technologie et à une recherche absolue d’efficacité.
 tags:
-- dualité
+- dualite
 - ia
 - essai
 ---

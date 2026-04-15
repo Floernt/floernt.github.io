@@ -3,7 +3,7 @@ title: Construire un glossaire avec l'IAG.
 date: 2026-03-04
 description: La création d'un glossaire à partir d'un historique de conversation avec l'IAG illustre concrètement ce que j'entends par pratique thérapeutique.
 tags:
-- dualité
+- dualite
 - ia
 - therapeutique
 

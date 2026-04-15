@@ -3,7 +3,7 @@ title: Savoir sans faire. Faire sans savoir.
 date: 2026-01-13
 description: La prolétarisation cognitive n’est pas seulement une dépossession du savoir et de la compétence.Elle engendre une reconfiguration du rôle de l'individu. 
 tags:
-- dualité
+- dualite
 - therapeutique
 - essai
 

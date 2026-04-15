@@ -2,7 +2,7 @@
 title : Expérience phénoménologique de l'intelligence artificielle générative
 date : 2026-01-19
 tags: 
-- dualité
+- dualite
 - ia
 
 ---

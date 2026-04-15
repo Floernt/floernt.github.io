@@ -6,7 +6,7 @@ description: "A generative bullshit system? For a constructive critique of gener
 tags: 
 - personal
 - ia
-- dualité
+- dualite
 ---
 I began exploring the personal website of [Richard Stallman](https://www.stallman.org/) to deepen my reflections on the digital world and ways to "resist" the omnipotence of Big Tech companies.
 

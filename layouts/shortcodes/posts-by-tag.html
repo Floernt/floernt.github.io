@@ -1,0 +1,17 @@
+{{ $tag := .Get "tag" }}
+{{ $limit := .Get "limit" | default "0" }}
+{{ $limitInt := int $limit }}
+{{ $currentPage := .Page }}
+{{ $taxonomy := index .Site.Taxonomies.tags $tag }}
+{{ if $taxonomy }}
+  {{ $pages := where $taxonomy.Pages.ByDate.Reverse "Type" "post" }}
+  {{ if gt $limitInt 0 }}
+    {{ $pages = first $limitInt $pages }}
+  {{ end }}
+  {{ range $pages }}
+  <div class="list-item">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <time>{{ dateFormat ":date_medium" .Date }}</time>
+  </div>
+  {{ end }}
+{{ end }}

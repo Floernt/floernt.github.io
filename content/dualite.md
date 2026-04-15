@@ -3,7 +3,7 @@ title : Dualité
 date : 2025-04-04
 lastmod : 2026-03-04
 tags: 
-- dualité
+- dualite
 
 ---
 
@@ -38,47 +38,5 @@ Une démarche qui incarne la dualité même qu'elle cherche à documenter : util
 
 ## Carnet de notes
 
-[Construire un glossaire avec l’IAG]({{<relref "post/2026/glossaire dualite.md" >}})
-
-[De l’ablation sémantique à l’ablation attentionnelle]({{<relref "post/2026/ablation attentionnelle.md" >}})
-
-[Grammatiser et observer. Deux nouvelles pratiques thérapeutiques à l’intelligence artificielle générative]({{<relref "post/2026/grammatiser observer.md" >}})
-
-[Authenticité et sincérité. L’aporie de la transparence]({{<relref "post/2026/aporie transparence.md" >}})
-
-[Phénoménologie d’une pratique avec l’IAG (2026)]({{<relref "post/2026/phenomenologie2026.md" >}})
-
-[Savoir sans faire. Faire sans savoir.]({{<relref "post/2026/depossession operatoire.md" >}})
-
-[La prolétarisation du droit à l’ère de l’IA.]({{<relref "post/2026/proletarisation droit.md" >}})
-
-[Ethique et conformité. Au delà de la hype.]({{<relref "post/2025/ethique conformité.md" >}})
-
-[L’IA vous fait écrire n’importe quoi]({{<relref "post/2025/ia nimporte quoi.md" >}})
-
-[Comment l’IA change notre société-système ?]({{<relref "post/2025/societe-systeme.md" >}})
-
-[Writing with LLM is not a shame. An essay about transparency on AI use.]({{<relref "post/2025/ai transparency.md" >}})
-
-[Sur la confidentialité et les outils des juristes]({{<relref "post/2025/confidentialite et outils pour juristes.md" >}})
-
-[Asking LLM for help is fine]({{<relref "post/2025/asking llm.md">}})
-
-[L’ia n’est pas une caractéristique produit]({{<relref "post/2025/ia pas une caracteristique.md">}})
-
-[L’autonomie numérique pour résister]({{<relref "post/2025/autonomie numerique.md">}})
-
-[Sur la décérébration des masses]({{<relref "post/2025/decerebration des masses.md">}})
-
-[Eat local tech]({{<relref "post/2025/eatlocaltech.md">}})
-
-[Déléguer le connu pour mieux penser l’inconnu]({{<relref "post/2025/deleguer le connu.md">}})
-
-[L’IA est une transformation]({{<relref "post/2025/ia transformation.md">}})
-
-[Vers une résistance numérique]({{<relref "post/2025/resistance numerique.md">}})
-
-[Une ia générative de conneries]({{<relref "post/2025/ia generative de conneries.md">}})
-
-[L’impact politique des réseaux sociaux]({{<relref "post/2025/impact politique réseaux sociaux.md">}})
+{{< posts-by-tag tag="dualite" >}}
 

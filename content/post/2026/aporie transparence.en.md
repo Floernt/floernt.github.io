@@ -6,7 +6,7 @@ description: Sincerity or authenticity. The question of disclosing the use of Ge
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
  
 ---
 For several months, I have taken the time to reflect on the question of transparency regarding the use of generative artificial intelligence (hereinafter GenAI) ([see notably here)](https://reflexions.florianernotte.be/post/ai-transparency/). I had told myself that I would write a follow-up to that first note, as I had received quite a few comments that had reshaped my thinking. I eventually set the project aside. And as often happens, it resurfaced unexpectedly. First, following [this article](https://time.com/7371832/looks-like-ai-writing-online-insult/) and then a few days later, during a reflection on a writing project integrating GenAI.

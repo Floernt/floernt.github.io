@@ -7,7 +7,7 @@ aliases :
 tags: 
 - personal
 - ia
-- dualité
+- dualite
 ---
 
 

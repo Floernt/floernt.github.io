@@ -5,7 +5,7 @@ description: Ebauche de l'imperceptif et pratiques thérapeutiques.
 tags: 
 - ia
 - numerique
-- dualité
+- dualite
 - therapeutique
  
 ---
