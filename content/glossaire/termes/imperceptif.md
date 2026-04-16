@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-04-15
 ---
 
 # L'imperceptif
@@ -13,9 +13,11 @@ lastmod: 2026-03-03
 
 ## Définition
 
-L'imperceptif désigne un impératif qu'on ne perçoit pas comme tel. C'est une contrainte qui n'en a pas l'apparence, qui s'exerce sans s'annoncer, qui détermine un comportement tout en laissant croire à celui qui le suit qu'il exerce un choix libre.
+L'imperceptif désigne la contrainte exercée sur le cadre de la décision. Sa spécificité tient à ce qu'il neutralise la pertinence des choix sans supprimer leur possibilité formelle. C'est un impératif qu'on ne perçoit pas comme tel, une contrainte qui n'en a pas l'apparence, qui s'exerce sans s'annoncer, qui détermine un comportement tout en laissant croire à celui qui le suit qu'il exerce un choix libre.
 
 L'imperceptif ne se présente jamais comme une obligation. Il emprunte les formes de l'opportunité, du bon sens, de l'évidence. Il opère par l'environnement plutôt que par l'injonction directe.
+
+L'imperceptif se distingue de concepts voisins : le *nudge* (intentionnel et ciblé), la *gouvernementalité* foucaldienne (qui produit des sujets via un pouvoir politique), la *norme sociale* (connue et sanctionnable) et le *monopole radical* d'Illich (conséquence observable de l'imperceptif). Il s'inscrit dans une chaîne causale : le *décalage prométhéen* (Anders) produit l'imperceptif, qui à son tour rend possibles les monopoles radicaux.
 
 ---
 
@@ -34,6 +36,7 @@ L'imperceptif est une figure de l'illusion de liberté : un choix qui n'en est p
 ## Articles où ce terme est forgé et défini
 
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Sur l'imperceptif.](https://reflexions.florianernotte.be/post/imperceptif/)
 
 ---
 

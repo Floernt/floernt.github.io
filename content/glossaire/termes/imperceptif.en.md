@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-04-15
 slug: the-imperceptive
 ---
 
@@ -14,9 +14,11 @@ slug: the-imperceptive
 
 ## Definition
 
-The imperceptive designates an imperative that one does not perceive as such. It is a constraint that does not appear as one, that exerts itself without announcing itself, that determines behavior while letting the person following it believe they are exercising a free choice.
+The imperceptive designates the constraint exerted on the framework of decision. Its specificity lies in the fact that it neutralises the relevance of choices without suppressing their formal possibility. It is an imperative that one does not perceive as such, a constraint that does not appear as one, that exerts itself without announcing itself, that determines behaviour while letting the person following it believe they are exercising a free choice.
 
 The imperceptive never presents itself as an obligation. It borrows the forms of opportunity, common sense, and self-evidence. It operates through the environment rather than through direct injunction.
+
+The imperceptive is distinct from neighbouring concepts: the *nudge* (intentional and targeted), Foucault's *governmentality* (which produces subjects through political power), *social norms* (known and sanctionable) and Illich's *radical monopoly* (an observable consequence of the imperceptive). It fits within a causal chain: the *Promethean gap* (Anders) produces the imperceptive, which in turn makes radical monopolies possible.
 
 ---
 
@@ -35,6 +37,7 @@ The imperceptive is a figure of the illusion of freedom: a choice that is no lon
 ## Articles where this term is coined and defined
 
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [On the imperceptive.](https://reflexions.florianernotte.be/en/post/the-imperceptive/)
 
 ---
 
