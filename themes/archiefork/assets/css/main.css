@@ -351,6 +351,8 @@ h6::before { color: var(--color-primary, #dc143c); content: '###### '; }
   /* Modern properties */
   min-inline-size: 0;
   overflow-wrap: break-word;
+  text-align: justify;
+  hyphens: auto;
 }
 
 .toc {
