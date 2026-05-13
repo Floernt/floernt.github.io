@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-04-15
+lastmod: 2026-05-13
 ---
 
 # L'imperceptif
@@ -30,6 +30,10 @@ Les formations se multiplient, les injonctions à la "transformation digitale" s
 L'imperceptif est d'autant plus efficace qu'il court-circuite le moment de la délibération. L'utilisateur consent à la délégation et la perçoit comme un exercice de lucidité. Il déploie une démarche active pour confier à la machine ce qu'il faisait lui-même. Mais ce "choix" est en réalité déterminé par un environnement qui en a déjà tracé l'issue. L'utilisateur devient l'auteur de sa propre dépossession.
 
 L'imperceptif est une figure de l'illusion de liberté : un choix qui n'en est plus un, exercé dans un environnement qui en détermine l'issue, par un sujet pensant agir librement.
+
+Cet effet se laisse mieux saisir à travers la distinction qu'Amartya Sen propose entre liberté formelle (la possibilité d'agir) et liberté substantielle (la capacité effective de choisir) : l'imperceptif laisse la première intacte tout en érodant la seconde. L'IA générative en marque une intensification particulière, car elle ne rend pas seulement obsolète un outil parmi d'autres : elle touche la fonction même d'écrire, de produire et donc de penser.
+
+Résister à l'imperceptif suppose une véritable autonomie, au sens étymologique (*autos* + *nomos*) : se donner ses propres règles plutôt que piocher dans celles que l'imperceptif a déjà configurées. Cela revient à rendre explicites les critères implicites du raisonnable pour pouvoir les contester, depuis un méta-cadre que la critique interne ne permet pas d'atteindre.
 
 ---
 

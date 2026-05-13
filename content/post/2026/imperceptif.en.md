@@ -4,7 +4,7 @@ slug: the-imperceptive
 aliases:
   - /en/post/imperceptif/
 date: 2026-04-14
-lastmod: 2026-04-15
+lastmod: 2026-05-13
 description: We are free, in appearance, but certain options become impractical or unthinkable without however being prohibited
 tags: 
 - numerique
@@ -176,4 +176,184 @@ The recital goes further by inscribing AI mastery in an explicit economic purpos
 And if you still had any doubt, reading Article 1 would finish convincing you. Article 1 of the Regulation sets out the purpose and states its aim to *"promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union, and to support innovation."*
 
 ---
-End of part 1
+Part 2 (published on 13 May 2025)
+
+# 5. Why the Imperceptive?
+
+Let us try to recap: the imperceptive is the expression of an invisible force that relentlessly pushes us in the same direction. This invisible force, which we think we can justify through the notion of (technical) progress, has potentially more harmful effects than it appears, in particular by neutralising alternatives. This reconfiguration of what is reasonable allows this thing to prosper despite the warnings made, at least since the mid-1950s, by thinkers of technology.
+
+Each of them, in their own way, expressed the same idea: the enslavement of humans by the (technical) tool. The individual becomes the agent of their own tools.
+
+For example, Jacques Ellul, Ivan Illich and Bernard Stiegler all observed the same thing, at different moments and under different concepts. These observations are not the product of a band of technophobes refractory to any idea of progress. To interpret them in this way is Manichean and I invite those who doubt it to read their works to form their own opinion. As an appetiser, I will point out three considerations taken from this panel.
+
+### Ellul
+
+If Ellul had his blunt manner and a certain refractory vision (towards the automobile for example), he was not against technology. He writes:
+
+> The technical tool is very good for a technical operation. It is demonic when it fills the whole of life and substitutes itself for all human activities. (The Technological Bluff, p.222)
+
+### Illich
+
+Illich advocates a convivial society defined as:
+
+> a society where the modern tool is at the service of the person integrated into the community, and not at the service of a body of specialists. Convivial is the society where humans control the tool. (Tools for Conviviality - p.13)
+
+### Stiegler
+
+Stiegler qualifies technology, and therefore the tool, as a pharmakon: poison, but at the same time, remedy.
+
+There is therefore never a full and entire disqualification of the tool or of technology. It is even sometimes necessary, as a condition for achieving certain advances considered socially beneficial. This ambivalence, which is characterised in the thought of each of the above-mentioned authors, has never been hidden or masked; it is sometimes the very heart of the reflection, as with the pharmakon.
+
+In this context, thinking the imperceptive is a way of accounting for this ambivalent complexity.
+
+
+## 5.1. The Timelessness of the Imperceptive
+
+Some might retort that this imperceptive is not specific to AI, that it was already present at other moments of technical evolution. They are right. I do not consider the imperceptive as a phenomenon specific to the arrival of AI. The imperceptive is the product of the Promethean gap (1956) and the condition for the realisation of radical monopoly (1973) which, together, form the technician system (1977).
+
+In 1983, Victor Scardigli in _La Consommation, culture du quotidien_ writes about the socialisation of a technical object such as the automobile. The innovation is first received, adopted, then naturalised. The "_pilot consumers_" who first adopt the automobile mark their modernity in a society built on progress. The technical object becomes a sign of individual value before becoming collective self-evidence (p. 146). The imperceptive on the automobile operated in the same way: nobody banned the horse, its use was simply made absurd.
+
+So, as yet another descriptive attempt, I come to express what I believe I understand and observe, leaning on the shoulders of these giants, updating their thinking in the face of the technical and digital environment of the 21st century that only Bernard Stiegler was able to briefly think about (Bernard Stiegler died in 2020).
+
+What I have tried to show is that the imperceptive finds its place among the various concepts and fills the space I thought I perceived between these concepts. It is there to link the thought of those who analysed technology in their time. These spaces perhaps already existed, but they widened through the multiplication of techniques we have known for nearly 20 years. The explosion of digital, of web 2.0, of the platform economy and now of generative AI, to name only a few of the "innovations," has highlighted these spaces which were, until then, discreet, even invisible or non-existent for those who thought about the subject. This evolution is also observed in Ellul, who, although having begun his thinking on technology in 1954, proposed, as the culmination of his reflection, the notion of technician system in 1977. Nearly twenty years observing the evolution of technology before finally putting a name on it and theorising a system of thought.
+
+I have, moreover, the intimate conviction that what I am writing here will evolve tomorrow. Nothing is fixed and my perception of things will necessarily evolve. I am aware of this and it is what makes these reflections enriching.
+
+## 5.2. AI as a Rupture in the Imperceptive
+
+Nevertheless, can we consider that generative AI, unlike other technologies, marks a rupture compared to what we have already encountered? In other words, does AI engender, create or confirm an imperceptive of the same nature as that of email or the automobile?
+
+I do not think so. Although each technical evolution has contributed to a more or less significant degree to the persistence of the imperceptive. The impact of the combustion engine compared to email is, industrially, difficult to compare and I would not dare venture into that.
+
+But let us undertake the exercise of reflection in relation to the example used in the introduction to part 1: email. It is a means of communication that existed in a more archaic form, such as fax, postal mail or the telegram. However, the principle of asynchronous correspondence was already envisaged and email made it possible to shorten the delay between sending and reception, beyond the fact that it became possible to exchange various types of content digitally (attachments). Email came to optimise a practice that pre-existed it.
+
+However, where I think there is an important if not fundamental and radical difference is on the technique as such. Generative AI is not an incremental technique that allows us to do _technically_ better something we did _technically_ before. I insist on _technically_ in the sense that I am referring to a method deployed to achieve a result, integrating instrumental use where appropriate. Of course, generative AI allows us to write text that we were capable of writing manually or mechanically (with a keyboard), but you will agree with me that generative AI is radically different. There was no (consumer) software capable of producing and generating content on a simple instruction before November 2022 and the release of ChatGPT.
+
+This new technique is, in my view, truly disruptive. It allows us to achieve something we could not achieve before its existence. These generative AIs have not only accelerated or optimised an existing flow, they have made it possible to produce content where only humans produced with their head and body, assisted by tools controlled by them.
+
+Where generative AI is, or becomes, incremental, is during the evolution of content generation models. I am thinking of the videos of Will Smith eating a plate of spaghetti: the first models used produced videos of poor quality to arrive, in 2026, at "quasi-real" videos. Moreover, one must not confuse the incremental effects linked to the integration of AI into other processes that are not linked to the technique of generative AI itself.
+
+These new tools now make it possible to produce language from an idea contained in an instruction. The machine will produce the expression of this idea (among many other possible expressions) where only humans, until recently, were able to achieve it (I leave aside everything relating to the philosophy of language, being aware of my shortcomings on the subject. The informed reader will therefore excuse me for the naive considerations I may formulate).
+
+This rupture is what historian Harari considers as the hack of the operating system of human civilisation ([_"AI has hacked the operating system of human civilisation"_](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)).
+
+This interaction in natural language and this capacity for content generation are not such as to "reconfigure" our modes of communication or thought in a manner similar to what we have previously encountered. It is a technique that allows fundamentally new things to be done and which, for this reason, transforms rather than reconfigures.
+
+I believe that this difference has a consequence on the imperceptive: it is no longer about making an alternative obsolete at the margin of an activity, but about making obsolete a way of being, of thinking. The imperceptive updated by generative AI does not bear on a tool among others. It bears on the very function and capacity to write, to produce and therefore to think. It is in this sense that generative AI marks, in my estimation, a rupture: it touches a faculty that we had never influenced so directly. It is perhaps bold to consider, with so little hindsight, that this technical thing marks a rupture, and this is why this point must be examined in the context of the imperceptive which maintains, with or without this rupture, its effects.
+
+## 5.3. Choosing One's Battlefield
+
+The imperceptive is timeless and we can therefore observe its persistence through technical evolutions. Generative AI could mark a rupture in that it touches faculties that we had never influenced so directly before.
+
+Two authors mobilised in this text (Illich and later Scardigli) use the car as an illustration and already propose fairly fine analyses. The years have passed and the situation is similar or worse depending on the point of view.
+
+Faced with this situation, some might see challenges to be met, battles to be fought. Although the image is strong, I think we have an active role to play, and perhaps in a utopian way, a battle to fight. I will take up Rutger Bregman's words in _Utopia for Realists_:
+
+> Without utopia, we are lost. We need horizons, even somewhat crazy ones. Having several of them in conflict will keep our democracy alive.
+
+Because one can only fight against what one sees, the imperceptive allows us to think a resistance action. To do so, I propose to start from an observation: that which we keep harping on about the effects of technologies and the regular drifts we observe. Despite this, we all still consume these technologies more or less voluntarily.
+
+To give ourselves a clean conscience, we will invoke the imperious necessity to (re)appropriate the Big Tech narrative or to (re)take our digital sovereignty. I deeply adhere to these proposals, but I remain equally sceptical in the face of this "enlightened humanism" that drapes itself in beautiful virtues.
+
+Faced with certain discourses, we fall into a true Tartuffery: experts, who transform themselves into modern-day sophists, take pleasure in these ideals and claim to think the technical subject without truly questioning it outside its framework. We fall into [the "ethic washing" that I denounced here](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/). Sometimes, beneath these apparently sensible recommendations, there are few or no concrete proposals, methods or solutions. We are exhorted to act without being told how. The result is unsurprising: not up to par.
+
+If we must think the technical subject, it is clear that the means deployed struggle to offer lasting solutions. When we are exhorted to (re)appropriate the Big Tech narrative, we push reflection within a framework of rationality that the imperceptive has already configured. All criticism presupposes a given framework of rationality to allow comparison between what is criticised and what should be, and this is what we struggle to find. Illich already noted:
+
+> when a tooled activity exceeds a threshold defined by the appropriate scale, it first turns against its end, then threatens to destroy the entire social body.
+
+Consequently, our usual frameworks of criticism appear insufficient. We see this fairly well in AI, where among the proposed solutions emerge trustworthy AI or explainable AI. On this subject, I remain dumbfounded by the reflections raised on 8 October 2025 in an article in Le Monde where the question was asked of the compliance of AI that would test the stress of a job candidate. This questioning is deplorable insofar as the question being asked is the legality of a tool before even considering whether its use is desirable. At this rate, we will soon no longer distinguish between job interviews and torture (yes, I am exaggerating but it is to illustrate my point).
+
+We must therefore try, as much as possible, to step outside the framework to formulate a criticism of it and not remain confined within it to carry that criticism. Criticising within the framework will not allow it to evolve.
+
+### 5.3.1. Which Critical Framework?
+
+In 1986, Ellul writes in "The Technological Bluff" of the necessity of operating a dialectic between science and spirituality:
+
+> One has answers to the questions of the other and vice versa.
+
+A few years earlier, Habermas laid the foundations of this dialectic that we should have in the face of technology by indicating that:
+
+> The liberating force of reflection cannot be replaced by a deployment of technically usable knowledge.
+
+Through these quotations, I can consider that the solution advocated to face the problems of technology will not come through more technology. This vision is that of techno-solutionism, which has demonstrated its irrelevance (see the topic [How does AI change our system society?](https://reflexions.florianernotte.be/en/post/societe-systeme/)).
+
+Anders also wrote in 1956: the "_technically feasible_" gives rise to an obligation in the individual. "_What we are capable of_" has become "_what must be_." We must escape these dictates. We must think about what technologies do to our bodies and minds in order to really think about the technical subject and perhaps cease to invent new ones that will only accentuate this Promethean gap, thus contributing to the imperceptive.
+
+We must become aware of the effects of these palliatives implemented and discriminate poisons from remedies. In 1973, Illich made a similar observation: consumers, aware of the dangers of automobiles, organise themselves to demand safer and better quality cars. It is a Pyrrhic victory because it implies a renewed individual confidence which means more collective dependence. He continues:
+
+> That consumers "hooked" on a product organise themselves to defend themselves has the immediate effect of increasing the quality of the drug supplied and the power of the supplier.
+
+This is the aspect I tried to demonstrate in the [confrontation of compliance and ethics](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/) regarding technologies. We exert ourselves thinking about _how_ without first reflecting on _what_, and you will surely see a link with trustworthy AI...
+
+In April 2025, Mark Hunyadi distinguished in his paper ["The Battle of the Mind"](https://esprit.presse.fr/article/mark-hunyadi/la-bataille-de-l-esprit-45870) forced enslavement from the consented colonisation of our minds. He rightly recalls, in my view, that the battlefield of the big techs goes through our mind and that the stake is to impose on everyone a relationship to the world that goes through their technical devices. "_This is the major fact that must guide critical analyses of digital technology_," Hunyadi tells us.
+
+Bernard Stiegler, in his Pharmakon course, regularly uses the metaphor of the flying fish. Incapable of distinguishing its milieu (water) until it leaves it. It is only during its flights that the flying fish can see its own milieu and try, if the urge takes it, to question it. This is also why I wanted to propose the imperceptive. To understand that in order to think our framework, we must extract ourselves from it. This is where the battlefield lies.
+
+Let us recall David Noble's words:
+
+> A war is raging but only one of the two sides is armed: this is the summary of the question of technology today.
+
+We must therefore invest this terrain, the meta-framework, where we can really and radically question technology, while abstracting ourselves, as much as possible, from the imperceptible imperatives.
+
+## 5.4. The Impact on Freedom
+
+Another answer to "Why the imperceptive?" and one that seems important to me to understand, is the consequences of the imperceptive, its impact on the individual's freedom.
+
+As Hunyadi writes, the battlefield of Big Tech goes through our mind, and this battle uses precisely the imperceptive by constraining the model of rationality in which a dominant criterion, efficiency, imposes itself without being discussed, configuring upstream the conditions of the reasonable.
+
+In order to perceive the impact on freedom, we must first distinguish formal freedom from substantive freedom. It is not an abstract dichotomy. I borrow it from Amartya Sen, who qualified substantive freedom as the effective possibility an individual has of choosing various combinations of "_modes of functioning_." This distinction seems necessary to me to demonstrate the insidious character of the imperceptive. Where many think they are acting freely, they are in fact blinded by the constraints of the imperceptive that push them to act in the name of a logic of efficiency.
+
+In this context, **formal freedom** targets the possibility of acting while **substantive freedom** targets the capacity (real or effective according to Sen) to choose. It is a way of distinguishing capacity (aptitude) from possibility (effectiveness). The imperceptive tends to point to this gap between these two forms of freedoms. If each of us has the capacity to do, the imperceptive comes to restrict this capacity by making impossible (or unthinkable) such and such an option.
+
+Today, we all have the formal freedom to use the technical devices made available to us. We could all continue to send mail by post. That is our formal freedom. Many, however, use digital means of communication. As a result, the substantive freedom to use postal mail is reduced to nothing in the sense that it becomes unthinkable. There is no prohibition on using postal mail, but the imperceptive makes this option unreasonable. Nobody has removed the possibility of using postal mail. Postmen still deliver mail, letterboxes are still there and post offices are still open. We have simply made the alternative outdated and obsolete, therefore absurd.
+
+What the imperceptive neutralises is the _relevance_ of the choice, not the choice itself. This nuance is important because it shows that the imperceptive destroys nothing, and this is why it is so persistent and vicious. It is all the more so as it leaves formal freedom intact. One can always say "_you could have not done it that way_" and this is also why the constraint remains imperceptible, since formal freedom remains.
+
+The consequence of this neutralisation of the relevance of a choice is the _normalisation_ of a behaviour with the risk that it becomes _natural_ and therefore automatic. The _normalisation_ is more difficult to see and to contest because it does not resemble a constraint.
+
+# 6. Autonomy as a Solution
+
+Before concluding, I must sketch a solution to remain faithful to my desire to bring "_constructive_" criticism and to participate, on my modest scale, in the reflection of others who would like to change things.
+
+The imperceptive constrains us to look at the world and the framework in which we evolve with the same pair of distorting glasses that it itself creates. We must therefore truly extract ourselves from this framework and examine our milieu according to our own rules.
+
+These own rules are those of autonomy. Autonomy is:
+
+- "autos" which means the same, that which comes from oneself; and
+
+- "nomos" which means the rules established by society, the laws.
+
+
+If we want to fight the imperceptive, we must go beyond the rules it imposes on us. But as we have seen, the imperceptive influences our decisions in that it is a model of rationality that configures upstream the conditions of the reasonable.
+
+It is therefore necessary to rise, beyond the imposed model of rationality, to define one's own model with an authentic autonomy. That is self-evident, you will tell me, and you are perfectly right. There is, however, a trap into which one must not fall: that of the impact of the imperceptive on our freedoms. If you set your own rules, autonomously, but by picking from what the imperceptive offers you, this autonomy is only an illusion of freedom. You are in fact completely directed by the imperceptive, where each of your choices will be inspired by a logic of rationality oriented, almost always, by progress or efficiency. This dynamic in which we evolve almost daily without realising it must be radically challenged (I will share soon a concrete illustration of this situation).
+
+It is therefore here that we should try to set our rules. Those that will orient the framework in which we are going to or want to evolve. Not all technology is to be thrown out. Without it, you would not have the possibility of reading these lines (assuming this is beneficial to anyone), advances in medicine or telecommunications would not be there. The idea is not to give you the (inevitably subjective) list of what technology has brought us, but to keep in mind this inevitable ambivalence and to accept its complexity (on the subject, see notably [III. How to navigate?](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/)).
+
+If the imperceptive structures the reasonable, then to resist autonomously is not only to disobey the framework, it is to step out of it in order to question it. To resist the imperceptive consists in making explicit the implicit criteria of the reasonable in order to be able to contest them.
+
+To resist the imperceptive is to manage to criticise the conditions of validity imposed by the reasonable.
+
+This is not an incitement to revolution. It is to take back control of the tool as Illich advocates in his "convivial" society. It is to impose one's own rules on the tools, whatever they may be, rather than having them dictated to oneself.
+
+The attainment of this autonomy requires that the criteria themselves be chosen, discussed, appropriated. It is not a question of rejecting the dominant criteria. We must relearn the capacity to question them, to hierarchise them and, where appropriate, to step away from them. Where the imperceptive naturalises a criterion of rationality to the point of making it invisible, autonomy consists in restoring its visibility in order to make once again possible the choice of one's own reasons for acting.
+
+# 7. Conclusion
+
+The exercise of naming the imperceptive is not an intellectual coquetry.
+
+In Tools for Conviviality, Illich writes:
+
+> We understand that another society is possible when we manage to express it clearly. We provoke its appearance when we discover the process by which the present society makes its decisions.
+
+This approach, I believe, falls within the framework of [linguistic determinism](linguistic%20determinism): the idea that language determines the amplitude of our thought and knowledge. This echoes what Wittgenstein wrote: _"the limits of my language are the limits of my world."_ What we cannot formulate cannot be properly thought or discussed (I renew here my warning of my shortcomings on the subject of the philosophy of language and solicit the informed reader's benevolence).
+
+Since the imperceptive is imperceptible for the one who undergoes it, it is all the more important to express it, to trace its contours in order to appropriate it, examine it, analyse it and distance ourselves from it if needed. We must compel ourselves to broaden our field of vision, to force ourselves to understand how things work, how they assemble and how they disassemble in order to have a real understanding of them according to the idea of G. Vico (_Verum ipsum factum_). To know a thing precisely, one would have to be its author.
+
+By naming the imperceptive, we create a possibility that it itself seeks to suppress: that of seeing the framework rather than reasoning within it.
+
+Étienne Klein wrote in _Philosophie Magazine_ (March 2026) that our language was built to say what is, to stabilise substance and identity. Language would therefore be ontological. The difficulty is that, even when something changes, our language presupposes the subsistence of the thing.
+
+All this allows the imperceptive to subsist in this "grey" zone. Forging a word to designate this phenomenon is a way of forcing language to say what it tends to naturalise.
+
+To consider that we master technology because we use it is to confuse formal freedom with substantive freedom. We are incapable of imagining what our tools do to us. Recognising it is not an admission of weakness. It is a starting point to evolve towards a convivial technical practice, a conscious and mastered use.

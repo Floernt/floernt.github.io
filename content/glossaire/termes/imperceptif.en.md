@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-04-15
+lastmod: 2026-05-13
 slug: the-imperceptive
 ---
 
@@ -31,6 +31,10 @@ Training programs multiply, injunctions toward "digital transformation" saturate
 The imperceptive is all the more effective because it short-circuits the moment of deliberation. The user consents to delegation and perceives it as an exercise of lucidity. They undertake an active approach to entrust the machine with what they used to do themselves. But this "choice" is in reality determined by an environment that has already traced its outcome. The user becomes the author of their own dispossession.
 
 The imperceptive is a figure of the illusion of freedom: a choice that is no longer one, exercised in an environment that determines its outcome, by a subject who believes they are acting freely.
+
+This effect is better grasped through Amartya Sen's distinction between formal freedom (the possibility of acting) and substantive freedom (the effective capacity to choose): the imperceptive leaves the former intact while eroding the latter. Generative AI marks a particular intensification of this dynamic: it does not merely render obsolete one tool among others, it touches the very function of writing, producing, and therefore thinking.
+
+Resisting the imperceptive presupposes a genuine autonomy, in the etymological sense (*autos* + *nomos*): giving oneself one's own rules rather than picking from those that the imperceptive has already configured. This amounts to making explicit the implicit criteria of the reasonable so as to be able to contest them, from a meta-framework that internal critique cannot reach.
 
 ---
 
