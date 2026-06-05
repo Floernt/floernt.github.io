@@ -3,3 +3,7 @@
 public
 resources/
 .claude/
+
+# Outillage Claude Code local — ne pas synchroniser
+LOG.md
+CLAUDE.md

@@ -36,6 +36,7 @@ Réussir à passer du cas particulier à la classe de cas, puis à la structure 
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phénoménologie d'une pratique avec l'IAG (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
+- [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
 
 ---
 

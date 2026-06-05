@@ -39,6 +39,7 @@ La dépossession opératoire peut aussi s'articuler avec le [biais d'automatisat
 
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
 
 ---
 

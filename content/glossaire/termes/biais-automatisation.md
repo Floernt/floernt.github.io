@@ -42,6 +42,7 @@ Ce biais s'inscrit dans un mouvement plus large que j'ai analysé à travers la 
 - [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionelle)
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
 
 ---
 

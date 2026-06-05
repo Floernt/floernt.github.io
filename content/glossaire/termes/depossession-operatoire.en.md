@@ -40,6 +40,7 @@ Operative dispossession can also be linked to [automation bias](/glossaire/terme
 
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
 
 ---
 
