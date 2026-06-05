@@ -37,6 +37,7 @@ Successfully moving from the particular case to the class of cases, then to the 
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
+- [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
 
 ---
 

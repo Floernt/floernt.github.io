@@ -43,6 +43,7 @@ This bias is part of a broader movement that I have analyzed through Mathieu Cor
 - [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/post/ablation-attentionelle)
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
 
 ---
 
