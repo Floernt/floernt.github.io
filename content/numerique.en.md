@@ -27,6 +27,18 @@ I hope that the curious reader will find some interesting resources to explore t
 ## Some books
 (sorted by reading order, most recent first)
 
+[Oscar Brenifier - L'IA, alliée de la pensée critique ? De Socrate à l'algorithme](https://nouveautes-editeurs.bnf.fr/accueil?id_declaration=10000001298156)
+
+[Louis de Diesbach - Faussaires algorithmiques : L'intelligence artificielle va-t-elle remplacer les artistes ?](https://editionsdelaube.fr/catalogue_de_livres/faussaires-algorithmiques/)
+
+[Jacques Ellul - La technique ou l'enjeu du siècle](https://www.economica.fr/livre-la-technique-ou-l-enjeu-du-siecle-ellul-jacques-c2x32209875)
+
+[Ivan Illich - La Convivialité](https://www.editionspoints.com/ouvrage/la-convivialite-ivan-illich/9782757891223)
+
+[Marion Carré - Le paradoxe du tapis roulant](https://www.editions-jclattes.fr/livre/le-paradoxe-du-tapis-roulant-9782709675109/)
+
+[Cory Doctorow - Le rapt d'Internet : Manuel de déconstruction des Big Tech](https://cfeditions.com/rapt-internet/)
+
 [Bernard Stiegler - L'emploi est mort, vive le travail !](https://www.fayard.fr/livre/lemploi-est-mort-vive-le-travail-9782755507461/)
 
 [Jaron Lanier - Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.jaronlanier.com/tenarguments.html)
