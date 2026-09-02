@@ -37,3 +37,5 @@ Comme l'a écrit David Chavalarias" Si nous voulons assurer la pérennité de no
 
 
 </div>
+
+{{< newsletter >}}

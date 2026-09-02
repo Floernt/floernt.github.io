@@ -57,3 +57,5 @@ La première option est celle de l'effort. Elle suppose que j'observe ma propre 
 La seconde est celle de la délégation. Elle est plus efficace mais elle me prive de ce moment d'attention que constitue le choix d'extraire un concept pour l'intégrer dans le glossaire. En sélectionnant un terme, je décide que cela mérite d'exister de manière plus prégnante. Il me resterait donc à garder de l'attention sur ce que me propose la machine et de pouvoir m'en écarter ou de lui faire des suggestions.
 
 Affaire à suivre.
+
+{{< newsletter >}}

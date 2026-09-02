@@ -58,3 +58,5 @@ Deresponsibilizing the user and pointing to Big Tech would amount to "infantiliz
 Let us be more nuanced and understand that we must also question our practices and our model. The pursuit of efficiency in all things makes us addicted to technology because the promise made to us responds to a model we have "decided" to support.
 
 We, the users, must take our responsibilities. Individually but also collectively. Agree on the place we want to give to technologies and on how they can influence our lives and our society.
+
+{{< newsletter >}}

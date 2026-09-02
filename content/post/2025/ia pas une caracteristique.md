@@ -40,4 +40,6 @@ Dans le cadre d’un agent conversationnel comme ChatGPT ou Claude Sonnet, le «
 
 La solution est donc d’aller personnaliser le « system prompt ». Si vous lisez le « system prompt » de [Claude Sonnet](https://docs.anthropic.com/en/release-notes/system-prompts#feb-24th-2025) vous comprendrez que les instructions données au système sont très générales et que ce niveau générique ne peut donner satisfaction à des usages spécifiques tels que ceux que nous intégrons dans nos pratiques professionnelles par exemple. 
 
-Pour tirer profit de l’IA générative, il faut donc 1) s’accorder sur ce qu’elle est capable de faire et 2) personnaliser l’IA pour qu’elle « colle » à notre usage. 
+Pour tirer profit de l’IA générative, il faut donc 1) s’accorder sur ce qu’elle est capable de faire et 2) personnaliser l’IA pour qu’elle « colle » à notre usage.
+
+{{< newsletter >}}

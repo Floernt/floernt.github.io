@@ -42,3 +42,5 @@ In the context of a conversational agent like ChatGPT or Claude Sonnet, the "sys
 The solution is therefore to customize the "system prompt." If you read the "system prompt" of [Claude Sonnet](https://docs.anthropic.com/en/release-notes/system-prompts#feb-24th-2025), you will understand that the instructions given to the system are very general, and that this generic level cannot satisfy specific uses such as those we integrate into our professional practices, for example.
 
 To benefit from generative AI, you therefore need to 1) agree on what it is capable of doing and 2) customize the AI so that it "fits" your use case.
+
+{{< newsletter >}}

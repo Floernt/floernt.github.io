@@ -152,3 +152,5 @@ This contradiction is the consequence of our historical situation. We are living
 ---
 
 This note reflects a thought process still in progress. I publish it in this state of assumed indecision, because the indecision itself is part of the reflection. And because I care about transparency, I inform you that I used GenAI for this text to format several notes written on the subject. Personal writing work was done on the generated text.
+
+{{< newsletter >}}

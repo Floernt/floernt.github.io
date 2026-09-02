@@ -38,3 +38,5 @@ As David Chavalarias wrote: "If we want to ensure the sustainability of our demo
 
 
 </div>
+
+{{< newsletter >}}

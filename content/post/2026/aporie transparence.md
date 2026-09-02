@@ -151,3 +151,5 @@ Cette contradiction, c'est la conséquence de notre situation historique. Nous v
 ---
 
 Cette note reflète un cheminement de pensée encore en cours. Je la publie dans cet état d'indécision assumée, parce que l'indécision elle-même fait partie de la réflexion. Et parce que j'ai le souci de la transparence, je vous informe avoir utilisé l'IAG pour ce texte pour mettre en forme plusieurs notes rédigées sur le sujet. Un travail de rédaction personnelle a été fait sur le texte généré.
+
+{{< newsletter >}}

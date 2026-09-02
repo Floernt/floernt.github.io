@@ -51,3 +51,5 @@ I think that personalization must not take place at the level of the content pro
 You may perhaps have noticed that I use the notion of generative device? I will explain why in a future note.
 
 Have a lovely summer!
+
+{{< newsletter >}}

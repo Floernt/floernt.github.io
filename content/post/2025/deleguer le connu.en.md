@@ -78,3 +78,5 @@ But if this laziness is acknowledged. If this little "hack" allowed me to get th
 In fact, it is a shortcut that I find salutary, because it allows me to express more easily and simply things that are deeper. The effort of writing this kind of note is an exploration and a reflection that opens my mind. In this sense, I think that using generative AI for this purpose might not be such a bad thing.
 
 `It's paradoxical, but that's how it is: the more the machine helps me write, the more I can focus on what doesn't write itself so easily.`
+
+{{< newsletter >}}

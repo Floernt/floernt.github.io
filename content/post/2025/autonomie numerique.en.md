@@ -103,3 +103,5 @@ We are therefore the first ones responsible for our freedom and our autonomy. As
 >"To do and not to undergo, that is the essence of the agreeable."
 
 It is first up to us to act in order to preserve our freedom.
+
+{{< newsletter >}}

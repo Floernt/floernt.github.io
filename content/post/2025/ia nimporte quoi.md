@@ -42,4 +42,6 @@ Je conclus par un passage de [Anne Alombert - Penser avec Bernard Stiegler](http
 
 >Les effets potentiellement toxiques de certains dispositifs numériques prématurément diffusés impliquent de concevoir et d'expérimenter des pratiques thérapeutiques concrètes ainsi que des technologies alternatives à celle issues des industries disruptives de la *Silicon valley*. 
 
-En voici donc une malheureuse illustration. Alors je ne sais pas quelles pratiques thérapeutiques concrètes pourraient être mises en œuvre à ce stade mais j'espère modestement que ce "saut d'humeur" vous amènera à réfléchir à ce sujet. 
+En voici donc une malheureuse illustration. Alors je ne sais pas quelles pratiques thérapeutiques concrètes pourraient être mises en œuvre à ce stade mais j'espère modestement que ce "saut d'humeur" vous amènera à réfléchir à ce sujet.
+
+{{< newsletter >}}

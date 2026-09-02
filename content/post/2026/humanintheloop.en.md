@@ -204,3 +204,5 @@ If there is one thing to retain from this reflection, it is that the phrase _hum
 I could also have proposed a template, or a practical example. I will not do so, because, first, I think this exercise must be carried out by oneself, notably in order to develop this competence. Second, I think the idea of this reflection is to set you on the path (not of reasoning) but of iteration. We are facing a machine that evolves constantly and whose functioning must be appropriated. This is not a "one-shot" or "fit-for-all" job. It is a systematic configuration at the scale of real and individual practices. I do not pretend that these protocols here are the right ones. If you are short of inspiration, copy the text into an AI and ask it to propose something for you.
 
 These protocols are, without any doubt, an approximation, a beginning of a solution. However, an arguable approximation is surely better than an unarguable phrase, because it is empty and hollow. Now that the frame is set, the discussions about thresholds, about criteria, about corrective calls to action, can begin.
+
+{{< newsletter >}}

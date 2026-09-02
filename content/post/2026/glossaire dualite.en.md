@@ -58,3 +58,5 @@ The first option is that of effort. It requires that I observe my own conceptual
 The second is that of delegation. It is more efficient, but it deprives me of that moment of attention that constitutes choosing to extract a concept for inclusion in the glossary. By selecting a term, I decide that it deserves to exist in a more prominent way. I would therefore still need to keep my attention on what the machine proposes and to be able to diverge from it or make suggestions.
 
 To be continued.
+
+{{< newsletter >}}

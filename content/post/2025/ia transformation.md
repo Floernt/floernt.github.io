@@ -165,3 +165,4 @@ C'est de cette manière que j'appréhende ces outils tout en gardant à l'esprit
 - L'équipe de rédaction d'Academia (2 février 2025). Pourquoi je n’utilise pas ChatGPT. _Academia_. Consulté le 16 mars 2025 à l’adresse https://doi.org/10.58079/1382x
 - Anne Alombert, « Panser la bêtise artificielle », _Appareil_ [En ligne], 26 | 2023, mis en ligne le 23 novembre 2023, consulté le 15 mars 2025. URL : http://journals.openedition.org/appareil/6979 ; DOI : https://doi.org/10.4000/appareil.6979
 
+{{< newsletter >}}

@@ -78,3 +78,5 @@ Je ne sais pas, à ce stade, si la postérité donnera tort à Koenig comme elle
 Ce qui reste, c'est la nécessité d'une critique qui passe par la pratique. On ne peut pas penser sérieusement à l'IA générative sans l'avoir habitée. On ne peut pas la rejeter en bloc sans rejeter avec elle la possibilité d'apprendre à danser avec, c'est-à-dire à garder la main sur ce qui doit rester de soi tout en acceptant que ce qui sort de l'échange ne soit ni tout à fait nous, ni tout à fait elle. Le différend entre Koenig et Bergeret est, en cela, un beau différend. Il a le mérite de fourbir les arguments. Tenaillon avait raison sur ce point au moins : le moteur de la philosophie reste le différend.
 
 Je danse. Pas parce que je suis sûr d'avoir raison contre ceux qui s'arc-boutent (pour reprendre l'expression de Bergeret) mais parce que je suis sûr de ne pas vouloir m'arc-bouter. C'est moins une certitude qu'un parti pris, qu'il faudra peut-être réviser quelque temps. En attendant, je préfère apprendre ces nouveaux pas de danse.
+
+{{< newsletter >}}
