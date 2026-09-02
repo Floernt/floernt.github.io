@@ -287,3 +287,5 @@ We then fall, once again, into an implementation of the principle of efficiency 
 Today, questioning trustworthy AI and ethical technology amounts to making technology acceptable without objectively and sincerely questioning it.
 
 If we detect [technological solutionism](/glossaire/termes/solutionnisme/), understand technological complexity and accept its ambivalence ([Pharmakon](/glossaire/termes/pharmakon/)), we can (perhaps better) think about technology by being careful to correct our projections (optimistic or pessimistic) ([technological myopia](/glossaire/termes/myopie-technologique/)).
+
+{{< newsletter >}}

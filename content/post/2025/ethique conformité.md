@@ -286,3 +286,5 @@ Nous tombons alors, et encore, dans une mise en œuvre du principe d’efficacit
 Aujourd’hui, s’interroger sur l’IA de confiance et sur une technologie éthique revient à rendre acceptable la technologie sans la remettre objectivement et sincèrement en question.
 
 Si l’on détecte le [solutionisme technologique](/glossaire/termes/solutionnisme/), qu’on comprend la complexité technologique et qu’on accepte son ambivalence ([Pharmakon](/glossaire/termes/pharmakon/)), on pourra (peut-être mieux) penser la technologie en veillant à corriger ses projections (optimiste ou pessimiste) ([myopie technologique](/glossaire/termes/myopie-technologique/)).
+
+{{< newsletter >}}

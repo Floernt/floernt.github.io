@@ -144,3 +144,5 @@ The problem is not the use of AI but the people who think they can, arbitrarily,
 EDIT 25/08/2025
 1) As English is not my first language, I used an LLM to proofread this text.
 2) I shared this article on [HackerNews](https://news.ycombinator.com/item?id=45002958) and received a lot of comments. Some are really interesting, and I will write another text about these arguments or an enhanced version of this one.
+
+{{< newsletter >}}

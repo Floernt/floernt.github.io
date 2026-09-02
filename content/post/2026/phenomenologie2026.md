@@ -178,3 +178,4 @@ Mais il suppose aussi qu'on accepte que le travail intellectuel se transforme. Q
 
 Cette expérience est donc, au fond, un exercice d'attention. Attention à ce qu'on fait, à comment on le fait, à pourquoi on le fait ainsi plutôt qu'autrement. Dans un environnement technique qui favorise l'automaticité, la réactivité, l'accélération, maintenir cette attention réflexive est peut-être l'expérience la plus précieuse. Celle qui permet de ne pas devenir le simple opérateur d'une machinerie dont on aurait perdu la compréhension. Celle qui fait qu'on reste quelqu'un qui pense plutôt qu'un simple opérateur technicien qui applique des procédures.
 
+{{< newsletter >}}

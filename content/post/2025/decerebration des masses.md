@@ -56,5 +56,6 @@ Déresponsabiliser l'utilisateur et pointer les big techs reviendraient à "infa
 
 Soyons plus nuancés et comprenons qu'il faut remettre aussi nos pratiques et notre modèle en question. La recherche de l'efficacité en toute chose nous rend addicte à la technologie car la promesse qui nous est faite répond à un modèle que nous avons "décidé" de soutenir. 
 
-Nous, utilisateurs, devons prendre nos responsabilités. De manière individuelles mais aussi collectivement. S'accorder sur la place qu'on veut donner aux technologies et sur la manière dont elles peuvent influencer nos vies et notre société. 
+Nous, utilisateurs, devons prendre nos responsabilités. De manière individuelles mais aussi collectivement. S'accorder sur la place qu'on veut donner aux technologies et sur la manière dont elles peuvent influencer nos vies et notre société.
 
+{{< newsletter >}}

@@ -178,3 +178,5 @@ This space requires continuous critical vigilance. It demands that we resist the
 But it also requires that we accept that intellectual work is transforming. That the lawyer of 2035 will not be that of 2025, just as that of 2025 is already no longer that of 2000. That new know-how is emerging (prompt engineering, meta-writing, dialectical dialogue with GAI) that is just as legitimate and intellectually demanding as the old. That the question is not to preserve at all costs a frozen professional model, but to ensure that technical transformations serve intelligence rather than replace it.
 
 This experiment is therefore, at its core, an exercise in attention. Attention to what one does, to how one does it, to why one does it this way rather than another. In a technical environment that favors automaticity, reactivity, acceleration, maintaining this reflective attention is perhaps the most precious experiment. The one that prevents us from becoming mere operators of a machinery whose understanding we have lost. The one that ensures we remain someone who thinks rather than a mere technician-operator who applies procedures.
+
+{{< newsletter >}}

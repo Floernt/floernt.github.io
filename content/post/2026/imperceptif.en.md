@@ -357,3 +357,5 @@ By naming the imperceptive, we create a possibility that it itself seeks to supp
 All this allows the imperceptive to subsist in this "grey" zone. Forging a word to designate this phenomenon is a way of forcing language to say what it tends to naturalise.
 
 To consider that we master technology because we use it is to confuse formal freedom with substantive freedom. We are incapable of imagining what our tools do to us. Recognising it is not an admission of weakness. It is a starting point to evolve towards a convivial technical practice, a conscious and mastered use.
+
+{{< newsletter >}}

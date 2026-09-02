@@ -54,3 +54,5 @@ Je pense que la personnalisation ne doit pas se faire au niveau du contenu propo
 Vous aurez peut-être remarqué que j’utilise la notion de dispositif génératif ? J’expliquerai pourquoi dans une prochaine note.
 
 Bel été!
+
+{{< newsletter >}}

@@ -121,3 +121,5 @@ Une organisation qui défend des valeurs éthiques pourrait, en toute bonne foi,
 Le risque, bien sûr, est de glisser vers un relativisme total où tout devient négociable en fonction des résultats attendus. Si les valeurs sont trop flexibles, elles perdent leur sens et deviennent de simples variables d'ajustement, ce que je réfutais plus haut. 
 
 La solution serait alors d'adapter ses valeurs mais sans les abandonner,  les rendre plus pertinentes face aux réalités du monde dans lequel elles s’appliquent et accepter de se remettre en question.
+
+{{< newsletter >}}

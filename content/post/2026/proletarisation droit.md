@@ -130,3 +130,5 @@ Lorsqu'on dit que c'est une "prestation personnalisée", on encourage l'optimisa
 Il ne faudrait pas que cela se transforme en prophétie auto-réalisatrice : en redéfinissant l'acte, on réoriente progressivement la profession vers d'autres valeurs et d'autres critères d'excellence qui ne semblent pas être au goût de tous.
 
 La profession d'avocats reste baignée par un conservatisme qui a certains égards reste bien nécessaire mais qui est parfois aux antipodes des besoins du marché. Et c'est pour ça que le geste du CNB, apparemment technique et défensif, pourrait être en réalité lourd de conséquences. En essayant de protéger le monopole de l'avocat face à l'IA, il acte peut-être la mutation qu'il prétend combattre.
+
+{{< newsletter >}}

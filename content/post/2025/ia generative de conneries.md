@@ -43,3 +43,4 @@ Prenons un cas d'usage, socialement acceptable : Demander à un LLM de reformule
 
 Je ne veux pas paraître pour un défenseur des IA sans critique ni nuance mais on voit poindre de plus en plus de critiques de ce type avec, reconnaissons le, une véhémence inutile. Moi aussi je voulais rééquilibrer le discours en constatant, au surplus que la critique est aisée mais l’art est difficile. Car au delà du parti pris manifeste et affiché, ces critiques et commentaires n'apportent aucun piste de solution et je serai curieux de lire une critique constructive avec des propositions concrètes d'amélioration de ces outils.
 
+{{< newsletter >}}

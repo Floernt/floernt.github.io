@@ -271,5 +271,4 @@ Il prêche pour le respect de l'individu et donc de l'individualisme (soit le co
 
 La solution proposée revient, finalement, à prescrire aux gens une chose: les empêcher de nuire à autrui. Dans ce cadre, la transposition d'une pareille solution semble difficile à l'heure de l'IAG si ce n'est en considérant que les libertés fondamentales de l'individu consacrées par les textes internationaux soient protégées et respectées de manière encore plus forte et importante. Un chantier d'une ampleur tout aussi importante.
 
-
-
+{{< newsletter >}}

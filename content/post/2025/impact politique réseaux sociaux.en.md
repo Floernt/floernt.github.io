@@ -122,3 +122,5 @@ An organization that defends ethical values could, in all good faith, refuse to 
 The risk, of course, is sliding toward total relativism where everything becomes negotiable based on expected results. If values are too flexible, they lose their meaning and become mere adjustment variables, which I refuted above.
 
 The solution would then be to adapt one's values without abandoning them — making them more relevant to the realities of the world in which they apply and accepting the need to question oneself.
+
+{{< newsletter >}}

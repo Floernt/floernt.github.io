@@ -167,6 +167,6 @@ En résumé :
 1. Toujours produire une première version sans IA, même imparfaite, avant toute sollicitation d’un LLM. 
 2. Privilégier les usages métacognitifs (clarification, reformulation, mise en perspective) plutôt que productifs.    
 3. Réintroduire l’effort interprétatif : consulter les sources primaires après une synthèse générée, même si cela semble redondant. 
-4. Refuser la posture de vérificateur : rester l’auteur du raisonnement, même lorsque la machine propose une solution « correcte ».  
+4. Refuser la posture de vérificateur : rester l’auteur du raisonnement, même lorsque la machine propose une solution « correcte ».
 
-
+{{< newsletter >}}

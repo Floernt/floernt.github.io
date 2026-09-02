@@ -38,3 +38,4 @@ Plutôt que d'empiler des licences coûteuses qui promettent la lune :
 
 Je pense que l'avenir n'est pas à l'IA qui "sait tout" mais à l'IA qui "fait" comme vous lui avez appris à faire.
 
+{{< newsletter >}}

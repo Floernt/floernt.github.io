@@ -82,3 +82,5 @@ I do not know, at this stage, whether posterity will prove Koenig wrong as it pr
 What remains is the necessity of a critique that goes through practice. One cannot think seriously about generative AI without having inhabited it. One cannot reject it wholesale without rejecting along with it the possibility of learning to dance with it — that is, of keeping one's hand on what must remain one's own while accepting that what comes out of the exchange is neither entirely us nor entirely it. The dispute between Koenig and Bergeret is, in that respect, a fine dispute. It has the merit of sharpening arguments. Tenaillon was right at least on this point: the engine of philosophy remains the dispute.
 
 I dance. Not because I am sure I am right against those who dig in (to borrow Bergeret's expression) but because I am sure I do not want to dig in. It is less a certainty than a stance, which may have to be revised in due course. In the meantime, I prefer to learn these new dance steps.
+
+{{< newsletter >}}

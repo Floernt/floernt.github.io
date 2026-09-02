@@ -26,3 +26,4 @@ Some argue that telling someone to "Google it", is a way to avoid helping. I get
 
 Another point mention that human connection is needed and "stupid question " might be a way to interact and connect with each other. I'm ok with this argument but seriously, it's weak. You can connect and interact without asking things that can be found on a Google/LLM . And let's be real, how will be the "human connection" in the long run with these questions? The risk is you will annoy or disturb your friends until exhaustation.
 
+{{< newsletter >}}

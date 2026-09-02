@@ -90,3 +90,5 @@ Edward Snowden said:
 One could say the same about professional secrecy... Not caring about it today because our current tools are already full of holes is not a validation of their use.
 
 Let us acknowledge our mistakes and try to correct course.
+
+{{< newsletter >}}

@@ -271,3 +271,5 @@ But I do not intend to escape at this stage of the reflection because the soluti
 He advocates for respect for the individual and therefore for individualism (the opposite of socialism). And individualism should not be taken as a form of egoism but rather as the act of "*respecting the individual as such, recognizing that their opinions and tastes belong only to them, within their sphere, however narrowly circumscribed, is to believe that it is desirable for men to develop their individual gifts and tendencies.*"
 
 The proposed solution ultimately amounts to prescribing one thing to people: preventing them from harming others. In this framework, transposing such a solution seems difficult in the era of GAI, unless one considers that the fundamental freedoms of the individual enshrined in international texts are protected and respected in an even stronger and more important manner. A project of equally significant scope.
+
+{{< newsletter >}}

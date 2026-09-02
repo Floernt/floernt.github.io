@@ -89,3 +89,5 @@ It is on these grounds that the critical reflection on Damasio's remarks deserve
 On the other hand, properly understanding what repeated use of these tools concretely does to the thinking of those who use them is more than necessary. The modeling choices embedded in the parameters of these systems are not neutral. They steer outcomes, sometimes far beyond what users perceive, and risk progressively reconfiguring the creative imaginaries they claim merely to assist.
 
 This is yet another demonstration of the pharmacological character of this technology. This technology, like all others, is a pharmakon. A pharmakon whose inherent logic is to dissolve, in repeated and imperceptible doses, the roughness upon which thought takes hold. This is not, however, a reason to reject this technology. I still see in it the inextricable ambivalence observed and the indispensable necessity of therapeutic practices ([here](https://reflexions.florianernotte.be/post/depossession-operatoire/) & [there](https://reflexions.florianernotte.be/post/grammatiser-observer/)).
+
+{{< newsletter >}}

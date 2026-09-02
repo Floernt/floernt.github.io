@@ -131,3 +131,5 @@ When they are told it is a "personalized service," it encourages optimization of
 This should not become a self-fulfilling prophecy: by redefining the act, the profession is progressively redirected toward other values and other criteria of excellence that do not seem to be to everyone's taste.
 
 The legal profession remains steeped in a conservatism that in some respects remains quite necessary but is sometimes diametrically opposed to market needs. And that is why the CNB's gesture, apparently technical and defensive, could in reality have far-reaching consequences. In trying to protect the lawyer's monopoly against AI, it may be ratifying the very transformation it claims to be fighting.
+
+{{< newsletter >}}

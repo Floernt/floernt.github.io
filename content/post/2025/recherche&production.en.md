@@ -38,3 +38,5 @@ Rather than stacking expensive licenses that promise the moon:
 **Tame the beast**: It is by understanding the strengths (speed of analysis) and weaknesses (hallucinations) of the technology that you will be able to build, step by step, the custom-made agent that will truly save you time.
 
 I believe the future does not belong to AI that "knows everything" but to AI that "does" what you have taught it to do.
+
+{{< newsletter >}}

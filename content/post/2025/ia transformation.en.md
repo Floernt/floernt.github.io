@@ -165,3 +165,5 @@ This is how I approach these tools while keeping in mind the problems they can c
 - hermes (March 10, 2025). AI, creative companion. Revue Hermes - Cognition - Communication - Politics. Accessed March 16, 2025 at https://doi.org/10.58079/13ftx
 - The Academia editorial team (February 2, 2025). Why I don't use ChatGPT. _Academia_. Accessed March 16, 2025 at https://doi.org/10.58079/1382x
 - Anne Alombert, "Healing artificial stupidity," _Appareil_ [Online], 26 | 2023, published online November 23, 2023, accessed March 15, 2025. URL: http://journals.openedition.org/appareil/6979; DOI: https://doi.org/10.4000/appareil.6979
+
+{{< newsletter >}}

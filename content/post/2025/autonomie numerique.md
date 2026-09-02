@@ -102,3 +102,5 @@ Nous sommes donc les premiers responsables de notre liberté et de notre autonom
 >"Faire et non subir, tel est le fond de l'agréable".
 
 C'est d'abord à nous de jouer pour conserver notre liberté.
+
+{{< newsletter >}}

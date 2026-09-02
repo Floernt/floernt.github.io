@@ -44,3 +44,5 @@ I will conclude with a passage from [Anne Alombert - Thinking with Bernard Stieg
 >The potentially toxic effects of certain digital devices prematurely released require the design and experimentation of concrete therapeutic practices as well as alternative technologies to those from the disruptive industries of *Silicon Valley*.
 
 Here is an unfortunate illustration of this. I do not know what concrete therapeutic practices could be implemented at this stage, but I modestly hope that this "outburst" will lead you to reflect on this subject.
+
+{{< newsletter >}}

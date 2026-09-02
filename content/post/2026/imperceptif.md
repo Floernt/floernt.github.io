@@ -353,3 +353,5 @@ En nommant l’imperceptif, on crée une possibilité qu’il cherche lui-même 
 Tout cela permet à l’imperceptif de vivoter dans cette zone “grise”. Forger un mot pour désigner ce phénomène, c’est une manière de forcer le langage à dire ce qu’il tend à naturaliser.
 
 Considérer que nous maîtrisons la technique parce que nous l’utilisons, c’est confondre la liberté formelle avec la liberté substantielle. Nous sommes incapables d’imaginer ce que nos outils font de nous. Le reconnaître n’est pas un aveu de faiblesse. C’est un point de départ pour évoluer vers une pratique technique conviviale, une utilisation consciente et maîtrisée.
+
+{{< newsletter >}}

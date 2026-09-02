@@ -169,3 +169,5 @@ In summary:
 2. Favor metacognitive uses (clarification, reformulation, putting into perspective) rather than productive ones.
 3. Reintroduce interpretive effort: consult primary sources after a generated synthesis, even if it seems redundant.
 4. Refuse the posture of verifier: remain the author of the reasoning, even when the machine proposes a "correct" solution.
+
+{{< newsletter >}}

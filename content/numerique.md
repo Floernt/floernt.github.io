@@ -27,6 +27,18 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 (classé par ordre de lecture (du plus récent au plus ancien))
 
 
+[Hubert Guillaud - Les algorithmes contre la société](https://lafabrique.fr/les-algorithmes-contre-la-societe/)
+
+[Bruno Patino - Le temps de l'obsolescence humaine](https://www.grasset.fr/livre/le-dernier-sapiens-9782246845348/)
+
+[Abel Quentin - Sanctuaires](https://editions-observatoire.com/livre/Sanctuaires/655)
+
+[Georges Bernanos - La France contre les robots](https://www.editions-allia.com/fr/livre/1099/la-france-contre-les-robots)  
+
+[Bernard Stiegler - Réenchanter le monde](https://editions.flammarion.com/reenchanter-le-monde/9782080159267)
+
+[Anne Alombert - Penser l'intelligence artificielle : Enjeux philosophiques, politiques et culturels de l'automatisation numérique](https://www.lespressesdureel.com/ouvrage.php?id=12074)
+
 [Oscar Brenifier - L'IA, alliée de la pensée critique ? De Socrate à l'algorithme](https://nouveautes-editeurs.bnf.fr/accueil?id_declaration=10000001298156)
 
 [Louis de Diesbach - Faussaires algorithmiques : L'intelligence artificielle va-t-elle remplacer les artistes ?](https://editionsdelaube.fr/catalogue_de_livres/faussaires-algorithmiques/)

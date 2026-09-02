@@ -77,3 +77,5 @@ Mais si cette paresse est assumée. Si ce petit "hack" me permettait d'y arriver
 En fait, c'est un raccourci que je trouve salutaire, car il me permet d'exprimer plus facilement et simplement des choses plus profondes. L'effort d'écrire ce genre de note est une exploration et une réflexion qui me permet d'ouvrir l'esprit. En ce sens, je pense que l'utilisation d'une IA générative à cette fin n'est peut-être pas si mal. 
 
 `C’est paradoxal, mais c’est ainsi : plus la machine m’aide à écrire, plus je peux me concentrer sur ce qui ne s’écrit pas si facilement.`
+
+{{< newsletter >}}
