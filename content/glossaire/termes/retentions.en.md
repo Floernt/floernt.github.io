@@ -6,7 +6,7 @@ slug: retentions
 
 # Retentions (Primary, Secondary, Tertiary)
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Edmund Husserl (primary and secondary retentions) & Bernard Stiegler (tertiary retentions)
 
@@ -41,7 +41,7 @@ Generative AI increases the speed of access to knowledge while short-circuiting 
 
 ## See also
 
-- [Epiphylogenesis](/glossaire/termes/epiphylogenese/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
+- [Epiphylogenesis](/en/glossaire/termes/epiphylogenesis/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)

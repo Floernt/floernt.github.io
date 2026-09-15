@@ -6,7 +6,7 @@ slug: proletarianization
 
 # Proletarianization
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Marx, via Bernard Stiegler
 
@@ -42,8 +42,8 @@ Proletarianization is never merely an individual decision. It results from an ev
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Voluntary proletarianization](/glossaire/termes/proletarisation-volontaire/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Associated milieu](/glossaire/termes/milieu-associe/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Voluntary proletarianization](/en/glossaire/termes/voluntary-proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Associated milieu](/en/glossaire/termes/associated-milieu/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)

@@ -14,7 +14,7 @@ tags:
 ---
 # 1. An Appearance of Freedom
 
-My reflections on technique and technology lead me to sometimes unexpected places. [Recently](https://reflexions.florianernotte.be/en/post/grammatiser-observer/), I wrote about a situation I observed when reflecting on our technical and technological uses: we are free, in appearance, but certain options become impractical or unthinkable without however being prohibited.
+My reflections on technique and technology lead me to sometimes unexpected places. [Recently](https://reflexions.florianernotte.be/en/post/grammatize-and-observe/), I wrote about a situation I observed when reflecting on our technical and technological uses: we are free, in appearance, but certain options become impractical or unthinkable without however being prohibited.
 
 For example, and to take up the topic of the moment, we are free to use generative artificial intelligence just as we are free to send our mail by post rather than by email. Nothing forbids resorting to postal mail and no law prescribes email. No sanction strikes the person who sends a paper letter rather than an email. And yet, the freedom to use postal mail is very often reduced to nothing: the option exists but it is no longer reasonable. Nobody has really removed the choice or the possibility. They have simply made the alternative absurd.
 
@@ -255,7 +255,7 @@ Because one can only fight against what one sees, the imperceptive allows us to 
 
 To give ourselves a clean conscience, we will invoke the imperious necessity to (re)appropriate the Big Tech narrative or to (re)take our digital sovereignty. I deeply adhere to these proposals, but I remain equally sceptical in the face of this "enlightened humanism" that drapes itself in beautiful virtues.
 
-Faced with certain discourses, we fall into a true Tartuffery: experts, who transform themselves into modern-day sophists, take pleasure in these ideals and claim to think the technical subject without truly questioning it outside its framework. We fall into [the "ethic washing" that I denounced here](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/). Sometimes, beneath these apparently sensible recommendations, there are few or no concrete proposals, methods or solutions. We are exhorted to act without being told how. The result is unsurprising: not up to par.
+Faced with certain discourses, we fall into a true Tartuffery: experts, who transform themselves into modern-day sophists, take pleasure in these ideals and claim to think the technical subject without truly questioning it outside its framework. We fall into [the "ethic washing" that I denounced here](https://reflexions.florianernotte.be/en/post/ethics-and-compliance-beyond-the-hype/). Sometimes, beneath these apparently sensible recommendations, there are few or no concrete proposals, methods or solutions. We are exhorted to act without being told how. The result is unsurprising: not up to par.
 
 If we must think the technical subject, it is clear that the means deployed struggle to offer lasting solutions. When we are exhorted to (re)appropriate the Big Tech narrative, we push reflection within a framework of rationality that the imperceptive has already configured. All criticism presupposes a given framework of rationality to allow comparison between what is criticised and what should be, and this is what we struggle to find. Illich already noted:
 
@@ -275,7 +275,7 @@ A few years earlier, Habermas laid the foundations of this dialectic that we sho
 
 > The liberating force of reflection cannot be replaced by a deployment of technically usable knowledge.
 
-Through these quotations, I can consider that the solution advocated to face the problems of technology will not come through more technology. This vision is that of techno-solutionism, which has demonstrated its irrelevance (see the topic [How does AI change our system society?](https://reflexions.florianernotte.be/en/post/societe-systeme/)).
+Through these quotations, I can consider that the solution advocated to face the problems of technology will not come through more technology. This vision is that of techno-solutionism, which has demonstrated its irrelevance (see the topic [How does AI change our system society?](https://reflexions.florianernotte.be/en/post/how-does-ai-change-our-society-system/)).
 
 Anders also wrote in 1956: the "_technically feasible_" gives rise to an obligation in the individual. "_What we are capable of_" has become "_what must be_." We must escape these dictates. We must think about what technologies do to our bodies and minds in order to really think about the technical subject and perhaps cease to invent new ones that will only accentuate this Promethean gap, thus contributing to the imperceptive.
 
@@ -283,7 +283,7 @@ We must become aware of the effects of these palliatives implemented and discrim
 
 > That consumers "hooked" on a product organise themselves to defend themselves has the immediate effect of increasing the quality of the drug supplied and the power of the supplier.
 
-This is the aspect I tried to demonstrate in the [confrontation of compliance and ethics](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/) regarding technologies. We exert ourselves thinking about _how_ without first reflecting on _what_, and you will surely see a link with trustworthy AI...
+This is the aspect I tried to demonstrate in the [confrontation of compliance and ethics](https://reflexions.florianernotte.be/en/post/ethics-and-compliance-beyond-the-hype/) regarding technologies. We exert ourselves thinking about _how_ without first reflecting on _what_, and you will surely see a link with trustworthy AI...
 
 In April 2025, Mark Hunyadi distinguished in his paper ["The Battle of the Mind"](https://esprit.presse.fr/article/mark-hunyadi/la-bataille-de-l-esprit-45870) forced enslavement from the consented colonisation of our minds. He rightly recalls, in my view, that the battlefield of the big techs goes through our mind and that the stake is to impose on everyone a relationship to the world that goes through their technical devices. "_This is the major fact that must guide critical analyses of digital technology_," Hunyadi tells us.
 
@@ -328,7 +328,7 @@ If we want to fight the imperceptive, we must go beyond the rules it imposes on 
 
 It is therefore necessary to rise, beyond the imposed model of rationality, to define one's own model with an authentic autonomy. That is self-evident, you will tell me, and you are perfectly right. There is, however, a trap into which one must not fall: that of the impact of the imperceptive on our freedoms. If you set your own rules, autonomously, but by picking from what the imperceptive offers you, this autonomy is only an illusion of freedom. You are in fact completely directed by the imperceptive, where each of your choices will be inspired by a logic of rationality oriented, almost always, by progress or efficiency. This dynamic in which we evolve almost daily without realising it must be radically challenged (I will share soon a concrete illustration of this situation).
 
-It is therefore here that we should try to set our rules. Those that will orient the framework in which we are going to or want to evolve. Not all technology is to be thrown out. Without it, you would not have the possibility of reading these lines (assuming this is beneficial to anyone), advances in medicine or telecommunications would not be there. The idea is not to give you the (inevitably subjective) list of what technology has brought us, but to keep in mind this inevitable ambivalence and to accept its complexity (on the subject, see notably [III. How to navigate?](https://reflexions.florianernotte.be/en/post/ethique-conformit%C3%A9/)).
+It is therefore here that we should try to set our rules. Those that will orient the framework in which we are going to or want to evolve. Not all technology is to be thrown out. Without it, you would not have the possibility of reading these lines (assuming this is beneficial to anyone), advances in medicine or telecommunications would not be there. The idea is not to give you the (inevitably subjective) list of what technology has brought us, but to keep in mind this inevitable ambivalence and to accept its complexity (on the subject, see notably [III. How to navigate?](https://reflexions.florianernotte.be/en/post/ethics-and-compliance-beyond-the-hype/)).
 
 If the imperceptive structures the reasonable, then to resist autonomously is not only to disobey the framework, it is to step out of it in order to question it. To resist the imperceptive consists in making explicit the implicit criteria of the reasonable in order to be able to contest them.
 
@@ -346,7 +346,7 @@ In Tools for Conviviality, Illich writes:
 
 > We understand that another society is possible when we manage to express it clearly. We provoke its appearance when we discover the process by which the present society makes its decisions.
 
-This approach, I believe, falls within the framework of [linguistic determinism](linguistic%20determinism): the idea that language determines the amplitude of our thought and knowledge. This echoes what Wittgenstein wrote: _"the limits of my language are the limits of my world."_ What we cannot formulate cannot be properly thought or discussed (I renew here my warning of my shortcomings on the subject of the philosophy of language and solicit the informed reader's benevolence).
+This approach, I believe, falls within the framework of linguistic determinism: the idea that language determines the amplitude of our thought and knowledge. This echoes what Wittgenstein wrote: _"the limits of my language are the limits of my world."_ What we cannot formulate cannot be properly thought or discussed (I renew here my warning of my shortcomings on the subject of the philosophy of language and solicit the informed reader's benevolence).
 
 Since the imperceptive is imperceptible for the one who undergoes it, it is all the more important to express it, to trace its contours in order to appropriate it, examine it, analyse it and distance ourselves from it if needed. We must compel ourselves to broaden our field of vision, to force ourselves to understand how things work, how they assemble and how they disassemble in order to have a real understanding of them according to the idea of G. Vico (_Verum ipsum factum_). To know a thing precisely, one would have to be its author.
 

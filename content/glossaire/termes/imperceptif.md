@@ -50,3 +50,4 @@ Résister à l'imperceptif suppose une véritable autonomie, au sens étymologiq
 - [Prolétarisation](/glossaire/termes/proletarisation/)
 - [Autonomie numérique](/glossaire/termes/autonomie-numerique/)
 - [Pharmacologie](/glossaire/termes/pharmacologie/)
+- [Dispositif génératif](/glossaire/termes/dispositif-generatif/)

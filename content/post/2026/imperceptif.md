@@ -269,7 +269,7 @@ En 1986, Ellul écrit dans le “bluff technologique” la nécessité d’opér
 
 Quelques années auparavant, Habermas posait les jalons de cette dialectique que nous devrions avoir face à la technique en indiquant que :
 
-> [La force libératoire de la réflexion ne peut être remplacée par un déploiement de savoir techniquement](La%20force%20libératoire%20de%20la%20réflexion%20ne%20peut%20être%20remplacée%20par%20un%20déploiement%20de%20savoir%20techniquement%20utilisables) utilisable.
+> La force libératoire de la réflexion ne peut être remplacée par un déploiement de savoir techniquement utilisable.
 
 Au travers de ces citations, je peux considérer que la solution préconisée face aux problèmes de la technique ne passera pas par plus de technique. Cette vision est celle du techno-solutionnisme qui a démontré son irrélevance (voir le sujet [Comment l’IA change notre société système?)](https://reflexions.florianernotte.be/post/societe-systeme/).
 
@@ -342,7 +342,7 @@ Dans la Convialité, Illich écrit :
 
 > On comprend qu’une autre société est possible quand on parvient à l’exprimer clairement. On provoque son apparition quand on découvre le procédé par lequel la société présente prend ses décisions.
 
-Cette démarche, je crois, s’inscrit dans le cadre du [déterminisme linguistique](déterminisme%20linguistique) : l’idée selon laquelle le langage détermine l’amplitude de notre pensée et de notre connaissance. Cela fait écho à ce que Wittgenstein a pu écrire : _“les frontières de mon langage sont les frontières de mon monde.”_ Ce que nous ne pouvons pas formuler ne peut pas être proprement pensé ou discuté (je renouvelle ici mon avertissement de mes carences au sujet de la philosophie du langage et sollicite la bienveillance du lecteur averti).
+Cette démarche, je crois, s’inscrit dans le cadre du déterminisme linguistique : l’idée selon laquelle le langage détermine l’amplitude de notre pensée et de notre connaissance. Cela fait écho à ce que Wittgenstein a pu écrire : _“les frontières de mon langage sont les frontières de mon monde.”_ Ce que nous ne pouvons pas formuler ne peut pas être proprement pensé ou discuté (je renouvelle ici mon avertissement de mes carences au sujet de la philosophie du langage et sollicite la bienveillance du lecteur averti).
 
 Puisque l’imperceptif est imperceptible pour celui qui le subit, il est d’autant plus important de l’exprimer, d’en tracer les contours pour se l’approprier, l’examiner, l’analyser et s’en distancer si besoin. Il faut s’astreindre à l’élargissement de notre champ de vision, à se forcer à comprendre comment les choses fonctionnent, comment elles s’assemblent et comment elles se démontent pour en avoir une compréhension réelle selon l’idée de G. Vico (_Verum ipsum factum_). Pour connaître précisément une chose, il faudrait en être l’auteur.
 

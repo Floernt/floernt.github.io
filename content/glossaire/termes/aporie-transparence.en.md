@@ -6,7 +6,7 @@ slug: aporia-of-transparency
 
 # The Aporia of Transparency
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept developed from the distinction between authenticity and sincerity
 
@@ -41,6 +41,6 @@ Confusing the two amounts to asking a poorly formulated question and providing i
 
 ## See also
 
-- [Voluntary proletarianization](/glossaire/termes/proletarisation-volontaire/)
-- [Meta-writing](/glossaire/termes/meta-ecriture/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
+- [Voluntary proletarianization](/en/glossaire/termes/voluntary-proletarianization/)
+- [Meta-writing](/en/glossaire/termes/meta-writing/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)

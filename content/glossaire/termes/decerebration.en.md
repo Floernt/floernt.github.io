@@ -6,7 +6,7 @@ slug: decerebration
 
 # Decerebration
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Term from the public debate on AI
 
@@ -39,7 +39,7 @@ The problem remains real: operative dispossession exists, as do the risks of pro
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Digital autonomy](/glossaire/termes/autonomie-numerique/)
-- [Pharmacology](/glossaire/termes/pharmacologie/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Digital autonomy](/en/glossaire/termes/digital-autonomy/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)

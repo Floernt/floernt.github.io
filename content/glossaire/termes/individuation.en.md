@@ -6,7 +6,7 @@ slug: individuation
 
 # Individuation
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Gilbert Simondon
 
@@ -38,7 +38,7 @@ This is why the practices I describe (grammatizing, observing, remaining the aut
 
 ## See also
 
-- [Associated milieu](/glossaire/termes/milieu-associe/)
-- [Epiphylogenesis](/glossaire/termes/epiphylogenese/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Grammatization](/glossaire/termes/grammatisation/)
+- [Associated milieu](/en/glossaire/termes/associated-milieu/)
+- [Epiphylogenesis](/en/glossaire/termes/epiphylogenesis/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)

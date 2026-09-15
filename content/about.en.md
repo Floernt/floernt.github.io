@@ -30,4 +30,4 @@ I hope that the content I share can give someone a different point of view that 
 
 # About me
 
-My name is Florian Ernotte and this is my 'reflexions' site where I experiment and share thoughts and reflections. More information about my professional background [here](www.avroy.be/florian-ernotte).
+My name is Florian Ernotte and this is my 'reflexions' site where I experiment and share thoughts and reflections. More information about my professional background [here](https://www.avroy.be/florian-ernotte).

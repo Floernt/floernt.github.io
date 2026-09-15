@@ -6,7 +6,7 @@ slug: epiphylogenesis
 
 # Epiphylogenesis
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Bernard Stiegler
 
@@ -41,7 +41,7 @@ The question this observation raises is what remains in human memory once conten
 
 ## See also
 
-- [Retentions](/glossaire/termes/retentions/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Individuation](/glossaire/termes/individuation/)
-- [Voluntary proletarianization](/glossaire/termes/proletarisation-volontaire/)
+- [Retentions](/en/glossaire/termes/retentions/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Individuation](/en/glossaire/termes/individuation/)
+- [Voluntary proletarianization](/en/glossaire/termes/voluntary-proletarianization/)

@@ -39,4 +39,4 @@ L'absence de cette question préalable produit des outils qui répondent à des 
 - [Myopie technologique](/glossaire/termes/myopie-technologique/)
 - [Pharmakon](/glossaire/termes/pharmakon/)
 - [Société-système](/glossaire/termes/societe-systeme/)
-- [Arraisonnement](/glossaire/termes/arraisonnement/)
+- Arraisonnement

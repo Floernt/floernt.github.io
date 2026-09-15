@@ -6,7 +6,7 @@ slug: technological-myopia
 
 # Technological Myopia
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Richard Susskind, reinterpreted and broadened
 
@@ -41,6 +41,6 @@ The pharmakon is precisely what allows us to move beyond both forms of myopia: b
 
 ## See also
 
-- [Pharmakon](/glossaire/termes/pharmakon/)
-- [Technological solutionism](/glossaire/termes/solutionnisme/)
-- [Pharmacology](/glossaire/termes/pharmacologie/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)
+- [Technological solutionism](/en/glossaire/termes/solutionism/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)

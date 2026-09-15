@@ -6,7 +6,7 @@ slug: the-imperceptive
 
 # The Imperceptive
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Neologism: contraction of *imperative* + *imperceptible*
 
@@ -47,7 +47,8 @@ Resisting the imperceptive presupposes a genuine autonomy, in the etymological s
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Digital autonomy](/glossaire/termes/autonomie-numerique/)
-- [Pharmacology](/glossaire/termes/pharmacologie/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Digital autonomy](/en/glossaire/termes/digital-autonomy/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)
+- [Generative device](/en/glossaire/termes/generative-device/)

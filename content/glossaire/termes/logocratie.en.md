@@ -6,7 +6,7 @@ slug: logocracy
 
 # Logocracy
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Inspired by Clement Viktorovich
 
@@ -37,7 +37,7 @@ Individuals who master the codes of the algorithmically rewarded format (fragmen
 
 ## See also
 
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Digital autonomy](/glossaire/termes/autonomie-numerique/)
-- [System-society](/glossaire/termes/societe-systeme/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Digital autonomy](/en/glossaire/termes/digital-autonomy/)
+- [System-society](/en/glossaire/termes/society-system/)

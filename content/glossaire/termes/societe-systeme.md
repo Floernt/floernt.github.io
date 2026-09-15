@@ -36,6 +36,6 @@ Cette course ne produit pas de stabilité. Elle produit une accélération conti
 ## Voir aussi
 
 - [Solutionnisme technologique](/glossaire/termes/solutionnisme/)
-- [Arraisonnement](/glossaire/termes/arraisonnement/)
+- Arraisonnement
 - [Décérébration](/glossaire/termes/decerebration/)
 - [Autonomie numérique](/glossaire/termes/autonomie-numerique/)

@@ -45,7 +45,7 @@ L'ablation sémantique et l'ablation attentionnelle forment une séquence causal
 
 ## Articles où ce terme est développé
 
-- [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionelle)
+- [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionnelle/)
 
 ---
 

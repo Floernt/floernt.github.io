@@ -6,7 +6,7 @@ slug: semantic-ablation
 
 # Semantic Ablation
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Term coined by Claudio Nastruzzi (*The Register*, February 2026), developed and extended in my writings
 
@@ -26,20 +26,19 @@ Semantic ablation is the result of an optimization objective. This phenomenon ca
 
 A convergence movement can be set in motion without users realizing it, when millions of people use the same models to write, draft, rephrase, and imagine. What constitutes the originality of a writing style is marginalized by the statistical weight of homogeneous mass production. This is not merely an aesthetic loss: it is an erosion through standardization that progressively reconfigures the imaginaries that these tools claim merely to assist.
 
-This loss is not only aesthetic and semantic. It becomes attentional: see [attentional ablation](/glossaire/termes/ablation-attentionnelle/).
+This loss is not only aesthetic and semantic. It becomes attentional: see [attentional ablation](/en/glossaire/termes/attentional-ablation/).
 
 ---
 
 ## Articles where this term is used
 
-- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/post/ablation-attentionelle)
+- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/en/post/attentional-ablation/)
 
 ---
 
 ## See also
 
-- [Attentional ablation](/glossaire/termes/ablation-attentionnelle/)
-- [Automation bias](/glossaire/termes/biais-automatisation/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
-- [Uniformization of thought](/glossaire/termes/ablation-semantique/)
-- [Grammatization](/glossaire/termes/grammatisation/)
+- [Attentional ablation](/en/glossaire/termes/attentional-ablation/)
+- [Automation bias](/en/glossaire/termes/automation-bias/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)
+- [Grammatization](/en/glossaire/termes/grammatization/)

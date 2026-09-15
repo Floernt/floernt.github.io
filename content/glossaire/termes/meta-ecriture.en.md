@@ -6,7 +6,7 @@ slug: meta-writing
 
 # Meta-writing
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept developed from a professional practice with generative AI
 
@@ -38,6 +38,6 @@ Meta-writing is also a form of voluntary proletarianization: by externalizing my
 
 ## See also
 
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Voluntary proletarianization](/glossaire/termes/proletarisation-volontaire/)
-- [Epiphylogenesis](/glossaire/termes/epiphylogenese/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Voluntary proletarianization](/en/glossaire/termes/voluntary-proletarianization/)
+- [Epiphylogenesis](/en/glossaire/termes/epiphylogenesis/)

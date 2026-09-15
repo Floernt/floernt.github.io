@@ -6,7 +6,7 @@ slug: automation-bias
 
 # Automation Bias
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Cognitive psychology (*automation bias*)
 
@@ -40,18 +40,20 @@ This bias is part of a broader movement that I have analyzed through Mathieu Cor
 
 ## Articles where this term is used
 
-- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/post/ablation-attentionelle)
-- [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
-- [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/en/post/attentional-ablation/)
+- [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/en/post/operative-dispossession/)
+- [Grammatize and observe.](https://reflexions.florianernotte.be/en/post/grammatize-and-observe/)
 - [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
+- [On generative devices](https://reflexions.florianernotte.be/en/post/generative-devices/)
 
 ---
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [The imperceptive](/glossaire/termes/imperceptif/)
-- [Semantic ablation](/glossaire/termes/ablation-semantique/)
-- [Attentional ablation](/glossaire/termes/ablation-attentionnelle/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Pharmacology](/glossaire/termes/pharmacologie/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [The imperceptive](/en/glossaire/termes/the-imperceptive/)
+- [Semantic ablation](/en/glossaire/termes/semantic-ablation/)
+- [Attentional ablation](/en/glossaire/termes/attentional-ablation/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)
+- [Generative device](/en/glossaire/termes/generative-device/)

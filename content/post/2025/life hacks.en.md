@@ -79,7 +79,7 @@ And to be strictly to the point, my guess is that you have plenty of examples ar
 
 this is one is a productive hack. I did use a timer for years and i enjoyed it because it forces me to be consistent and kill the procrastination. 
 
-I discovered it with the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=It%20uses%20a%20kitchen%20timer,used%20while%20a%20university%20student.). (I use [Pomofocus](pomofocus.io) to have some analytics of my focus sessions).
+I discovered it with the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=It%20uses%20a%20kitchen%20timer,used%20while%20a%20university%20student.). (I use [Pomofocus](https://pomofocus.io) to have some analytics of my focus sessions).
 
 Having a timer defines a time constraint. When you start a timer, you know you will have X minutes to do something. **The beauty of the timer is that it forces you to define "something".** And that's where the magic happens. By setting a timer, you are "unconsciously" defining what you will do during the time. It helps me to do "[deep work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)".
 

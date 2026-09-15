@@ -159,11 +159,11 @@ I was recently reading a newsletter by Tariq Krim that stated:
 
 Personally, I find this observation deeply meaningful and revealing of what Ellul was describing nearly 60 years ago. "We" are perpetually searching for maximum efficiency, and technical and technological innovation only reinforces this quest.
 
-## 2) [Technological Solutionism](/glossaire/termes/solutionnisme/)
+## 2) [Technological Solutionism](/en/glossaire/termes/solutionism/)
 
-This efficiency dogma will lead our society into certain "drifts." We have become so convinced that technology is efficient that it becomes virtually *the only* audible answer to our problems. We fall into [techno-solutionism](/glossaire/termes/solutionnisme/) which holds that there is a techno-entrepreneurial solution to every given societal problem.
+This efficiency dogma will lead our society into certain "drifts." We have become so convinced that technology is efficient that it becomes virtually *the only* audible answer to our problems. We fall into [techno-solutionism](/en/glossaire/termes/solutionism/) which holds that there is a techno-entrepreneurial solution to every given societal problem.
 
-Conceptualized notably by Evgeny Morozov, [technological solutionism](/glossaire/termes/solutionnisme/) imposes technology without a need being identified. "If it can be done, we do it," some would say. This form of techno-optimism creates the illusion that technology can solve everything. We systematically transform complex social problems into technical challenges.
+Conceptualized notably by Evgeny Morozov, [technological solutionism](/en/glossaire/termes/solutionism/) imposes technology without a need being identified. "If it can be done, we do it," some would say. This form of techno-optimism creates the illusion that technology can solve everything. We systematically transform complex social problems into technical challenges.
 
 This way of doing things is "unfortunately" quite seductive for the political world, as Benjamin Pajot explains, because it offers:
 
@@ -245,25 +245,25 @@ As with the example of AI in recruitment, we ask the question of the lawfulness 
 
 We must therefore recognize this solutionism that can take over and examine it by critically verifying the problem and its root cause. By understanding the root cause of the problem we seek to solve, we will then be able to more finely gauge the appropriateness of the envisioned solutions. Perhaps a technological solution will ultimately be the best solution. By preserving this questioning, we set up a first filter against this hype.
 
-### b) The Technological [Pharmakon](/glossaire/termes/pharmakon/)
+### b) The Technological [Pharmakon](/en/glossaire/termes/pharmakon/)
 
-Once the solution is envisioned, I propose mobilizing the concept of the "[pharmakon](/glossaire/termes/pharmakon/)."
+Once the solution is envisioned, I propose mobilizing the concept of the "[pharmakon](/en/glossaire/termes/pharmakon/)."
 
-Carried forward by Bernard Stiegler, following Derrida, the concept of the [pharmakon](/glossaire/termes/pharmakon/) comes from the dialogue between Socrates and Phaedrus as recorded by Plato.
+Carried forward by Bernard Stiegler, following Derrida, the concept of the [pharmakon](/en/glossaire/termes/pharmakon/) comes from the dialogue between Socrates and Phaedrus as recorded by Plato.
 
 In the Phaedrus, Aristotle relates, through a story between a god and a Greek king, that writing can be a remedy "*against the difficulty of learning and knowing*" but also a poison that *"will produce only forgetfulness in the minds of those who learn, causing them to neglect memory."*
 
 Transposed to technology, we should consider technology as necessarily complex and ambivalent in its effects. This understanding of ambivalence allows us to move beyond the techno-optimist approach and offers an elegant explanation to circumvent the immobility in which we might find ourselves if we confined ourselves to seeking a technologically "perfect" solution.
 
-The strength of this concept also lies in the [pharmacological](/glossaire/termes/pharmacologie/) approach proposed by Stiegler. Like a drug or medication, everything is a matter of dosage. Too light a dose has no effect; too strong a dose can be lethal.
+The strength of this concept also lies in the [pharmacological](/en/glossaire/termes/pharmacology/) approach proposed by Stiegler. Like a drug or medication, everything is a matter of dosage. Too light a dose has no effect; too strong a dose can be lethal.
 
 There is therefore a balance to find through this complexity that becomes inherent to all technology.
 
-Far from the myth of technological neutrality, the [Pharmakon](/glossaire/termes/pharmakon/) affirms the ambivalence of each technology and allows, in my view, a more adequate apprehension of the advantages and dangers of the technological solutions being considered.
+Far from the myth of technological neutrality, the [Pharmakon](/en/glossaire/termes/pharmakon/) affirms the ambivalence of each technology and allows, in my view, a more adequate apprehension of the advantages and dangers of the technological solutions being considered.
 
-### c) [Technological Myopia](/glossaire/termes/myopie-technologique/)
+### c) [Technological Myopia](/en/glossaire/termes/technological-myopia/)
 
-To conclude, I will rely on the concept of "[technological myopia](/glossaire/termes/myopie-technologique/)" developed by Richard Susskind, but I will reinterpret it to give it a broader meaning than the one that was proposed.
+To conclude, I will rely on the concept of "[technological myopia](/en/glossaire/termes/technological-myopia/)" developed by Richard Susskind, but I will reinterpret it to give it a broader meaning than the one that was proposed.
 
 This myopia refers to the situation where we project the flaws of a technology without taking into account future correction factors, whether technical or political.
 
@@ -286,6 +286,6 @@ We then fall, once again, into an implementation of the principle of efficiency 
 
 Today, questioning trustworthy AI and ethical technology amounts to making technology acceptable without objectively and sincerely questioning it.
 
-If we detect [technological solutionism](/glossaire/termes/solutionnisme/), understand technological complexity and accept its ambivalence ([Pharmakon](/glossaire/termes/pharmakon/)), we can (perhaps better) think about technology by being careful to correct our projections (optimistic or pessimistic) ([technological myopia](/glossaire/termes/myopie-technologique/)).
+If we detect [technological solutionism](/en/glossaire/termes/solutionism/), understand technological complexity and accept its ambivalence ([Pharmakon](/en/glossaire/termes/pharmakon/)), we can (perhaps better) think about technology by being careful to correct our projections (optimistic or pessimistic) ([technological myopia](/en/glossaire/termes/technological-myopia/)).
 
 {{< newsletter >}}

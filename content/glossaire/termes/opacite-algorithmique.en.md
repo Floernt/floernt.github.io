@@ -6,7 +6,7 @@ slug: algorithmic-opacity
 
 # Algorithmic Opacity
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept used in the analysis of operative dispossession
 
@@ -39,6 +39,6 @@ This is why *a priori* grammatization (imposing one's cognitive grammar *before*
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
