@@ -6,7 +6,7 @@ slug: attentional-ablation
 
 # Attentional Ablation
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept developed from Gottlob Frege and the concept of semantic ablation
 
@@ -46,14 +46,14 @@ Semantic ablation and attentional ablation form a causal sequence: the statistic
 
 ## Articles where this term is developed
 
-- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/post/ablation-attentionelle)
+- [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/en/post/attentional-ablation/)
 
 ---
 
 ## See also
 
-- [Semantic ablation](/glossaire/termes/ablation-semantique/)
-- [Automation bias](/glossaire/termes/biais-automatisation/)
-- [Retentions](/glossaire/termes/retentions/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
+- [Semantic ablation](/en/glossaire/termes/semantic-ablation/)
+- [Automation bias](/en/glossaire/termes/automation-bias/)
+- [Retentions](/en/glossaire/termes/retentions/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)

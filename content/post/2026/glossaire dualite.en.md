@@ -12,12 +12,12 @@ tags:
 
 Ars Industrialis offers, on its site, a [vocabulary](https://arsindustrialis.org/vocabulaire). This lexical choice is interesting because vocabulary is the living language of a thought. It is the typical or atypical formulations of that language. What I browsed of this vocabulary made me want to do the same with the concepts I have mobilized, developed, sometimes invented in my notebook.
 
-The idea matured for a while. However, I have not invented a new language, so the term "vocabulary" does not seem relevant to me at this stage of my reflections. After a year of writing, I had covered enough notions in my notebook *dualite* for a glossary to become not only useful but necessary. Especially since I have started experimenting with neologisms. [*Imperceptif*](/glossaire/termes/imperceptif/), [*ablation attentionnelle*](/glossaire/termes/ablation-attentionnelle/), [*depossession operatoire*](/glossaire/termes/depossession-operatoire/): these terms do not appear in the dictionary. Although they are defined within the written notes, grouping these concepts is a way of guiding the reader who encounters them and not leaving them to their own interpretations.
+The idea matured for a while. However, I have not invented a new language, so the term "vocabulary" does not seem relevant to me at this stage of my reflections. After a year of writing, I had covered enough notions in my notebook *dualite* for a glossary to become not only useful but necessary. Especially since I have started experimenting with neologisms. [*Imperceptif*](/en/glossaire/termes/the-imperceptive/), [*ablation attentionnelle*](/en/glossaire/termes/attentional-ablation/), [*depossession operatoire*](/en/glossaire/termes/operative-dispossession/): these terms do not appear in the dictionary. Although they are defined within the written notes, grouping these concepts is a way of guiding the reader who encounters them and not leaving them to their own interpretations.
 
 ## Memory as Working Material
 
 
-By using GAI to explore my notes, I used these [tertiary retentions](/glossaire/termes/retentions/) as material that I mobilized to initiate the construction of the glossary. The request was:
+By using GAI to explore my notes, I used these [tertiary retentions](/en/glossaire/termes/retentions/) as material that I mobilized to initiate the construction of the glossary. The request was:
 
 >`For my site and my notebook dualite, I want to write a glossary of terms, concepts, and neologisms that I use in my reflections. Write a list of these terms.`
 

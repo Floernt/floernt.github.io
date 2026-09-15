@@ -6,7 +6,7 @@ slug: digital-autonomy
 
 # Digital Autonomy
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept developed as a critical response to "digital sovereignty"
 
@@ -42,7 +42,7 @@ It requires remaining the protagonist of one's actions: taking on the effort of 
 
 ## See also
 
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [The imperceptive](/glossaire/termes/imperceptif/)
-- [Decerebration](/glossaire/termes/decerebration/)
-- [Pharmacology](/glossaire/termes/pharmacologie/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [The imperceptive](/en/glossaire/termes/the-imperceptive/)
+- [Decerebration](/en/glossaire/termes/decerebration/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)

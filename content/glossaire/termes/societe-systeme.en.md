@@ -6,7 +6,7 @@ slug: society-system
 
 # The System-Society
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Personal usage inspired by Jacques Ellul
 
@@ -36,7 +36,7 @@ This race does not produce stability. It produces a continuous acceleration in w
 
 ## See also
 
-- [Technological solutionism](/glossaire/termes/solutionnisme/)
-- [Enframing](/glossaire/termes/arraisonnement/)
-- [Decerebration](/glossaire/termes/decerebration/)
-- [Digital autonomy](/glossaire/termes/autonomie-numerique/)
+- [Technological solutionism](/en/glossaire/termes/solutionism/)
+- Enframing
+- [Decerebration](/en/glossaire/termes/decerebration/)
+- [Digital autonomy](/en/glossaire/termes/digital-autonomy/)

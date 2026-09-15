@@ -6,7 +6,7 @@ slug: operative-dispossession
 
 # Operative Dispossession
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Concept developed from proletarianization according to Bernard Stiegler
 
@@ -32,7 +32,7 @@ Operative dispossession operates along three dimensions:
 
 The dangerous slippage is the one that transforms verification into routine: the user who no longer dares deviate from a solution proposed by the machine, who ceases to question the framing, who validates without critiquing. They then become a signatory rather than an author.
 
-Operative dispossession can also be linked to [automation bias](/glossaire/termes/biais-automatisation/). Automation bias refers to the tendency to trust the system at the expense of one's own judgment; operative dispossession is its cumulative and structural effect. The bias is a punctual cognitive mechanism; dispossession is its result inscribed in duration, in skills, in the user's identity. One explains the gesture of delegation; the other accounts for what repeated delegation produces over time. What begins as a practical shortcut (validating rather than thinking) ends up altering the very capacity to think without that shortcut.
+Operative dispossession can also be linked to [automation bias](/en/glossaire/termes/automation-bias/). Automation bias refers to the tendency to trust the system at the expense of one's own judgment; operative dispossession is its cumulative and structural effect. The bias is a punctual cognitive mechanism; dispossession is its result inscribed in duration, in skills, in the user's identity. One explains the gesture of delegation; the other accounts for what repeated delegation produces over time. What begins as a practical shortcut (validating rather than thinking) ends up altering the very capacity to think without that shortcut.
 
 ---
 
@@ -46,9 +46,9 @@ Operative dispossession can also be linked to [automation bias](/glossaire/terme
 
 ## See also
 
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Automation bias](/glossaire/termes/biais-automatisation/)
-- [Algorithmic opacity](/glossaire/termes/opacite-algorithmique/)
-- [The imperceptive](/glossaire/termes/imperceptif/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Automation bias](/en/glossaire/termes/automation-bias/)
+- [Algorithmic opacity](/en/glossaire/termes/algorithmic-opacity/)
+- [The imperceptive](/en/glossaire/termes/the-imperceptive/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)

@@ -6,7 +6,7 @@ slug: voluntary-proletarianization
 
 # Voluntary Proletarianization
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Repurposed use of the Stieglerian concept of proletarianization
 
@@ -38,7 +38,7 @@ Voluntary proletarianization delineates the space of possible resistance between
 
 ## See also
 
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Meta-writing](/glossaire/termes/meta-ecriture/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Meta-writing](/en/glossaire/termes/meta-writing/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)

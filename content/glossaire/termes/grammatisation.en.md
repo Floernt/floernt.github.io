@@ -6,7 +6,7 @@ slug: grammatization
 
 # Grammatization
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Sylvain Auroux (*La revolution technologique de la grammatisation*, 1994), via Bernard Stiegler
 
@@ -43,7 +43,7 @@ Successfully moving from the particular case to the class of cases, then to the 
 
 ## See also
 
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Meta-writing](/glossaire/termes/meta-ecriture/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [The imperceptive](/glossaire/termes/imperceptif/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Meta-writing](/en/glossaire/termes/meta-writing/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [The imperceptive](/en/glossaire/termes/the-imperceptive/)

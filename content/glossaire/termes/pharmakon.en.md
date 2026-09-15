@@ -6,7 +6,7 @@ slug: pharmakon
 
 # The Pharmakon
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Plato (*Phaedrus*), via Derrida and Bernard Stiegler
 
@@ -42,7 +42,7 @@ This is also why the "therapeutic practices" I describe are responses to the pha
 
 ## See also
 
-- [Pharmacology](/glossaire/termes/pharmacologie/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Grammatization](/glossaire/termes/grammatisation/)
-- [Technological myopia](/glossaire/termes/myopie-technologique/)
+- [Pharmacology](/en/glossaire/termes/pharmacology/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
+- [Technological myopia](/en/glossaire/termes/technological-myopia/)

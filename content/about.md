@@ -29,4 +29,4 @@ J'espère que le contenu que je partage pourra donner à une personne un point d
 
 # à propos de moi
 
-  Je m'appelle Florian Ernotte et voici mon site 'réflexions' où j'expérimente et je partage des pensées et des réflexions. Plus d'infos sur mon parcours professionnel [ici](www.avroy.be/florian-ernotte).
+  Je m'appelle Florian Ernotte et voici mon site 'réflexions' où j'expérimente et je partage des pensées et des réflexions. Plus d'infos sur mon parcours professionnel [ici](https://www.avroy.be/florian-ernotte).

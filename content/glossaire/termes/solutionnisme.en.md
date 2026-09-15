@@ -6,7 +6,7 @@ slug: solutionism
 
 # Technological Solutionism
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Evgeny Morozov (*To Save Everything, Click Here*, 2013)
 
@@ -37,7 +37,7 @@ The absence of this preliminary question produces tools that respond to poorly p
 
 ## See also
 
-- [Technological myopia](/glossaire/termes/myopie-technologique/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
-- [System-society](/glossaire/termes/societe-systeme/)
-- [Enframing](/glossaire/termes/arraisonnement/)
+- [Technological myopia](/en/glossaire/termes/technological-myopia/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)
+- [System-society](/en/glossaire/termes/society-system/)
+- Enframing

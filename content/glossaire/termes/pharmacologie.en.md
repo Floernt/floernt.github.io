@@ -6,9 +6,9 @@ slug: pharmacology
 
 # Pharmacology
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
-**Origin**: Bernard Stiegler, from the concept of [pharmakon](/glossaire/termes/pharmakon/)
+**Origin**: Bernard Stiegler, from the concept of [pharmakon](/en/glossaire/termes/pharmakon/)
 
 ---
 
@@ -38,6 +38,6 @@ The "therapeutic practices" I describe are pharmacological gestures. They are no
 
 ## See also
 
-- [Pharmakon](/glossaire/termes/pharmakon/)
-- [Operative dispossession](/glossaire/termes/depossession-operatoire/)
-- [Grammatization](/glossaire/termes/grammatisation/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)
+- [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Grammatization](/en/glossaire/termes/grammatization/)

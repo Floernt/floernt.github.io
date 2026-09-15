@@ -35,6 +35,7 @@ A compendium of concepts, neologisms and structuring notions used throughout the
 
 - [Decerebration](/en/glossaire/termes/decerebration/)
 - [Operative dispossession](/en/glossaire/termes/operative-dispossession/)
+- [Generative device](/en/glossaire/termes/generative-device/)
 
 ---
 

@@ -31,7 +31,7 @@ Cette perte n'est pas qu'esthétique et sémantique. Elle devient attentionnelle
 
 ## Articles où ce terme est mobilisé
 
-- [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionelle)
+- [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionnelle/)
 
 
 ---
@@ -41,5 +41,4 @@ Cette perte n'est pas qu'esthétique et sémantique. Elle devient attentionnelle
 - [Ablation attentionnelle](/glossaire/termes/ablation-attentionnelle/)
 - [Biais d'automatisation](/glossaire/termes/biais-automatisation/)
 - [Pharmakon](/glossaire/termes/pharmakon/)
-- [Uniformisation de la pensée](/glossaire/termes/ablation-semantique/)
 - [Grammatisation](/glossaire/termes/grammatisation/)

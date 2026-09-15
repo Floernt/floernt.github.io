@@ -6,7 +6,7 @@ slug: associated-milieu
 
 # The Associated Milieu / Technical Milieu
 
-← [Back to glossary](/glossaire/)
+← [Back to glossary](/en/glossary/)
 
 **Origin**: Gilbert Simondon
 
@@ -36,6 +36,6 @@ The person who refuses to adopt the tool in this transformed milieu is not makin
 
 ## See also
 
-- [Individuation](/glossaire/termes/individuation/)
-- [Proletarianization](/glossaire/termes/proletarisation/)
-- [Grammatization](/glossaire/termes/grammatisation/)
+- [Individuation](/en/glossaire/termes/individuation/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Grammatization](/en/glossaire/termes/grammatization/)
