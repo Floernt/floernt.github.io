@@ -1,0 +1,18 @@
+{{ if eq .Type "post" }}
+  {{ $related := .Site.RegularPages.Related . }}
+  {{ $related = where $related "Type" "post" }}
+  {{ $related = where $related "Params.hidden" "ne" true }}
+  {{ $related = where $related "Draft" false }}
+  {{ with first 3 $related }}
+  <section class="suite">
+    <hr>
+    <h2>{{ i18n "furtherReading" }}</h2>
+    {{ range . }}
+    <div class="list-item">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time>{{ dateFormat ":date_medium" .Date }}</time>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+{{ end }}
