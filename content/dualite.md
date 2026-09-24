@@ -1,7 +1,7 @@
 ---
 title : Dualité
 date : 2025-04-04
-lastmod : 2026-03-04
+lastmod : 2026-09-23
 tags: 
 - dualite
 
@@ -38,6 +38,14 @@ Plutôt que documenter prospectivement mes usages d'IA, j'ai demandé à l'IAG d
 Une démarche qui incarne la dualité même qu'elle cherche à documenter : utiliser l'outil pour analyser comment l'outil transforme ma pratique. Le résultat dépasse mes attentes. Expérience à réitérer annuellement pour cartographier l'évolution de cette délégation et transformation cognitive.
 
 [Expérience phénoménologique de l'intelligence artificielle générative]({{<relref "/experience phenomenologique.md" >}})
+
+---
+
+## Point d'entrée
+
+Novembre 2022, ChatGPT est né. Depuis, pas une journée ne passe sans que le sujet de l'IA ne soit évoqué dans l'espace public. Je n'ai pas échappé à ce tsunami. J'utilise régulièrement des dispositifs génératifs et j'ai décidé, depuis 2025, d'écrire pour penser, pour me préserver et parfois pour lutter. Je partage des textes sur la technologie et le numérique dans un format long. A partir de septembre 2026, je m'essaie à un second format. Plus court, dans une approche de pensée mise en valeur par Günther Anders : la « philosophie de l'occasion », qui consiste à saisir un événement comme point d'entrée vers une réflexion concrète. Un objectif, plusieurs chemins. Dualité, encore.
+
+{{< posts-by-tag tag="pointdentree" >}}
 
 --- 
 

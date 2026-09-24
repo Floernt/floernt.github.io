@@ -2,7 +2,7 @@
 title: Duality
 slug: duality
 date: 2025-04-04
-lastmod: 2026-03-04
+lastmod: 2026-09-23
 tags:
 - dualite
 ---
@@ -38,6 +38,14 @@ Rather than prospectively documenting my AI uses, I asked GenAI to retrospective
 An approach that embodies the very duality it seeks to document: using the tool to analyse how the tool transforms my practice. The result exceeds my expectations. An experience to repeat annually to map the evolution of this delegation and cognitive transformation.
 
 [Phenomenological experience of generative artificial intelligence]({{<relref "/experience phenomenologique.md" >}})
+
+---
+
+## Entry Point
+
+November 2022, ChatGPT was born. Since then, not a day goes by without the subject of AI being raised in the public sphere. I did not escape this tsunami. I regularly use generative devices and I decided, from 2025, to write in order to think, to protect myself and sometimes to fight. I share texts on technology and the digital in a long format. From September 2026, I am trying a second format. Shorter, following an approach to thinking highlighted by Günther Anders: the "philosophy of the occasion", which consists in seizing an event as an entry point towards a concrete reflection. One objective, several paths. Duality, again.
+
+{{< posts-by-tag tag="pointdentree" >}}
 
 ---
 
