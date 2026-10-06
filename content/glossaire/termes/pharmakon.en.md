@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 slug: pharmakon
 ---
 
@@ -37,6 +37,7 @@ This is also why the "therapeutic practices" I describe are responses to the pha
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

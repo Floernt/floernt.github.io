@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 ---
 
 # L'aporie de la transparence
@@ -35,6 +35,8 @@ Confondre les deux revient à poser une question mal formulée, et à y apporter
 
 - [Authenticité et sincérité. L'aporie de la transparence](https://reflexions.florianernotte.be/post/aporie-transparence/)
 - [Writing with LLM is not a shame.](https://reflexions.florianernotte.be/post/ai-transparency/)
+- [Point d'entrée#1 : lecture & oralité](https://reflexions.florianernotte.be/post/lecture-oralite-ecrit-ia/)
+- [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 slug: proletarianization
 ---
 
@@ -37,6 +37,7 @@ Proletarianization is never merely an individual decision. It results from an ev
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

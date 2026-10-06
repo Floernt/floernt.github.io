@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15
-lastmod: 2026-09-15
+lastmod: 2026-10-06
 slug: generative-device
 ---
 
@@ -38,6 +38,8 @@ Qualifying these machines as "generative" rather than "intelligent" displaces th
 
 - [On generative devices](https://reflexions.florianernotte.be/en/post/generative-devices/)
 - [From personalized service to personalized practice](https://reflexions.florianernotte.be/en/post/from-personalized-service-to-personalized-practice/)
+- [Entry Point#1: reading & orality](https://reflexions.florianernotte.be/en/post/reading-orality-writing-ai/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

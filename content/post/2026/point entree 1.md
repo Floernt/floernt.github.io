@@ -1,5 +1,8 @@
 ---
 title: "Point d'entrée#1 : lecture & oralité"
+slug: lecture-oralite-ecrit-ia
+aliases:
+- /post/point-entree-1/
 date: 2026-09-22
 description: Amid Faljaoui annonce un retour à l'oralité et en conclut que bien parler vaudra bientôt mieux que bien écrire. Pourquoi, avec Maryanne Wolf et Stanislas Dehaene, cette conclusion doit être rejetée.
 tags:
