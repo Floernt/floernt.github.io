@@ -1,6 +1,8 @@
 ---
 title: "Entry Point#1: reading & orality"
-slug: entry-point-1
+slug: reading-orality-writing-ai
+aliases:
+- /en/post/entry-point-1/
 date: 2026-09-22
 description: Amid Faljaoui announces a return to orality and concludes that speaking well will soon be valued over writing well. Why, with Maryanne Wolf and Stanislas Dehaene, that conclusion must be rejected.
 tags:
