@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 ---
 
 # La prolétarisation
@@ -36,6 +36,7 @@ La prolétarisation n'est jamais seulement une décision individuelle. Elle rés
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phénoménologie d'une pratique avec l'IAG (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
+- [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
 
 ---
 

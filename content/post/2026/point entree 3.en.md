@@ -21,7 +21,7 @@ I do not wish to discuss the facts reported in the article. There is, however, a
 
 ## The providers' intention
 
-Saying that death is the normal functioning of the system amounts to attributing a purpose to it. Yet intention lies first (and/or also) with whoever decides to deploy, and therefore to use. Providers of artificial intelligence systems are generally not the users of their own systems. I will not take up the image of the hammer, which serves to build as well as to kill, so worn out is it, but the reasoning is close. There is also the whole question of the non-neutrality of a technique, which I have already addressed and which should shed light on this reflection.
+Saying that death is the normal functioning of the system amounts to attributing a purpose to it. Yet intention lies first (and/or also) with whoever decides to deploy, and therefore to use. Providers of artificial intelligence systems are generally not the users of their own systems. I will not take up the image of the hammer, which serves to build as well as to kill, so worn out is it, but the reasoning is close. There is also the whole question of the non-neutrality of a technique, which I have [already addressed](/en/post/ethics-and-compliance-beyond-the-hype/#ii-technological-neutrality) and which should shed light on this reflection.
 
 Molnar's remarks are mainly aimed at companies. Her definition mentions States in passing, but it mostly describes a responsibility of private actors. However, by placing providers and users in a single system endowed with its own purpose, one puts on the same footing the one who designs a tool and the one who chooses to point it at people.
 

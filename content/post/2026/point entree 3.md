@@ -21,7 +21,7 @@ Je ne souhaite pas discuter des faits rapportés dans l'article. Il y a cependan
 
 ## L'intention des fournisseurs
 
-Dire que la mort est le fonctionnement normal du système revient à lui prêter une finalité. Or, l'intention se loge d'abord (et/ou aussi) chez celui qui décide de déployer et donc d'utiliser. Les fournisseurs de systèmes d'intelligence artificielle ne sont généralement pas les utilisateurs de leurs propres systèmes. Je ne reprendrai pas l'image du marteau, qui sert à bâtir comme à tuer, tant elle a été usée, mais le raisonnement s'en approche. Il y a aussi toute la question de l'absence de neutralité d'une technique que j'ai déjà abordée et qui doit servir d'éclairage à cette réflexion.
+Dire que la mort est le fonctionnement normal du système revient à lui prêter une finalité. Or, l'intention se loge d'abord (et/ou aussi) chez celui qui décide de déployer et donc d'utiliser. Les fournisseurs de systèmes d'intelligence artificielle ne sont généralement pas les utilisateurs de leurs propres systèmes. Je ne reprendrai pas l'image du marteau, qui sert à bâtir comme à tuer, tant elle a été usée, mais le raisonnement s'en approche. Il y a aussi toute la question de l'absence de neutralité d'une technique que j'ai [déjà abordée](/post/ethique-conformité/#ii-la-neutralité-technologique) et qui doit servir d'éclairage à cette réflexion.
 
 Par son propos, Molnar vise essentiellement les entreprises. Sa définition nomme incidemment les États mais elle décrit surtout une responsabilité des acteurs privés. Toutefois, en plaçant fournisseurs et utilisateurs dans un même système doté d'une finalité propre, on place sur le même plan celui qui conçoit un outil et celui qui choisit de le pointer vers des personnes.
 

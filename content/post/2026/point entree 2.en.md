@@ -70,4 +70,14 @@ Notebook entries:
 - [Dancing with the Machine, or Staying on the Drip](/en/post/dancing-with-the-machine/)
 - [From Semantic Ablation to Attentional Ablation](/en/post/attentional-ablation/)
 
+Glossary terms:
+
+- [Generative device](/en/glossaire/termes/generative-device/)
+- [Individuation](/en/glossaire/termes/individuation/)
+- [Epiphylogenesis](/en/glossaire/termes/epiphylogenesis/)
+- [Proletarianization](/en/glossaire/termes/proletarianization/)
+- [Pharmakon](/en/glossaire/termes/pharmakon/)
+- [Aporia of transparency](/en/glossaire/termes/aporia-of-transparency/)
+- [Attentional ablation](/en/glossaire/termes/attentional-ablation/)
+
 {{< newsletter >}}

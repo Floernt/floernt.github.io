@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 slug: attentional-ablation
 ---
 
@@ -47,6 +47,7 @@ Semantic ablation and attentional ablation form a causal sequence: the statistic
 ## Articles where this term is developed
 
 - [From semantic ablation to attentional ablation](https://reflexions.florianernotte.be/en/post/attentional-ablation/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 slug: individuation
 ---
 
@@ -33,6 +33,7 @@ This is why the practices I describe (grammatizing, observing, remaining the aut
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

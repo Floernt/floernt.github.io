@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 ---
 
 # L'ablation attentionnelle
@@ -46,6 +46,7 @@ L'ablation sémantique et l'ablation attentionnelle forment une séquence causal
 ## Articles où ce terme est développé
 
 - [De l'ablation sémantique à l'ablation attentionnelle](https://reflexions.florianernotte.be/post/ablation-attentionnelle/)
+- [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
 
 ---
 

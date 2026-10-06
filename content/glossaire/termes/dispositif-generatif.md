@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15
-lastmod: 2026-09-15
+lastmod: 2026-10-06
 ---
 
 # Le dispositif génératif
@@ -37,6 +37,8 @@ Qualifier ces machines de « génératives » plutôt que d'« intelligentes » 
 
 - [Des dispositifs génératifs](https://reflexions.florianernotte.be/post/dispositifs-generatifs/)
 - [De la prestation personnalisée à la pratique personnalisée](https://reflexions.florianernotte.be/post/prestationpersonalisee/)
+- [Point d'entrée#1 : lecture & oralité](https://reflexions.florianernotte.be/post/lecture-oralite-ecrit-ia/)
+- [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
 
 ---
 

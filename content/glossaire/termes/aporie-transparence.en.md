@@ -1,6 +1,6 @@
 ---
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-10-06
 slug: aporia-of-transparency
 ---
 
@@ -36,6 +36,8 @@ Confusing the two amounts to asking a poorly formulated question and providing i
 
 - [Authenticity and sincerity. The aporia of transparency](https://reflexions.florianernotte.be/post/aporie-transparence/)
 - [Writing with LLM is not a shame.](https://reflexions.florianernotte.be/post/ai-transparency/)
+- [Entry Point#1: reading & orality](https://reflexions.florianernotte.be/en/post/reading-orality-writing-ai/)
+- [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 
 ---
 

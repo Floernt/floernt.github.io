@@ -70,4 +70,14 @@ Notes du carnet :
 - [Danser avec la machine ou rester sous perfusion](/post/danser-machine/)
 - [De l'ablation sémantique à l'ablation attentionnelle](/post/ablation-attentionnelle/)
 
+Termes du glossaire :
+
+- [Dispositif génératif](/glossaire/termes/dispositif-generatif/)
+- [Individuation](/glossaire/termes/individuation/)
+- [Épiphylogénèse](/glossaire/termes/epiphylogenese/)
+- [Prolétarisation](/glossaire/termes/proletarisation/)
+- [Pharmakon](/glossaire/termes/pharmakon/)
+- [Aporie de la transparence](/glossaire/termes/aporie-transparence/)
+- [Ablation attentionnelle](/glossaire/termes/ablation-attentionnelle/)
+
 {{< newsletter >}}
