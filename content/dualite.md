@@ -1,7 +1,7 @@
 ---
 title : Dualité
 date : 2025-04-04
-lastmod : 2026-09-23
+lastmod : 2026-10-09
 tags: 
 - dualite
 
@@ -11,7 +11,13 @@ Dualité, c'est le nom de mon carnet de notes numériques reprenant des réflexi
 
 Au fil de mon écriture, je tente de challenger mon point de vue. J'essaie d'écrire sur le numérique avec un regard critique mais non dogmatique. Ce que j'observe révèle souvent des tensions, des ambivalences et même des contradictions. Par exemple, j'utilise l'IA générative quotidiennement tout en la critiquant aussi. Je réfléchis à l'autonomie technologique (aka la souveraineté technologique) mais je reste captif de certains logiciels ou dispositifs matériels. 
 
-Dualité, c'est l'opposition plutôt que l'équilibre. La dualité c'est ce qui est composé de deux éléments de nature différente. A ce stade, je ne parviens pas à considérer qu'un équilibre soit possible à trouver dans l'utilisation de la technologie. Si l'on trouve un équilibre, il ne peut être qu'éphémère et temporaire car les sujets évoluent tellement vite que cet équilibre n'est que précaire.
+Dualité, c'est un exercice permanent de composition plutôt que la recherche d'équilibre. La dualité c'est ce qui est composé de deux éléments de nature différente. A ce stade, je ne parviens pas à considérer qu'un équilibre soit possible à trouver dans l'utilisation de la technologie. Si l'on trouve un équilibre, il ne peut être qu'éphémère et temporaire car les sujets évoluent tellement vite que cet équilibre n'est que précaire.
+
+Dualité, c'est aussi une méthode, une approche du sujet technique. Cette méthode est inspirée de la [pharmacologie](/glossaire/termes/pharmacologie/), selon la conception d'[Ars Industrialis](http://www.arsindustrialis.org), Association internationale pour une politique industrielle des technologies de l’esprit. 
+
+Selon Christian Fauré : 
+
+>La pharmacologie fait référence au pharmakon grec qui signifie tout autant poison que remède ; « c’est selon », comme on dit. Or, c’est ce « selon » qu’il s’agit à chaque fois d’expliciter dans les démarches pharmacologiques en acceptant d’accorder un statut particulier à cette ambivalence essentielle du pharmakon ; un statut qui va nous inciter à penser par compositions plutôt que par oppositions ; un statut qui nous autorise également à renvoyer dos à dos technophiles et technophobes qui partagent tout deux une vision duale et binaire des choses qui les oblige à penser par opposition. (Réseaux sociaux : Culture politique et ingénierie des réseaux sociaux, p.108)
 
 Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme de techno-critique. C'est accepter que l'harmonie ne peut être trouvée et assumer la subjectivité de mon regard sur le sujet.
 

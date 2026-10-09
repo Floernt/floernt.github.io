@@ -61,23 +61,4 @@ Ne sommes-nous pas en train de confondre les choses ? Ne devrions-nous pas, auss
 
 Vu le sujet, il me paraît normal de préciser que les idées, les références et le plan de ce texte viennent de mes notes personnelles. J'ai demandé à Claude (Anthropic) de les mettre en forme. J'ai relu et amendé le résultat avant publication.
 
-## Références
-
-Notes du carnet :
-
-- [Des dispositifs génératifs](/post/dispositifs-generatifs/)
-- [Authenticité et sincérité. L'aporie de la transparence](/post/aporie-transparence/)
-- [Danser avec la machine ou rester sous perfusion](/post/danser-machine/)
-- [De l'ablation sémantique à l'ablation attentionnelle](/post/ablation-attentionnelle/)
-
-Termes du glossaire :
-
-- [Dispositif génératif](/glossaire/termes/dispositif-generatif/)
-- [Individuation](/glossaire/termes/individuation/)
-- [Épiphylogénèse](/glossaire/termes/epiphylogenese/)
-- [Prolétarisation](/glossaire/termes/proletarisation/)
-- [Pharmakon](/glossaire/termes/pharmakon/)
-- [Aporie de la transparence](/glossaire/termes/aporie-transparence/)
-- [Ablation attentionnelle](/glossaire/termes/ablation-attentionnelle/)
-
 {{< newsletter >}}
