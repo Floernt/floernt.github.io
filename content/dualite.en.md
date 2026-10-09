@@ -2,7 +2,7 @@
 title: Duality
 slug: duality
 date: 2025-04-04
-lastmod: 2026-09-23
+lastmod: 2026-10-09
 tags:
 - dualite
 ---
@@ -11,7 +11,15 @@ Duality is the name of my digital notebook collecting reflections on topics rela
 
 Throughout my writing, I try to challenge my own perspective. I try to write about digital technology with a critical but non-dogmatic eye. What I observe often reveals tensions, ambivalences and even contradictions. For example, I use generative AI daily while also criticising it. I reflect on technological autonomy (aka technological sovereignty) but remain captive to certain software or hardware devices.
 
-Duality is about opposition rather than balance. Duality is what is composed of two elements of a different nature. At this stage, I cannot consider that a balance can be found in the use of technology. If one finds a balance, it can only be ephemeral and temporary because subjects evolve so quickly that this balance is precarious.
+Duality is a permanent exercise in composition rather than a search for balance. Duality is what is composed of two elements of a different nature. At this stage, I cannot consider that a balance can be found in the use of technology. If one finds a balance, it can only be ephemeral and temporary because subjects evolve so quickly that this balance is precarious.
+
+Duality is also a method, an approach to technology. This method is inspired by [pharmacology](/en/glossaire/termes/pharmacology/), as conceived by [Ars Industrialis](http://www.arsindustrialis.org), the international association for an industrial politics of the technologies of the spirit.
+
+According to Christian Fauré:
+
+>La pharmacologie fait référence au pharmakon grec qui signifie tout autant poison que remède ; « c’est selon », comme on dit. Or, c’est ce « selon » qu’il s’agit à chaque fois d’expliciter dans les démarches pharmacologiques en acceptant d’accorder un statut particulier à cette ambivalence essentielle du pharmakon ; un statut qui va nous inciter à penser par compositions plutôt que par oppositions ; un statut qui nous autorise également à renvoyer dos à dos technophiles et technophobes qui partagent tout deux une vision duale et binaire des choses qui les oblige à penser par opposition. (Réseaux sociaux : Culture politique et ingénierie des réseaux sociaux, p.108)
+
+My translation: "Pharmacology refers to the Greek pharmakon, which means poison as much as remedy; 'it depends', as the saying goes. Yet it is precisely this 'depends' that pharmacological approaches must make explicit each time, by agreeing to grant a particular status to this essential ambivalence of the pharmakon; a status that will lead us to think in terms of compositions rather than oppositions; a status that also allows us to dismiss both technophiles and technophobes, who share a dual and binary view of things that forces them to think in terms of opposition."
 
 Duality is finally a struggle and a fight between my technophilia and a form of techno-criticism. It is accepting that harmony cannot be found and assuming the subjectivity of my view on the subject.
 

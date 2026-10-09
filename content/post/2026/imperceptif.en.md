@@ -10,6 +10,7 @@ tags:
 - numerique
 - ia
 - dualite
+- essai
 
 ---
 # 1. An Appearance of Freedom

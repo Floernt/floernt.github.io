@@ -7,6 +7,7 @@ tags:
 - numerique
 - ia
 - dualite
+- essai
 
 ---
 # 1. Une apparence de liberté 
