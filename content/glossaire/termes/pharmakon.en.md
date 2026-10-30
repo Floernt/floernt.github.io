@@ -37,6 +37,7 @@ This is also why the "therapeutic practices" I describe are responses to the pha
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
+- [Entry Point#4: expression, thought and singularity](https://reflexions.florianernotte.be/en/post/expression-thought-singularity-ai/)
 
 ---
 

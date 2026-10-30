@@ -39,6 +39,7 @@ Qualifying these machines as "generative" rather than "intelligent" displaces th
 - [From personalized service to personalized practice](https://reflexions.florianernotte.be/en/post/from-personalized-service-to-personalized-practice/)
 - [Entry Point#1: reading & orality](https://reflexions.florianernotte.be/en/post/reading-orality-writing-ai/)
 - [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
+- [Entry Point#4: expression, thought and singularity](https://reflexions.florianernotte.be/en/post/expression-thought-singularity-ai/)
 
 ---
 
