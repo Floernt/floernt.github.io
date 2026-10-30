@@ -1,9 +1,8 @@
 ---
+title: "La pharmacologie"
 date: 2026-03-03
 lastmod: 2026-10-09
 ---
-
-# La pharmacologie
 
 ← [Retour au glossaire](/glossaire/)
 

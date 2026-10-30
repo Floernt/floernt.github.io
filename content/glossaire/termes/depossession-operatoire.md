@@ -1,9 +1,8 @@
 ---
+title: "La dépossession opératoire"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La dépossession opératoire
 
 ← [Retour au glossaire](/glossaire/)
 

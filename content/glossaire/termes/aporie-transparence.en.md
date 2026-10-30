@@ -1,10 +1,9 @@
 ---
+title: "The Aporia of Transparency"
 date: 2026-03-03
 lastmod: 2026-10-06
 slug: aporia-of-transparency
 ---
-
-# The Aporia of Transparency
 
 ← [Back to glossary](/en/glossary/)
 

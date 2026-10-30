@@ -1,9 +1,8 @@
 ---
+title: "L'épiphylogénèse"
 date: 2026-03-03
 lastmod: 2026-10-06
 ---
-
-# L'épiphylogénèse
 
 ← [Retour au glossaire](/glossaire/)
 

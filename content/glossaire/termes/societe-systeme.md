@@ -1,9 +1,8 @@
 ---
+title: "La société-système"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La société-système
 
 ← [Retour au glossaire](/glossaire/)
 

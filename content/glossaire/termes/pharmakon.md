@@ -1,9 +1,8 @@
 ---
+title: "Le pharmakon"
 date: 2026-03-03
 lastmod: 2026-10-06
 ---
-
-# Le pharmakon
 
 ← [Retour au glossaire](/glossaire/)
 

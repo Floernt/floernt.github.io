@@ -1,10 +1,9 @@
 ---
+title: "Generative Device"
 date: 2026-09-15
 lastmod: 2026-10-06
 slug: generative-device
 ---
-
-# Generative Device
 
 ← [Back to glossary](/en/glossary/)
 

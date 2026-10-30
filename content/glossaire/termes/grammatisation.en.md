@@ -1,10 +1,9 @@
 ---
+title: "Grammatization"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: grammatization
 ---
-
-# Grammatization
 
 ← [Back to glossary](/en/glossary/)
 

@@ -1,10 +1,9 @@
 ---
+title: "Individuation"
 date: 2026-03-03
 lastmod: 2026-10-06
 slug: individuation
 ---
-
-# Individuation
 
 ← [Back to glossary](/en/glossary/)
 

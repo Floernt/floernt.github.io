@@ -1,9 +1,8 @@
 ---
+title: "L'ablation sémantique"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# L'ablation sémantique
 
 ← [Retour au glossaire](/glossaire/)
 

@@ -1,10 +1,9 @@
 ---
+title: "Voluntary Proletarianization"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: voluntary-proletarianization
 ---
-
-# Voluntary Proletarianization
 
 ← [Back to glossary](/en/glossary/)
 

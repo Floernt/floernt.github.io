@@ -1,9 +1,8 @@
 ---
+title: "Le biais d'automatisation"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# Le biais d'automatisation
 
 ← [Retour au glossaire](/glossaire/)
 

@@ -1,9 +1,8 @@
 ---
+title: "L'opacité algorithmique"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# L'opacité algorithmique
 
 ← [Retour au glossaire](/glossaire/)
 

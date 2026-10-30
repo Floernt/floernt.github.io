@@ -1,10 +1,9 @@
 ---
+title: "Pharmacology"
 date: 2026-03-03
 lastmod: 2026-10-09
 slug: pharmacology
 ---
-
-# Pharmacology
 
 ← [Back to glossary](/en/glossary/)
 

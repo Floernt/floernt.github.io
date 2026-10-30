@@ -1,0 +1,77 @@
+{{/* Graphe des termes du glossaire (vue « à la Obsidian »).
+     Nœuds = fiches de content/glossaire/termes/ dans la langue courante.
+     Arêtes = liens /glossaire/termes/<terme>/ présents dans le corps des fiches (non orientés).
+     Les étiquettes reprennent le title sans article initial. */}}
+{{- $nodes := slice -}}
+{{- $terms := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if strings.Contains .RelPermalink "/glossaire/termes/" -}}
+    {{- $terms = $terms | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $ids := slice -}}
+{{/* Identifiant = dernier segment de l'URL (les fiches EN ont leurs propres slugs) */}}
+{{- range $terms }}{{ $ids = $ids | append (path.Base .RelPermalink) }}{{ end -}}
+{{- range $terms -}}
+  {{- $id := path.Base .RelPermalink -}}
+  {{- $links := slice -}}
+  {{- range findRE `/glossaire/termes/[a-z0-9-]+` .RawContent -}}
+    {{- $target := replaceRE `^.*/` "" . -}}
+    {{- if and (ne $target $id) (in $ids $target) -}}
+      {{- $links = $links | append $target -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $label := .Title | replaceRE `^(L['’]|Le |La |Les |The )` "" | strings.FirstUpper -}}
+  {{- $nodes = $nodes | append (dict "id" $id "label" $label "url" .RelPermalink "links" ($links | uniq)) -}}
+{{- end -}}
+<style>
+.gg { position: relative; height: clamp(300px, 55vh, 460px); margin: 1.5em 0 .4em; overflow: hidden;
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent); background: color-mix(in srgb, currentColor 3%, transparent); }
+/* le thème plafonne tout svg à 1rem (icônes) */
+.gg svg { display: block; width: 100%; height: 100%; max-width: none; max-height: none; max-inline-size: none; max-block-size: none; cursor: grab; touch-action: none; }
+.gg svg:active { cursor: grabbing; }
+.gg-bar { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; gap: 8px; align-items: center; pointer-events: none; }
+.gg-bar > * { pointer-events: auto; }
+.gg-bar input, .gg-bar button { font: inherit; font-size: 12px; color: inherit; background: var(--gg-bg, transparent);
+  border: 1px solid color-mix(in srgb, currentColor 20%, transparent); padding: 4px 8px; }
+.gg-bar input { width: 170px; max-width: 45%; }
+.gg-bar button { width: 28px; padding: 4px 0; cursor: pointer; }
+.gg-zoom { margin-left: auto; display: flex; }
+.gg-zoom button + button { border-left: 0; }
+.gg-bar input:focus-visible, .gg-bar button:focus-visible { outline: 2px solid var(--gg-accent, currentColor); outline-offset: 1px; }
+.gg-panel { position: absolute; right: 10px; bottom: 10px; width: 250px; max-width: calc(100% - 20px); max-height: 75%; overflow-y: auto;
+  background: var(--gg-bg, transparent); border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+  border-left: 3px solid var(--gg-accent, currentColor); padding: 10px 12px; font-size: 12px; line-height: 1.4; }
+.gg-panel strong { display: block; font-size: 13px; margin-right: 16px; }
+.gg-panel .gg-k { opacity: .6; margin: 8px 0 3px; text-transform: uppercase; letter-spacing: .06em; font-size: 10px; }
+.gg-panel ul { margin: 0; padding-left: 16px; }
+.gg-panel .gg-open { display: inline-block; margin-top: 8px; }
+.gg-panel .gg-close { position: absolute; top: 4px; right: 6px; background: none; border: 0; color: inherit; opacity: .6; cursor: pointer; font-size: 14px; }
+.gg .node circle { fill: color-mix(in srgb, currentColor 50%, var(--gg-bg, #fff)); stroke: var(--gg-bg, transparent); stroke-width: 1.5; transition: opacity .15s; }
+.gg .node text { font-family: 'Fira Sans', -apple-system, 'Segoe UI', sans-serif; font-size: 12px; fill: currentColor; pointer-events: none; paint-order: stroke; stroke: var(--gg-bg, transparent); stroke-width: 3px; transition: opacity .15s; }
+.gg .link { stroke: color-mix(in srgb, currentColor 16%, transparent); transition: opacity .15s; }
+.gg .dim { opacity: .12; }
+.gg .hi circle { fill: var(--gg-accent, currentColor); }
+.gg .link.hi { stroke: var(--gg-accent, currentColor); stroke-opacity: .6; }
+.gg-hint { font-size: 12px; opacity: .6; margin: 0 0 1.5em; }
+@media (max-width: 560px) { .gg-panel { width: auto; left: 10px; max-height: 60%; } }
+@media (prefers-reduced-motion: reduce) { .gg .node circle, .gg .node text, .gg .link { transition: none; } }
+</style>
+<div class="gg" id="glossaire-graph"
+  data-related="{{ i18n "graphRelated" }}" data-open="{{ i18n "graphOpen" }}" data-close="{{ i18n "graphClose" }}">
+  <svg role="img" aria-label="{{ i18n "graphLabel" }}"></svg>
+  <div class="gg-bar">
+    <input type="search" id="gg-q" placeholder="{{ i18n "graphSearch" }}" aria-label="{{ i18n "graphSearch" }}">
+    <div class="gg-zoom">
+      <button type="button" id="gg-in" aria-label="{{ i18n "graphZoomIn" }}">+</button>
+      <button type="button" id="gg-out" aria-label="{{ i18n "graphZoomOut" }}">−</button>
+      <button type="button" id="gg-fit" aria-label="{{ i18n "graphFit" }}" title="{{ i18n "graphFit" }}">⤢</button>
+    </div>
+  </div>
+  <div class="gg-panel" hidden></div>
+  <a class="gg-accent" href="#" hidden tabindex="-1" aria-hidden="true"></a>
+</div>
+<p class="gg-hint">{{ i18n "graphHint" }}</p>
+<script type="application/json" id="glossaire-graph-data">{{ $nodes | jsonify | safeJS }}</script>
+<script src="{{ "js/d3.v7.8.5.min.js" | relURL }}" defer></script>
+<script src="{{ "js/glossaire-graph.js" | relURL }}" defer></script>

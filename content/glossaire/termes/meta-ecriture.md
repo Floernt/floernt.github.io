@@ -1,9 +1,8 @@
 ---
+title: "La méta-écriture"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La méta-écriture
 
 ← [Retour au glossaire](/glossaire/)
 

@@ -1,9 +1,8 @@
 ---
+title: "Le dispositif génératif"
 date: 2026-09-15
 lastmod: 2026-10-06
 ---
-
-# Le dispositif génératif
 
 ← [Retour au glossaire](/glossaire/)
 

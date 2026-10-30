@@ -1,10 +1,9 @@
 ---
+title: "Epiphylogenesis"
 date: 2026-03-03
 lastmod: 2026-10-06
 slug: epiphylogenesis
 ---
-
-# Epiphylogenesis
 
 ← [Back to glossary](/en/glossary/)
 

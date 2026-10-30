@@ -1,10 +1,9 @@
 ---
+title: "Automation Bias"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: automation-bias
 ---
-
-# Automation Bias
 
 ← [Back to glossary](/en/glossary/)
 

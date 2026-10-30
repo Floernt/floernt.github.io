@@ -1,10 +1,9 @@
 ---
+title: "The System-Society"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: society-system
 ---
-
-# The System-Society
 
 ← [Back to glossary](/en/glossary/)
 

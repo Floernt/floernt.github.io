@@ -1,10 +1,9 @@
 ---
+title: "Operative Dispossession"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: operative-dispossession
 ---
-
-# Operative Dispossession
 
 ← [Back to glossary](/en/glossary/)
 

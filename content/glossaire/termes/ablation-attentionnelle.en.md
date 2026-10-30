@@ -1,10 +1,9 @@
 ---
+title: "Attentional Ablation"
 date: 2026-03-03
 lastmod: 2026-10-06
 slug: attentional-ablation
 ---
-
-# Attentional Ablation
 
 ← [Back to glossary](/en/glossary/)
 
