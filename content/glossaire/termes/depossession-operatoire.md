@@ -1,9 +1,8 @@
 ---
+title: "La dépossession opératoire"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La dépossession opératoire
 
 ← [Retour au glossaire](/glossaire/)
 
@@ -40,6 +39,7 @@ La dépossession opératoire peut aussi s'articuler avec le [biais d'automatisat
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
+- [Point d'entrée#4 : expression, pensée et singularité](https://reflexions.florianernotte.be/post/expression-pensee-singularite-ia/)
 
 ---
 

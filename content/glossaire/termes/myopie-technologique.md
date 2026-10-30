@@ -1,9 +1,8 @@
 ---
+title: "La myopie technologique"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La myopie technologique
 
 ← [Retour au glossaire](/glossaire/)
 

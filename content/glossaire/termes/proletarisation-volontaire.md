@@ -1,9 +1,8 @@
 ---
+title: "La prolétarisation volontaire"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La prolétarisation volontaire
 
 ← [Retour au glossaire](/glossaire/)
 

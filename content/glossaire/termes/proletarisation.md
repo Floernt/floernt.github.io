@@ -1,9 +1,8 @@
 ---
+title: "La prolétarisation"
 date: 2026-03-03
 lastmod: 2026-10-06
 ---
-
-# La prolétarisation
 
 ← [Retour au glossaire](/glossaire/)
 

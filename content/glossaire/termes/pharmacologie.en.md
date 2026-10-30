@@ -1,10 +1,9 @@
 ---
+title: "Pharmacology"
 date: 2026-03-03
 lastmod: 2026-10-09
 slug: pharmacology
 ---
-
-# Pharmacology
 
 ← [Back to glossary](/en/glossary/)
 
@@ -39,6 +38,7 @@ The "therapeutic practices" I describe are pharmacological gestures. They are no
 - [Grammatize and observe.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Ethics and compliance. Beyond the hype.](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/)
+- [Entry Point#4: expression, thought and singularity](https://reflexions.florianernotte.be/en/post/expression-thought-singularity-ai/)
 
 ---
 

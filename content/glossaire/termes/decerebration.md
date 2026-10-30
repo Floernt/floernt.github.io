@@ -1,9 +1,8 @@
 ---
+title: "La décérébration"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La décérébration
 
 ← [Retour au glossaire](/glossaire/)
 

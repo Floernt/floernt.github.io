@@ -21,3 +21,30 @@ other = "Notes"
 
 [furtherReading]
 other = "Pour aller plus loin"
+
+[graphLabel]
+other = "Graphe des relations entre les termes du glossaire"
+
+[graphSearch]
+other = "Chercher un terme…"
+
+[graphZoomIn]
+other = "Zoomer"
+
+[graphZoomOut]
+other = "Dézoomer"
+
+[graphFit]
+other = "Recadrer"
+
+[graphRelated]
+other = "Termes liés"
+
+[graphOpen]
+other = "Ouvrir la fiche"
+
+[graphClose]
+other = "Fermer"
+
+[graphHint]
+other = "Survolez un terme pour voir ses voisins, cliquez pour le détail. Glisser pour déplacer ; zoom avec + / −, Ctrl + molette ou pincement."

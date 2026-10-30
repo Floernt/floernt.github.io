@@ -1,9 +1,8 @@
 ---
+title: "Le solutionnisme technologique"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# Le solutionnisme technologique
 
 ← [Retour au glossaire](/glossaire/)
 

@@ -1,10 +1,9 @@
 ---
+title: "Decerebration"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: decerebration
 ---
-
-# Decerebration
 
 ← [Back to glossary](/en/glossary/)
 

@@ -1,9 +1,8 @@
 ---
+title: "Le milieu associé / milieu technique"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# Le milieu associé / milieu technique
 
 ← [Retour au glossaire](/glossaire/)
 

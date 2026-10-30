@@ -1,10 +1,9 @@
 ---
+title: "The Associated Milieu / Technical Milieu"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: associated-milieu
 ---
-
-# The Associated Milieu / Technical Milieu
 
 ← [Back to glossary](/en/glossary/)
 

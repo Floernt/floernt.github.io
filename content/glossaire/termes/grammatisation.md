@@ -1,9 +1,8 @@
 ---
+title: "La grammatisation"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# La grammatisation
 
 ← [Retour au glossaire](/glossaire/)
 

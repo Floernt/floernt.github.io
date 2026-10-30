@@ -1,10 +1,9 @@
 ---
+title: "Technological Solutionism"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: solutionism
 ---
-
-# Technological Solutionism
 
 ← [Back to glossary](/en/glossary/)
 

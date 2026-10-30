@@ -1,10 +1,9 @@
 ---
+title: "Algorithmic Opacity"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: algorithmic-opacity
 ---
-
-# Algorithmic Opacity
 
 ← [Back to glossary](/en/glossary/)
 

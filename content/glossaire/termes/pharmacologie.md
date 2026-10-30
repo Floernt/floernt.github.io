@@ -1,9 +1,8 @@
 ---
+title: "La pharmacologie"
 date: 2026-03-03
 lastmod: 2026-10-09
 ---
-
-# La pharmacologie
 
 ← [Retour au glossaire](/glossaire/)
 
@@ -36,6 +35,7 @@ Les "pratiques thérapeutiques" que je décris sont des gestes pharmacologiques.
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Éthique et conformité. Au delà de la hype.](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/)
+- [Point d'entrée#4 : expression, pensée et singularité](https://reflexions.florianernotte.be/post/expression-pensee-singularite-ia/)
 
 ---
 

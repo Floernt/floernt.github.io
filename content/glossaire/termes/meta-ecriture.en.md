@@ -1,10 +1,9 @@
 ---
+title: "Meta-writing"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: meta-writing
 ---
-
-# Meta-writing
 
 ← [Back to glossary](/en/glossary/)
 

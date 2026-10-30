@@ -1,10 +1,9 @@
 ---
+title: "The Imperceptive"
 date: 2026-03-03
 lastmod: 2026-05-13
 slug: the-imperceptive
 ---
-
-# The Imperceptive
 
 ← [Back to glossary](/en/glossary/)
 

@@ -1,12 +1,11 @@
 ---
-title: Glossary
+title: Duality Glossary
 slug: glossary
 ---
 
-# Duality Glossary
-
 A compendium of concepts, neologisms and structuring notions used throughout the [duality](/en/duality/) publications. This glossary gathers definitions: neologisms, theoretical notions and structuring terms used in these reflections.
 
+{{< glossaire-graph >}}
 
 ---
 

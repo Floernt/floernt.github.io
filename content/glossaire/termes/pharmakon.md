@@ -1,9 +1,8 @@
 ---
+title: "Le pharmakon"
 date: 2026-03-03
 lastmod: 2026-10-06
 ---
-
-# Le pharmakon
 
 ← [Retour au glossaire](/glossaire/)
 
@@ -37,6 +36,7 @@ C'est aussi pourquoi les "pratiques thérapeutiques" que je décris sont des ré
 - [Grammatiser et observer.](https://reflexions.florianernotte.be/post/grammatiser-observer/)
 - [Phénoménologie d'une pratique avec l'IAG (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
+- [Point d'entrée#4 : expression, pensée et singularité](https://reflexions.florianernotte.be/post/expression-pensee-singularite-ia/)
 
 ---
 

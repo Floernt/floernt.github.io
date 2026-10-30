@@ -2,10 +2,9 @@
 title: Glossaire de dualité
 ---
 
-# Glossaire de dualité
-
 Carnet des concepts, néologismes et notions structurantes mobilisés au fil des publications [dualité]({{<relref "dualite.md">}}). Ce glossaire rassemble les définitions : néologismes, notions théoriques et termes structurants mobilisés dans ces réflexions.
 
+{{< glossaire-graph >}}
 
 ---
 

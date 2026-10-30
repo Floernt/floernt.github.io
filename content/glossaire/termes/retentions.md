@@ -1,9 +1,8 @@
 ---
+title: "Les rétentions (primaires, secondaires, tertiaires)"
 date: 2026-03-03
 lastmod: 2026-03-03
 ---
-
-# Les rétentions (primaires, secondaires, tertiaires)
 
 ← [Retour au glossaire](/glossaire/)
 

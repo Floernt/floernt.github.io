@@ -1,10 +1,9 @@
 ---
+title: "Technological Myopia"
 date: 2026-03-03
 lastmod: 2026-03-03
 slug: technological-myopia
 ---
-
-# Technological Myopia
 
 ← [Back to glossary](/en/glossary/)
 

@@ -1,9 +1,8 @@
 ---
+title: "L'imperceptif"
 date: 2026-03-03
 lastmod: 2026-05-13
 ---
-
-# L'imperceptif
 
 ← [Retour au glossaire](/glossaire/)
 
