@@ -7,6 +7,7 @@ tags:
 - dualite
 - ia
 - numerique
+- essai
 
 ---
 For some months now, I have been using the notion of technical devices, or more generally the notion of **device**, as a substitute for the excessive and overused term _generative artificial intelligence_ when speaking of conversational agents. In [my last text](https://substack.com/home/post/p-203704022), I became aware of this usage and chose to adopt the term "**generative device**" to speak of conversational agents and other devices embedding generative artificial intelligence. I would like to explain here my approach and the reasons behind it. This exercise also allowed me to question the value of this qualification and confirmed me in the idea that it designates more accurately what we are talking about when we evoke these machines using so-called generative artificial intelligence techniques.
