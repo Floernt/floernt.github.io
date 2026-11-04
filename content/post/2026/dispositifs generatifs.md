@@ -6,6 +6,7 @@ tags:
 - dualite
 - ia
 - numerique
+- essai
 
 ---
 Depuis quelques mois, j’emploie la notion de dispositifs techniques ou plus généralement la notion de **dispositif** comme substitut à l’utilisation abusive et galvaudée du terme d_’intelligence artificielle générative_ pour parler des agents conversationnels. Dans [mon dernier texte](https://substack.com/home/post/p-203704022), j’ai pris conscience de cette utilisation et j’ai choisi d’utiliser le terme de « **dispositif génératif** » pour parler des agents conversationnels et autres dispositifs embarquant de l’intelligence artificielle générative. Je voudrais expliquer ici ma démarche et les raisons de celle-ci. Cet exercice m’a aussi permis de questionner l’intérêt de cette qualification et m’a conforté dans l’idée que cette qualification permet de désigner plus justement ce dont nous parlons lorsque nous évoquons ces machines utilisant des techniques dites d’intelligence artificielle générative.
