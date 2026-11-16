@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#7 - vers une société tokenisée?
+slug: societe-tokenisee
+aliases:
+  - /post/cr7/
 description: Vers une société tokenisée?
 date : 2024-03-01
 tags: cryptoreflexion

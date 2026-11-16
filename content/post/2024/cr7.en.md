@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#7 - toward a tokenized society?
-slug: crypto-report-7
+slug: tokenized-society
+aliases:
+  - /en/post/crypto-report-7/
+  - /en/post/cr7/
 description: Toward a tokenized society?
 date : 2024-03-01
 tags: cryptoreflexion

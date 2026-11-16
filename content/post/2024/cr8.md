@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#8 - mica & paiements
+slug: mica-paiements
+aliases:
+  - /post/cr8/
 date : 2024-05-23 
 description : Entrée en vigueur de MICA
 tags: cryptoreflexion

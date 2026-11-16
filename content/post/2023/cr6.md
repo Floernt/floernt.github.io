@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#6 - influenceurs & crypto-actifs
+slug: influenceurs-crypto-actifs
+aliases:
+  - /post/cr6/
 description: La réglementation des influenceurs devient plus précise en Europe. La réglementation s'étoffe notamment en Belgique, France et Royaume-Uni.
 date : 2023-09-07
 tags: cryptoreflexion

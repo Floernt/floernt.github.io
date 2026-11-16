@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#6 - influencers & crypto-assets
-slug: crypto-report-6
+slug: crypto-influencers
+aliases:
+  - /en/post/crypto-report-6/
+  - /en/post/cr6/
 description: The regulation of influencers is becoming more precise in Europe. Regulations are expanding notably in Belgium, France, and the United Kingdom.
 date : 2023-09-07
 tags: cryptoreflexion

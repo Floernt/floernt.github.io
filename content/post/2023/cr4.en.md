@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#4 - the role of the regulator
-slug: crypto-report-4
+slug: crypto-regulator-role
+aliases:
+  - /en/post/crypto-report-4/
+  - /en/post/cr4/
 description: Reflections on the role of the regulator in the 21st century.
 date : 2023-06-03
 tags: cryptoreflexion

@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#8 - MiCA & payments
-slug: crypto-report-8
+slug: mica-payments
+aliases:
+  - /en/post/crypto-report-8/
+  - /en/post/cr8/
 date : 2024-05-23 
 description : Entry into force of MiCA
 tags: cryptoreflexion

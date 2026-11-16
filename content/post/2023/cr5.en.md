@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#5 - 2023 - the summer of public consultations
-slug: crypto-report-5
+slug: crypto-public-consultations-2023
+aliases:
+  - /en/post/crypto-report-5/
+  - /en/post/cr5/
 description: Various regulators have launched public consultations aimed at regulating the crypto-asset market. Here is a brief overview.
 date : 2023-07-20
 tags: cryptoreflexion

@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#4 - le rôle du régulateur
+slug: role-regulateur-crypto-actifs
+aliases:
+  - /post/cr4/
 description: Réflexion sur le rôle du régulateur au 21e siècles.
 date : 2023-06-03
 tags: cryptoreflexion
