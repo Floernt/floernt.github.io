@@ -38,6 +38,7 @@ This is also why the "therapeutic practices" I describe are responses to the pha
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
 - [Entry Point#4: expression, thought and singularity](https://reflexions.florianernotte.be/en/post/expression-thought-singularity-ai/)
+- [Who Thinks When I Think? Reading Benoît Bergeret](https://reflexions.florianernotte.be/en/post/who-thinks-when-i-think/)
 
 ---
 

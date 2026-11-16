@@ -39,6 +39,7 @@ The "therapeutic practices" I describe are pharmacological gestures. They are no
 - [Knowing without doing. Doing without knowing.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Ethics and compliance. Beyond the hype.](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/)
 - [Entry Point#4: expression, thought and singularity](https://reflexions.florianernotte.be/en/post/expression-thought-singularity-ai/)
+- [Who Thinks When I Think? Reading Benoît Bergeret](https://reflexions.florianernotte.be/en/post/who-thinks-when-i-think/)
 
 ---
 

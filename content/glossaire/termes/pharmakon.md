@@ -37,6 +37,7 @@ C'est aussi pourquoi les "pratiques thérapeutiques" que je décris sont des ré
 - [Phénoménologie d'une pratique avec l'IAG (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
 - [Point d'entrée#4 : expression, pensée et singularité](https://reflexions.florianernotte.be/post/expression-pensee-singularite-ia/)
+- [Qui pense quand je pense ? Lecture de Benoît Bergeret](https://reflexions.florianernotte.be/post/qui-pense-quand-je-pense/)
 
 ---
 

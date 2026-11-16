@@ -36,6 +36,7 @@ La prolétarisation n'est jamais seulement une décision individuelle. Elle rés
 - [Phénoménologie d'une pratique avec l'IAG (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Human in the loop, qu'y fait-on, au juste, dans cette boucle](https://reflexions.florianernotte.be/post/humanintheloop/)
 - [Point d'entrée#2 : IA & effort](https://reflexions.florianernotte.be/post/ia-ecriture-effort/)
+- [Qui pense quand je pense ? Lecture de Benoît Bergeret](https://reflexions.florianernotte.be/post/qui-pense-quand-je-pense/)
 
 ---
 

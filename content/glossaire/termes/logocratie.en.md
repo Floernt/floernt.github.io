@@ -31,6 +31,7 @@ Individuals who master the codes of the algorithmically rewarded format (fragmen
 
 - [The political impact of social media](https://reflexions.florianernotte.be/post/impact-politique-r%C3%A9seaux-sociaux/)
 - [How AI is changing our system-society](https://reflexions.florianernotte.be/post/societe-systeme/)
+- [Who Thinks When I Think? Reading Benoît Bergeret](https://reflexions.florianernotte.be/en/post/who-thinks-when-i-think/)
 
 ---
 
