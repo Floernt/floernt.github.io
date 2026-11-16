@@ -30,6 +30,7 @@ Les individus qui maîtrisent les codes du format algorithmiquement récompensé
 
 - [L'impact politique des réseaux sociaux](https://reflexions.florianernotte.be/post/impact-politique-r%C3%A9seaux-sociaux/)
 - [Comment l'IA change notre société-système ?](https://reflexions.florianernotte.be/post/societe-systeme/)
+- [Qui pense quand je pense ? Lecture de Benoît Bergeret](https://reflexions.florianernotte.be/post/qui-pense-quand-je-pense/)
 
 ---
 

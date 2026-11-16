@@ -36,6 +36,7 @@ Les "pratiques thérapeutiques" que je décris sont des gestes pharmacologiques.
 - [Savoir sans faire. Faire sans savoir.](https://reflexions.florianernotte.be/post/depossession-operatoire/)
 - [Éthique et conformité. Au delà de la hype.](https://reflexions.florianernotte.be/post/ethique-conformit%C3%A9/)
 - [Point d'entrée#4 : expression, pensée et singularité](https://reflexions.florianernotte.be/post/expression-pensee-singularite-ia/)
+- [Qui pense quand je pense ? Lecture de Benoît Bergeret](https://reflexions.florianernotte.be/post/qui-pense-quand-je-pense/)
 
 ---
 

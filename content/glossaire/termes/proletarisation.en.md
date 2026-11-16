@@ -37,6 +37,7 @@ Proletarianization is never merely an individual decision. It results from an ev
 - [Phenomenology of a practice with generative AI (2026)](https://reflexions.florianernotte.be/post/phenomenologie2026/)
 - [Human in the loop: what, exactly, are we doing in this loop?](https://reflexions.florianernotte.be/en/post/human-in-the-loop/)
 - [Entry Point#2: AI & effort](https://reflexions.florianernotte.be/en/post/ai-writing-effort/)
+- [Who Thinks When I Think? Reading Benoît Bergeret](https://reflexions.florianernotte.be/en/post/who-thinks-when-i-think/)
 
 ---
 
