@@ -7,6 +7,12 @@ other = "All my notes are available"
 [here]
 other = "here"
 
+[newsletterLine]
+other = "Get the duality notes by email:"
+
+[subscribe]
+other = "subscribe to the newsletter"
+
 [hello]
 other = "Hello!"
 
