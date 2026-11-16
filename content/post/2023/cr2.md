@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#2
+slug: psan-france-renforcement-reglementaire
+aliases:
+  - /post/cr2/
 description: Réflexions sur l'actualité législative française et le renforcement réglementaire du PSAN.
 date : 2023-01-30
 tldr: 

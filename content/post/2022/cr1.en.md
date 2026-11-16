@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#1 - Privacy and crypto-assets an impossible marriage?
-slug: crypto-report-1
+slug: privacy-crypto-assets
+aliases:
+  - /en/post/crypto-report-1/
+  - /en/post/cr1/
 description: Privacy and crypto-assets. An impossible marriage. How to reconcile fundamental freedoms with the fight against money laundering
 date : 2022-12-22
 tldr: How to reconcile fundamental freedoms with the fight against money laundering?

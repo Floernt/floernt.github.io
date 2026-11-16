@@ -1,5 +1,8 @@
 ---
 title: CryptoReflexions#5 - 2023 - l'été des consultations publiques
+slug: consultations-publiques-crypto-2023
+aliases:
+  - /post/cr5/
 description: Différents régulateurs ont lancé des consultations publiques dans le but d'encadrer le marché des crypto-actifs. Voici un petit tour d'horizon.
 date : 2023-07-20
 tags: cryptoreflexion

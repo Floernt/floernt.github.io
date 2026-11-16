@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#2
-slug: crypto-report-2
+slug: france-casp-regulation
+aliases:
+  - /en/post/crypto-report-2/
+  - /en/post/cr2/
 description: Reflections on French legislative developments and the strengthening of PSAN regulation.
 date : 2023-01-30
 tldr: 

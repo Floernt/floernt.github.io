@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#3 - the principle of technological neutrality applied to the crypto-asset sector
-slug: crypto-report-3
+slug: technological-neutrality-crypto-assets
+aliases:
+  - /en/post/crypto-report-3/
+  - /en/post/cr3/
 description: Regulate businesses and usage, not technology. A brief overview of the principle of technological neutrality.
 date : 2023-02-20
 tldr: 

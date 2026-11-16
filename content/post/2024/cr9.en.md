@@ -1,6 +1,9 @@
 ---
 title: CryptoReflexions#9 - The diseases of blockchain and the EU regulation on instant payments
-slug: crypto-report-9
+slug: blockchain-diseases-instant-payments
+aliases:
+  - /en/post/crypto-report-9/
+  - /en/post/cr9/
 date : 2024-09-01 
 description : The diseases of blockchain and the EU regulation on instant payments
 tags: cryptoreflexion
